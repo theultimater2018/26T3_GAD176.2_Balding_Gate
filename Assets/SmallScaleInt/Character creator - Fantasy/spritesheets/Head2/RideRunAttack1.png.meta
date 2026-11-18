@@ -1,0 +1,3373 @@
+fileFormatVersion: 2
+guid: e3e988d3c4954454a82841e5936317f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2021572129751743899
+    second: RideRunAttack1_0
+  - first:
+      213: 652155491592698730
+    second: RideRunAttack1_1
+  - first:
+      213: 3172860531027579616
+    second: RideRunAttack1_2
+  - first:
+      213: -2502867843009054954
+    second: RideRunAttack1_3
+  - first:
+      213: 7026311984971406666
+    second: RideRunAttack1_4
+  - first:
+      213: -2095374255183745034
+    second: RideRunAttack1_5
+  - first:
+      213: 894092961107280540
+    second: RideRunAttack1_6
+  - first:
+      213: 3275488113722459917
+    second: RideRunAttack1_7
+  - first:
+      213: 8157852908316381550
+    second: RideRunAttack1_8
+  - first:
+      213: 2853965907429702445
+    second: RideRunAttack1_9
+  - first:
+      213: 8994759094706019276
+    second: RideRunAttack1_10
+  - first:
+      213: -8124819956158654824
+    second: RideRunAttack1_11
+  - first:
+      213: 653664947476724388
+    second: RideRunAttack1_12
+  - first:
+      213: 3094145124089279693
+    second: RideRunAttack1_13
+  - first:
+      213: 3158884649252023311
+    second: RideRunAttack1_14
+  - first:
+      213: 3679747602285631579
+    second: RideRunAttack1_15
+  - first:
+      213: 5813959492295948563
+    second: RideRunAttack1_16
+  - first:
+      213: 4740044108338425496
+    second: RideRunAttack1_17
+  - first:
+      213: 1155151439166472620
+    second: RideRunAttack1_18
+  - first:
+      213: 390837169674337388
+    second: RideRunAttack1_19
+  - first:
+      213: -2868177719017767185
+    second: RideRunAttack1_20
+  - first:
+      213: -2582651126002346884
+    second: RideRunAttack1_21
+  - first:
+      213: -5748409969957239873
+    second: RideRunAttack1_22
+  - first:
+      213: -8915984263262313211
+    second: RideRunAttack1_23
+  - first:
+      213: 1509885380929134918
+    second: RideRunAttack1_24
+  - first:
+      213: -4631925403001691721
+    second: RideRunAttack1_25
+  - first:
+      213: -7529834993459764255
+    second: RideRunAttack1_26
+  - first:
+      213: -7377729035499492761
+    second: RideRunAttack1_27
+  - first:
+      213: 3623478007348112255
+    second: RideRunAttack1_28
+  - first:
+      213: -638377204850752502
+    second: RideRunAttack1_29
+  - first:
+      213: 1649110858571333847
+    second: RideRunAttack1_30
+  - first:
+      213: -9058106916620327948
+    second: RideRunAttack1_31
+  - first:
+      213: 5901695197245631089
+    second: RideRunAttack1_32
+  - first:
+      213: 8272745039182520940
+    second: RideRunAttack1_33
+  - first:
+      213: -5267224482802393146
+    second: RideRunAttack1_0_0
+  - first:
+      213: -7407159475543981544
+    second: RideRunAttack1_0_1
+  - first:
+      213: 3891236174605602840
+    second: RideRunAttack1_0_2
+  - first:
+      213: -3464459848336691730
+    second: RideRunAttack1_0_3
+  - first:
+      213: 7478289554926298085
+    second: RideRunAttack1_0_4
+  - first:
+      213: -1305751073212776232
+    second: RideRunAttack1_0_5
+  - first:
+      213: -873412783039027788
+    second: RideRunAttack1_0_6
+  - first:
+      213: 8149798366048324780
+    second: RideRunAttack1_0_7
+  - first:
+      213: -7672552598799490773
+    second: RideRunAttack1_0_8
+  - first:
+      213: 6848617412629554739
+    second: RideRunAttack1_0_9
+  - first:
+      213: -8143184197893784712
+    second: RideRunAttack1_0_10
+  - first:
+      213: 2981403631998154737
+    second: RideRunAttack1_0_11
+  - first:
+      213: -7531279370681803572
+    second: RideRunAttack1_0_12
+  - first:
+      213: -6323157653518809711
+    second: RideRunAttack1_0_13
+  - first:
+      213: -161312574474433770
+    second: RideRunAttack1_0_14
+  - first:
+      213: 4871778411214432640
+    second: RideRunAttack1_1_0
+  - first:
+      213: 4062417453183969204
+    second: RideRunAttack1_1_1
+  - first:
+      213: 6933099591356492386
+    second: RideRunAttack1_1_2
+  - first:
+      213: 3182834154746737409
+    second: RideRunAttack1_1_3
+  - first:
+      213: 3559398047318664347
+    second: RideRunAttack1_1_4
+  - first:
+      213: 7893383054905981818
+    second: RideRunAttack1_1_5
+  - first:
+      213: -5392815469897315576
+    second: RideRunAttack1_1_6
+  - first:
+      213: 2138301699584519152
+    second: RideRunAttack1_1_7
+  - first:
+      213: 3392722402434955295
+    second: RideRunAttack1_1_8
+  - first:
+      213: 5596460617269210033
+    second: RideRunAttack1_1_9
+  - first:
+      213: 8411182172391326237
+    second: RideRunAttack1_1_10
+  - first:
+      213: 8482652804549357697
+    second: RideRunAttack1_1_11
+  - first:
+      213: 7475548268467889301
+    second: RideRunAttack1_1_12
+  - first:
+      213: 8181877887530358143
+    second: RideRunAttack1_1_13
+  - first:
+      213: -6347562293819432528
+    second: RideRunAttack1_1_14
+  - first:
+      213: -3295981809086626619
+    second: RideRunAttack1_2_0
+  - first:
+      213: -2379338771415481885
+    second: RideRunAttack1_2_1
+  - first:
+      213: 3044163839466411372
+    second: RideRunAttack1_2_2
+  - first:
+      213: -1608379070850871979
+    second: RideRunAttack1_2_3
+  - first:
+      213: -2129149868622761118
+    second: RideRunAttack1_2_4
+  - first:
+      213: 8784689274828151367
+    second: RideRunAttack1_2_5
+  - first:
+      213: -8789787201045270901
+    second: RideRunAttack1_2_6
+  - first:
+      213: -1421140244631698179
+    second: RideRunAttack1_2_7
+  - first:
+      213: -8751360903159150279
+    second: RideRunAttack1_2_8
+  - first:
+      213: -4679924608028739069
+    second: RideRunAttack1_2_9
+  - first:
+      213: 3687557418759662069
+    second: RideRunAttack1_2_10
+  - first:
+      213: -1885038206017749456
+    second: RideRunAttack1_2_11
+  - first:
+      213: 6061822045465357144
+    second: RideRunAttack1_2_12
+  - first:
+      213: -8485326702563799020
+    second: RideRunAttack1_2_13
+  - first:
+      213: -1577841545856783541
+    second: RideRunAttack1_2_14
+  - first:
+      213: 4751739799109035114
+    second: RideRunAttack1_3_0
+  - first:
+      213: -6392631225564506560
+    second: RideRunAttack1_3_1
+  - first:
+      213: -1539445123332327405
+    second: RideRunAttack1_3_2
+  - first:
+      213: -8114179449590583484
+    second: RideRunAttack1_3_3
+  - first:
+      213: 6739715246417057856
+    second: RideRunAttack1_3_4
+  - first:
+      213: 6635211810008475483
+    second: RideRunAttack1_3_5
+  - first:
+      213: 5723604232221277874
+    second: RideRunAttack1_3_6
+  - first:
+      213: 7890087415628024264
+    second: RideRunAttack1_3_7
+  - first:
+      213: -3536376850348448124
+    second: RideRunAttack1_3_8
+  - first:
+      213: -1603825202221611602
+    second: RideRunAttack1_3_9
+  - first:
+      213: -2197205168506485776
+    second: RideRunAttack1_3_10
+  - first:
+      213: 6641164373048566974
+    second: RideRunAttack1_3_11
+  - first:
+      213: -6647915890367838124
+    second: RideRunAttack1_3_12
+  - first:
+      213: -6633650388190950259
+    second: RideRunAttack1_3_13
+  - first:
+      213: -7513748831330542556
+    second: RideRunAttack1_3_14
+  - first:
+      213: -3623229145684747624
+    second: RideRunAttack1_4_0
+  - first:
+      213: -7434942396260125793
+    second: RideRunAttack1_4_1
+  - first:
+      213: 1033324057194954171
+    second: RideRunAttack1_4_2
+  - first:
+      213: -2928162360025376192
+    second: RideRunAttack1_4_3
+  - first:
+      213: -3841127315595772691
+    second: RideRunAttack1_4_4
+  - first:
+      213: 2251370005938426706
+    second: RideRunAttack1_4_5
+  - first:
+      213: 7584382189958536270
+    second: RideRunAttack1_4_6
+  - first:
+      213: 8719173268747924897
+    second: RideRunAttack1_4_7
+  - first:
+      213: -2055814071641781294
+    second: RideRunAttack1_4_8
+  - first:
+      213: -8557143738946907729
+    second: RideRunAttack1_4_9
+  - first:
+      213: 1489882578831645290
+    second: RideRunAttack1_4_10
+  - first:
+      213: 1172623898357942509
+    second: RideRunAttack1_4_11
+  - first:
+      213: -2400585505417801545
+    second: RideRunAttack1_4_12
+  - first:
+      213: -3203168838149923726
+    second: RideRunAttack1_4_13
+  - first:
+      213: -2574643783567405787
+    second: RideRunAttack1_4_14
+  - first:
+      213: -2167643382657986893
+    second: RideRunAttack1_5_0
+  - first:
+      213: -5513701617769926633
+    second: RideRunAttack1_5_1
+  - first:
+      213: -1189367222349884989
+    second: RideRunAttack1_5_2
+  - first:
+      213: 7981033739263813778
+    second: RideRunAttack1_5_3
+  - first:
+      213: 6474251157656566587
+    second: RideRunAttack1_5_4
+  - first:
+      213: -8337778591154350587
+    second: RideRunAttack1_5_5
+  - first:
+      213: -2462607383714395796
+    second: RideRunAttack1_5_6
+  - first:
+      213: 6324833829383217033
+    second: RideRunAttack1_5_7
+  - first:
+      213: -5189418759896253359
+    second: RideRunAttack1_5_8
+  - first:
+      213: -1573382647375845665
+    second: RideRunAttack1_5_9
+  - first:
+      213: -5630534928355950366
+    second: RideRunAttack1_5_10
+  - first:
+      213: 2343918318340156502
+    second: RideRunAttack1_5_11
+  - first:
+      213: 265620930301491975
+    second: RideRunAttack1_5_12
+  - first:
+      213: -2930396310193674761
+    second: RideRunAttack1_5_13
+  - first:
+      213: -133425513964718241
+    second: RideRunAttack1_5_14
+  - first:
+      213: 300274304138345926
+    second: RideRunAttack1_6_0
+  - first:
+      213: 7910487304438627683
+    second: RideRunAttack1_6_1
+  - first:
+      213: 6185288308813411690
+    second: RideRunAttack1_6_2
+  - first:
+      213: 1880379425233208677
+    second: RideRunAttack1_6_3
+  - first:
+      213: -6151903902977624285
+    second: RideRunAttack1_6_4
+  - first:
+      213: -8337644483758674479
+    second: RideRunAttack1_6_5
+  - first:
+      213: 5050416590064473013
+    second: RideRunAttack1_6_6
+  - first:
+      213: 663973118466399230
+    second: RideRunAttack1_6_7
+  - first:
+      213: -4240697774883683557
+    second: RideRunAttack1_6_8
+  - first:
+      213: -6680526661656245315
+    second: RideRunAttack1_6_9
+  - first:
+      213: 8655971739553955257
+    second: RideRunAttack1_6_10
+  - first:
+      213: 4011898197829189711
+    second: RideRunAttack1_6_11
+  - first:
+      213: 6655667621229022746
+    second: RideRunAttack1_6_12
+  - first:
+      213: -8565505302263639177
+    second: RideRunAttack1_6_13
+  - first:
+      213: 1110965075284880501
+    second: RideRunAttack1_6_14
+  - first:
+      213: -991355094894375005
+    second: RideRunAttack1_7_0
+  - first:
+      213: 1322886275873651622
+    second: RideRunAttack1_7_1
+  - first:
+      213: 7447634750919524814
+    second: RideRunAttack1_7_2
+  - first:
+      213: 8274537940823891102
+    second: RideRunAttack1_7_3
+  - first:
+      213: -8177119696551782495
+    second: RideRunAttack1_7_4
+  - first:
+      213: -7842090105606665951
+    second: RideRunAttack1_7_5
+  - first:
+      213: -5397625369794680541
+    second: RideRunAttack1_7_6
+  - first:
+      213: 4897303514562883174
+    second: RideRunAttack1_7_7
+  - first:
+      213: -7938781217628745624
+    second: RideRunAttack1_7_8
+  - first:
+      213: -4119809033772601569
+    second: RideRunAttack1_7_9
+  - first:
+      213: 982898215541603761
+    second: RideRunAttack1_7_10
+  - first:
+      213: 1838020037724903292
+    second: RideRunAttack1_7_11
+  - first:
+      213: -6991527603626535507
+    second: RideRunAttack1_7_12
+  - first:
+      213: 8069483465320549401
+    second: RideRunAttack1_7_13
+  - first:
+      213: -7422509838476090511
+    second: RideRunAttack1_7_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RideRunAttack1_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf92566d3f07e6b0800000000000000
+      internalID: -5267224482802393146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8124889a3bb743990800000000000000
+      internalID: -7407159475543981544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81054842fa2700630800000000000000
+      internalID: 3891236174605602840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeda9499f14cbefc0800000000000000
+      internalID: -3464459848336691730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e365e08ab838c760800000000000000
+      internalID: 7478289554926298085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0411c215a01ede0800000000000000
+      internalID: -1305751073212776232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b56cac83b301e3f0800000000000000
+      internalID: -873412783039027788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac8e573f66e91170800000000000000
+      internalID: 8149798366048324780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b216e04ff0e958590800000000000000
+      internalID: -7672552598799490773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336e652504d2b0f50800000000000000
+      internalID: 6848617412629554739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b77ffcd199dfe80800000000000000
+      internalID: -8143184197893784712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f73f41aec2106920800000000000000
+      internalID: 2981403631998154737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc984690558b7790800000000000000
+      internalID: -7531279370681803572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195083b9d91af38a0800000000000000
+      internalID: -6323157653518809711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_0_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bc5a47117e2cdf0800000000000000
+      internalID: -161312574474433770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0896ad837a80c9340800000000000000
+      internalID: 4871778411214432640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7a06a662b906830800000000000000
+      internalID: 4062417453183969204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aa53f5851573060800000000000000
+      internalID: 6933099591356492386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103f8a4ecc2bb2c20800000000000000
+      internalID: 3182834154746737409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94e5a06aa5856130800000000000000
+      internalID: 3559398047318664347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b32c7411eea8d60800000000000000
+      internalID: 7893383054905981818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b0a8907eed825b0800000000000000
+      internalID: -5392815469897315576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb695a0116ccad10800000000000000
+      internalID: 2138301699584519152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1835a2bc0f551f20800000000000000
+      internalID: 3392722402434955295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb6bc3b74f9aad40800000000000000
+      internalID: 5596460617269210033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12cb761f958ab470800000000000000
+      internalID: 8411182172391326237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180b22068cf68b570800000000000000
+      internalID: 8482652804549357697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594a0530b8b7eb760800000000000000
+      internalID: 7475548268467889301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75ded9d69edb8170800000000000000
+      internalID: 8181877887530358143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_1_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1aa3f79bde8e7a0800000000000000
+      internalID: -6347562293819432528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c40e3be1025242d0800000000000000
+      internalID: -3295981809086626619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e147716ef3eafed0800000000000000
+      internalID: -2379338771415481885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c651c7122ea0f3a20800000000000000
+      internalID: 3044163839466411372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dc2c1b1c3eda9e0800000000000000
+      internalID: -1608379070850871979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263bb27a97db372e0800000000000000
+      internalID: -2129149868622761118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ad0582a5c79e970800000000000000
+      internalID: 8784689274828151367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eeb666c17640680800000000000000
+      internalID: -8789787201045270901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df447be1a78174ce0800000000000000
+      internalID: -1421140244631698179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93905f110abec8680800000000000000
+      internalID: -8751360903159150279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a76d24d519d0fb0800000000000000
+      internalID: -4679924608028739069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9a6025fe5dc2330800000000000000
+      internalID: 3687557418759662069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eb54e2dbff6d5e0800000000000000
+      internalID: -1885038206017749456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b289f880bef1450800000000000000
+      internalID: 6061822045465357144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4105c8a32501e3a80800000000000000
+      internalID: -8485326702563799020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_2_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b6a5b49716a1ae0800000000000000
+      internalID: -1577841545856783541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64eaf6eb2291f140800000000000000
+      internalID: 4751739799109035114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046582c15cfc847a0800000000000000
+      internalID: -6392631225564506560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318b19011dac2aae0800000000000000
+      internalID: -1539445123332327405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fe06708c4a46f80800000000000000
+      internalID: -8114179449590583484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04819fdde47488d50800000000000000
+      internalID: 6739715246417057856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5728018cf1051c50800000000000000
+      internalID: 6635211810008475483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beb87869b35e6f40800000000000000
+      internalID: 5723604232221277874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9c94773b83f7d60800000000000000
+      internalID: 7890087415628024264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486e01bbdf34ceec0800000000000000
+      internalID: -3536376850348448124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea503cbd9711eb9e0800000000000000
+      internalID: -1603825202221611602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3c4806a85f181e0800000000000000
+      internalID: -2197205168506485776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb42a869fc72a2c50800000000000000
+      internalID: 6641164373048566974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45843f948bbddb3a0800000000000000
+      internalID: -6647915890367838124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c0fb75e1a80f3a0800000000000000
+      internalID: -6633650388190950259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_3_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c59095f3dc9b790800000000000000
+      internalID: -7513748831330542556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a5e97e944b7bdc0800000000000000
+      internalID: -3623229145684747624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f937c695847c1d890800000000000000
+      internalID: -7434942396260125793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd78f651ca175e00800000000000000
+      internalID: 1033324057194954171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a940ef8d31d57d0800000000000000
+      internalID: -2928162360025376192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec3dd0ce0391bac0800000000000000
+      internalID: -3841127315595772691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253dde597197e3f10800000000000000
+      internalID: 2251370005938426706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c17410b63214960800000000000000
+      internalID: 7584382189958536270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a53dca44e9b00970800000000000000
+      internalID: 8719173268747924897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbca877ef74873e0800000000000000
+      internalID: -2055814071641781294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa19c1c6b1bee3980800000000000000
+      internalID: -8557143738946907729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a9d4ccf402da410800000000000000
+      internalID: 1489882578831645290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de842c4093ff54010800000000000000
+      internalID: 1172623898357942509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0de90a3386faed0800000000000000
+      internalID: -2400585505417801545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c197ea9ee0c83d0800000000000000
+      internalID: -3203168838149923726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_4_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d0c41be17054cd0800000000000000
+      internalID: -2574643783567405787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bec1f004dbfae1e0800000000000000
+      internalID: -2167643382657986893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710b35b67956b73b0800000000000000
+      internalID: -5513701617769926633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1975410d48e7fe0800000000000000
+      internalID: -1189367222349884989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2982a3986e352ce60800000000000000
+      internalID: 7981033739263813778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bf7c6302929d950800000000000000
+      internalID: 6474251157656566587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506536afb824a4c80800000000000000
+      internalID: -8337778591154350587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c690378c1af03ddd0800000000000000
+      internalID: -2462607383714395796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f92cf7bd256c750800000000000000
+      internalID: 6324833829383217033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cb2a1f12b7bf7b0800000000000000
+      internalID: -5189418759896253359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6266f71d83a2ae0800000000000000
+      internalID: -1573382647375845665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e00ae380525cd1b0800000000000000
+      internalID: -5630534928355950366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c223bba45478020800000000000000
+      internalID: 2343918318340156502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b778b24dcafa300800000000000000
+      internalID: 265620930301491975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f56acfe4142557d0800000000000000
+      internalID: -2930396310193674761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_5_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57b824b33af52ef0800000000000000
+      internalID: -133425513964718241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdf75183e9ca2400800000000000000
+      internalID: 300274304138345926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d3d45ba42b7cd60800000000000000
+      internalID: 7910487304438627683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65333022fe86d550800000000000000
+      internalID: 6185288308813411690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5658af3ef13781a10800000000000000
+      internalID: 1880379425233208677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327fda29efb00aaa0800000000000000
+      internalID: -6151903902977624285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dda11a448cba4c80800000000000000
+      internalID: -8337644483758674479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b35882612fa61640800000000000000
+      internalID: 5050416590064473013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb199a8808e63900800000000000000
+      internalID: 663973118466399230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13c44887d30625c0800000000000000
+      internalID: -4240697774883683557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb047b65600a43a0800000000000000
+      internalID: -6680526661656245315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdfee19f60302870800000000000000
+      internalID: 8655971739553955257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4083aca7202da730800000000000000
+      internalID: 4011898197829189711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ecc62307ead5c50800000000000000
+      internalID: 6655667621229022746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773d9d04f46312980800000000000000
+      internalID: -8565505302263639177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_6_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c683e89d0fa6f00800000000000000
+      internalID: 1110965075284880501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af0c8a2bcffd32f0800000000000000
+      internalID: -991355094894375005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab30b71f06db5210800000000000000
+      internalID: 1322886275873651622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1c961c8505b5760800000000000000
+      internalID: 7447634750919524814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cdc43ba6015d270800000000000000
+      internalID: 8274537940823891102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a75e21d5f8058e80800000000000000
+      internalID: -8177119696551782495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12985be199c4b2390800000000000000
+      internalID: -7842090105606665951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32960c2f258c715b0800000000000000
+      internalID: -5397625369794680541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eeac67997b6f340800000000000000
+      internalID: 4897303514562883174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86012b54b88c3d190800000000000000
+      internalID: -7938781217628745624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fe98fe28f73d6c0800000000000000
+      internalID: -4119809033772601569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdf8bb28b4f3ad00800000000000000
+      internalID: 982898215541603761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7794ae6c75f18910800000000000000
+      internalID: 1838020037724903292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5908cefaa19fe90800000000000000
+      internalID: -6991527603626535507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cc15f25709cff60800000000000000
+      internalID: 8069483465320549401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RideRunAttack1_7_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1736ac7c0a2fdf890800000000000000
+      internalID: -7422509838476090511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RideRunAttack1_0: -2021572129751743899
+      RideRunAttack1_0_0: -5267224482802393146
+      RideRunAttack1_0_1: -7407159475543981544
+      RideRunAttack1_0_10: -8143184197893784712
+      RideRunAttack1_0_11: 2981403631998154737
+      RideRunAttack1_0_12: -7531279370681803572
+      RideRunAttack1_0_13: -6323157653518809711
+      RideRunAttack1_0_14: -161312574474433770
+      RideRunAttack1_0_2: 3891236174605602840
+      RideRunAttack1_0_3: -3464459848336691730
+      RideRunAttack1_0_4: 7478289554926298085
+      RideRunAttack1_0_5: -1305751073212776232
+      RideRunAttack1_0_6: -873412783039027788
+      RideRunAttack1_0_7: 8149798366048324780
+      RideRunAttack1_0_8: -7672552598799490773
+      RideRunAttack1_0_9: 6848617412629554739
+      RideRunAttack1_1: 652155491592698730
+      RideRunAttack1_10: 8994759094706019276
+      RideRunAttack1_11: -8124819956158654824
+      RideRunAttack1_12: 653664947476724388
+      RideRunAttack1_13: 3094145124089279693
+      RideRunAttack1_14: 3158884649252023311
+      RideRunAttack1_15: 3679747602285631579
+      RideRunAttack1_16: 5813959492295948563
+      RideRunAttack1_17: 4740044108338425496
+      RideRunAttack1_18: 1155151439166472620
+      RideRunAttack1_19: 390837169674337388
+      RideRunAttack1_1_0: 4871778411214432640
+      RideRunAttack1_1_1: 4062417453183969204
+      RideRunAttack1_1_10: 8411182172391326237
+      RideRunAttack1_1_11: 8482652804549357697
+      RideRunAttack1_1_12: 7475548268467889301
+      RideRunAttack1_1_13: 8181877887530358143
+      RideRunAttack1_1_14: -6347562293819432528
+      RideRunAttack1_1_2: 6933099591356492386
+      RideRunAttack1_1_3: 3182834154746737409
+      RideRunAttack1_1_4: 3559398047318664347
+      RideRunAttack1_1_5: 7893383054905981818
+      RideRunAttack1_1_6: -5392815469897315576
+      RideRunAttack1_1_7: 2138301699584519152
+      RideRunAttack1_1_8: 3392722402434955295
+      RideRunAttack1_1_9: 5596460617269210033
+      RideRunAttack1_2: 3172860531027579616
+      RideRunAttack1_20: -2868177719017767185
+      RideRunAttack1_21: -2582651126002346884
+      RideRunAttack1_22: -5748409969957239873
+      RideRunAttack1_23: -8915984263262313211
+      RideRunAttack1_24: 1509885380929134918
+      RideRunAttack1_25: -4631925403001691721
+      RideRunAttack1_26: -7529834993459764255
+      RideRunAttack1_27: -7377729035499492761
+      RideRunAttack1_28: 3623478007348112255
+      RideRunAttack1_29: -638377204850752502
+      RideRunAttack1_2_0: -3295981809086626619
+      RideRunAttack1_2_1: -2379338771415481885
+      RideRunAttack1_2_10: 3687557418759662069
+      RideRunAttack1_2_11: -1885038206017749456
+      RideRunAttack1_2_12: 6061822045465357144
+      RideRunAttack1_2_13: -8485326702563799020
+      RideRunAttack1_2_14: -1577841545856783541
+      RideRunAttack1_2_2: 3044163839466411372
+      RideRunAttack1_2_3: -1608379070850871979
+      RideRunAttack1_2_4: -2129149868622761118
+      RideRunAttack1_2_5: 8784689274828151367
+      RideRunAttack1_2_6: -8789787201045270901
+      RideRunAttack1_2_7: -1421140244631698179
+      RideRunAttack1_2_8: -8751360903159150279
+      RideRunAttack1_2_9: -4679924608028739069
+      RideRunAttack1_3: -2502867843009054954
+      RideRunAttack1_30: 1649110858571333847
+      RideRunAttack1_31: -9058106916620327948
+      RideRunAttack1_32: 5901695197245631089
+      RideRunAttack1_33: 8272745039182520940
+      RideRunAttack1_3_0: 4751739799109035114
+      RideRunAttack1_3_1: -6392631225564506560
+      RideRunAttack1_3_10: -2197205168506485776
+      RideRunAttack1_3_11: 6641164373048566974
+      RideRunAttack1_3_12: -6647915890367838124
+      RideRunAttack1_3_13: -6633650388190950259
+      RideRunAttack1_3_14: -7513748831330542556
+      RideRunAttack1_3_2: -1539445123332327405
+      RideRunAttack1_3_3: -8114179449590583484
+      RideRunAttack1_3_4: 6739715246417057856
+      RideRunAttack1_3_5: 6635211810008475483
+      RideRunAttack1_3_6: 5723604232221277874
+      RideRunAttack1_3_7: 7890087415628024264
+      RideRunAttack1_3_8: -3536376850348448124
+      RideRunAttack1_3_9: -1603825202221611602
+      RideRunAttack1_4: 7026311984971406666
+      RideRunAttack1_4_0: -3623229145684747624
+      RideRunAttack1_4_1: -7434942396260125793
+      RideRunAttack1_4_10: 1489882578831645290
+      RideRunAttack1_4_11: 1172623898357942509
+      RideRunAttack1_4_12: -2400585505417801545
+      RideRunAttack1_4_13: -3203168838149923726
+      RideRunAttack1_4_14: -2574643783567405787
+      RideRunAttack1_4_2: 1033324057194954171
+      RideRunAttack1_4_3: -2928162360025376192
+      RideRunAttack1_4_4: -3841127315595772691
+      RideRunAttack1_4_5: 2251370005938426706
+      RideRunAttack1_4_6: 7584382189958536270
+      RideRunAttack1_4_7: 8719173268747924897
+      RideRunAttack1_4_8: -2055814071641781294
+      RideRunAttack1_4_9: -8557143738946907729
+      RideRunAttack1_5: -2095374255183745034
+      RideRunAttack1_5_0: -2167643382657986893
+      RideRunAttack1_5_1: -5513701617769926633
+      RideRunAttack1_5_10: -5630534928355950366
+      RideRunAttack1_5_11: 2343918318340156502
+      RideRunAttack1_5_12: 265620930301491975
+      RideRunAttack1_5_13: -2930396310193674761
+      RideRunAttack1_5_14: -133425513964718241
+      RideRunAttack1_5_2: -1189367222349884989
+      RideRunAttack1_5_3: 7981033739263813778
+      RideRunAttack1_5_4: 6474251157656566587
+      RideRunAttack1_5_5: -8337778591154350587
+      RideRunAttack1_5_6: -2462607383714395796
+      RideRunAttack1_5_7: 6324833829383217033
+      RideRunAttack1_5_8: -5189418759896253359
+      RideRunAttack1_5_9: -1573382647375845665
+      RideRunAttack1_6: 894092961107280540
+      RideRunAttack1_6_0: 300274304138345926
+      RideRunAttack1_6_1: 7910487304438627683
+      RideRunAttack1_6_10: 8655971739553955257
+      RideRunAttack1_6_11: 4011898197829189711
+      RideRunAttack1_6_12: 6655667621229022746
+      RideRunAttack1_6_13: -8565505302263639177
+      RideRunAttack1_6_14: 1110965075284880501
+      RideRunAttack1_6_2: 6185288308813411690
+      RideRunAttack1_6_3: 1880379425233208677
+      RideRunAttack1_6_4: -6151903902977624285
+      RideRunAttack1_6_5: -8337644483758674479
+      RideRunAttack1_6_6: 5050416590064473013
+      RideRunAttack1_6_7: 663973118466399230
+      RideRunAttack1_6_8: -4240697774883683557
+      RideRunAttack1_6_9: -6680526661656245315
+      RideRunAttack1_7: 3275488113722459917
+      RideRunAttack1_7_0: -991355094894375005
+      RideRunAttack1_7_1: 1322886275873651622
+      RideRunAttack1_7_10: 982898215541603761
+      RideRunAttack1_7_11: 1838020037724903292
+      RideRunAttack1_7_12: -6991527603626535507
+      RideRunAttack1_7_13: 8069483465320549401
+      RideRunAttack1_7_14: -7422509838476090511
+      RideRunAttack1_7_2: 7447634750919524814
+      RideRunAttack1_7_3: 8274537940823891102
+      RideRunAttack1_7_4: -8177119696551782495
+      RideRunAttack1_7_5: -7842090105606665951
+      RideRunAttack1_7_6: -5397625369794680541
+      RideRunAttack1_7_7: 4897303514562883174
+      RideRunAttack1_7_8: -7938781217628745624
+      RideRunAttack1_7_9: -4119809033772601569
+      RideRunAttack1_8: 8157852908316381550
+      RideRunAttack1_9: 2853965907429702445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

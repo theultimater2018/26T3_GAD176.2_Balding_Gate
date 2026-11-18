@@ -1,0 +1,3753 @@
+fileFormatVersion: 2
+guid: 0ca05d0b187d8df4a8702240249e4537
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5482610064963032989
+    second: Attack6_0
+  - first:
+      213: 8588242305356337402
+    second: Attack6_1
+  - first:
+      213: 8388299428283925649
+    second: Attack6_2
+  - first:
+      213: -4116145226623622012
+    second: Attack6_3
+  - first:
+      213: 2477931606612267982
+    second: Attack6_4
+  - first:
+      213: -4415310750801259997
+    second: Attack6_5
+  - first:
+      213: -9173961485564423041
+    second: Attack6_6
+  - first:
+      213: -6582215117842756502
+    second: Attack6_7
+  - first:
+      213: 3816629149387219719
+    second: Attack6_8
+  - first:
+      213: -1836294298157616417
+    second: Attack6_9
+  - first:
+      213: 5754472623818668727
+    second: Attack6_10
+  - first:
+      213: 8951991130065033030
+    second: Attack6_11
+  - first:
+      213: -8849063547872284540
+    second: Attack6_12
+  - first:
+      213: 3288266515918032718
+    second: Attack6_13
+  - first:
+      213: 1502812758225185886
+    second: Attack6_14
+  - first:
+      213: -1103204519212954524
+    second: Attack6_15
+  - first:
+      213: -5187209559835704157
+    second: Attack6_16
+  - first:
+      213: 97998670828491838
+    second: Attack6_17
+  - first:
+      213: 4769762448830630667
+    second: Attack6_18
+  - first:
+      213: 1862423397392950636
+    second: Attack6_19
+  - first:
+      213: -1284838472819610355
+    second: Attack6_20
+  - first:
+      213: -7759443615412677181
+    second: Attack6_21
+  - first:
+      213: 4397474108751545976
+    second: Attack6_22
+  - first:
+      213: 5645385526845793272
+    second: Attack6_23
+  - first:
+      213: -3286362456763965845
+    second: Attack6_24
+  - first:
+      213: -2249933905412135008
+    second: Attack6_25
+  - first:
+      213: -6674601850121833607
+    second: Attack6_26
+  - first:
+      213: 1676969201395235830
+    second: Attack6_27
+  - first:
+      213: 1862791737717480143
+    second: Attack6_28
+  - first:
+      213: 7478147688848751155
+    second: Attack6_29
+  - first:
+      213: -8133762427034425603
+    second: Attack6_30
+  - first:
+      213: -2336241889333851021
+    second: Attack6_31
+  - first:
+      213: 7649365338794386044
+    second: Attack6_32
+  - first:
+      213: 2443334804026522455
+    second: Attack6_33
+  - first:
+      213: -4901539942398015340
+    second: Attack6_34
+  - first:
+      213: 6197171345526712963
+    second: Attack6_35
+  - first:
+      213: 5376133167319943697
+    second: Attack6_36
+  - first:
+      213: 173466939409333356
+    second: Attack6_37
+  - first:
+      213: 858983976622314220
+    second: Attack6_38
+  - first:
+      213: 1523039001611937884
+    second: Attack6_39
+  - first:
+      213: 2509568075421887474
+    second: Attack6_40
+  - first:
+      213: 4678122681378791434
+    second: Attack6_41
+  - first:
+      213: 5237086616276729265
+    second: Attack6_42
+  - first:
+      213: 26647855230824684
+    second: Attack6_43
+  - first:
+      213: -6530220079372973461
+    second: Attack6_44
+  - first:
+      213: 8297744576033650499
+    second: Attack6_45
+  - first:
+      213: 3381939867442839605
+    second: Attack6_46
+  - first:
+      213: -5362314332113094575
+    second: Attack6_47
+  - first:
+      213: 2110155102031735298
+    second: Attack6_48
+  - first:
+      213: -3816122760002613218
+    second: Attack6_49
+  - first:
+      213: 6586199429867803982
+    second: Attack6_50
+  - first:
+      213: -4975315306366737143
+    second: Attack6_51
+  - first:
+      213: -1763882160008599473
+    second: Attack6_52
+  - first:
+      213: 5792397202794298088
+    second: Attack6_53
+  - first:
+      213: 7322384784542117493
+    second: Attack6_54
+  - first:
+      213: -1466613685072215313
+    second: Attack6_55
+  - first:
+      213: -1562041693199445081
+    second: Attack6_56
+  - first:
+      213: -1434004963008715347
+    second: Attack6_57
+  - first:
+      213: -6052007510416811485
+    second: Attack6_58
+  - first:
+      213: 2477022865516501874
+    second: Attack6_59
+  - first:
+      213: -5294832855542973234
+    second: Attack6_60
+  - first:
+      213: -4926641403506126160
+    second: Attack6_61
+  - first:
+      213: -2970884279213737188
+    second: Attack6_62
+  - first:
+      213: 2695602641647059738
+    second: Attack6_63
+  - first:
+      213: 2388074075607266135
+    second: Attack6_64
+  - first:
+      213: 2707218783930027159
+    second: Attack6_65
+  - first:
+      213: -216524187964897383
+    second: Attack6_66
+  - first:
+      213: 8643218916497201898
+    second: Attack6_67
+  - first:
+      213: 1596843304440734930
+    second: Attack6_68
+  - first:
+      213: 7855534077859502344
+    second: Attack6_69
+  - first:
+      213: 5500811198349450026
+    second: Attack6_70
+  - first:
+      213: 7136760368587915191
+    second: Attack6_71
+  - first:
+      213: 4097386375988648666
+    second: Attack6_72
+  - first:
+      213: -6218663834729780500
+    second: Attack6_73
+  - first:
+      213: -3411966227387051033
+    second: Attack6_74
+  - first:
+      213: 1006945840740082667
+    second: Attack6_75
+  - first:
+      213: 3593535218714196443
+    second: Attack6_76
+  - first:
+      213: -2726638767808260636
+    second: Attack6_77
+  - first:
+      213: -2665104732080991966
+    second: Attack6_78
+  - first:
+      213: 5101934506933592334
+    second: Attack6_79
+  - first:
+      213: -6862936497127994677
+    second: Attack6_80
+  - first:
+      213: -7547838791193279295
+    second: Attack6_81
+  - first:
+      213: 860875004998426884
+    second: Attack6_82
+  - first:
+      213: 6451579235971901929
+    second: Attack6_83
+  - first:
+      213: -8356120672668009055
+    second: Attack6_84
+  - first:
+      213: 2576400708236217592
+    second: Attack6_85
+  - first:
+      213: 8180600613560184579
+    second: Attack6_86
+  - first:
+      213: -6645117261912750383
+    second: Attack6_87
+  - first:
+      213: 1951480581889954697
+    second: Attack6_88
+  - first:
+      213: -6866376993643987007
+    second: Attack6_89
+  - first:
+      213: -1013614321756125684
+    second: Attack6_90
+  - first:
+      213: -6206449833631165351
+    second: Attack6_91
+  - first:
+      213: -3765387216455367510
+    second: Attack6_92
+  - first:
+      213: 228032337496222738
+    second: Attack6_93
+  - first:
+      213: 7665043073796748174
+    second: Attack6_94
+  - first:
+      213: 9188859702958786491
+    second: Attack6_95
+  - first:
+      213: 4274718240670057617
+    second: Attack6_96
+  - first:
+      213: -104725616252280301
+    second: Attack6_97
+  - first:
+      213: 5690947524841834239
+    second: Attack6_98
+  - first:
+      213: 508653222236612955
+    second: Attack6_99
+  - first:
+      213: 7947422393395370595
+    second: Attack6_100
+  - first:
+      213: 4850429389415556841
+    second: Attack6_101
+  - first:
+      213: 5475403772393723366
+    second: Attack6_102
+  - first:
+      213: 6326765127527322409
+    second: Attack6_103
+  - first:
+      213: 6436368496717003310
+    second: Attack6_104
+  - first:
+      213: -85852679476467239
+    second: Attack6_105
+  - first:
+      213: 3681082233908312177
+    second: Attack6_106
+  - first:
+      213: -7317517371992131577
+    second: Attack6_107
+  - first:
+      213: 8279324857854593233
+    second: Attack6_108
+  - first:
+      213: 2250641033428892484
+    second: Attack6_109
+  - first:
+      213: 6305445720900475502
+    second: Attack6_110
+  - first:
+      213: 1606691443344885578
+    second: Attack6_111
+  - first:
+      213: -4541259757713057322
+    second: Attack6_112
+  - first:
+      213: 1071520532876893272
+    second: Attack6_113
+  - first:
+      213: 6233225105848611718
+    second: Attack6_114
+  - first:
+      213: 8183518088999003726
+    second: Attack6_115
+  - first:
+      213: -4672608429604534631
+    second: Attack6_116
+  - first:
+      213: 4013348572265302344
+    second: Attack6_117
+  - first:
+      213: 5882264727863917920
+    second: Attack6_118
+  - first:
+      213: 3508857394624059271
+    second: Attack6_119
+  - first:
+      213: 4423519233288865461
+    second: Attack6_120
+  - first:
+      213: 1911916328248840236
+    second: Attack6_121
+  - first:
+      213: -8214730448512331774
+    second: Attack6_122
+  - first:
+      213: 601279024310456826
+    second: Attack6_123
+  - first:
+      213: 7198739701479259128
+    second: Attack6_124
+  - first:
+      213: 2847625041274459637
+    second: Attack6_125
+  - first:
+      213: 1538898711367749623
+    second: Attack6_126
+  - first:
+      213: 7198435811565406943
+    second: Attack6_127
+  - first:
+      213: 303753264348199241
+    second: Attack6_128
+  - first:
+      213: -3644864561152737762
+    second: Attack6_0_0
+  - first:
+      213: 1435067916599387615
+    second: Attack6_0_1
+  - first:
+      213: 3254910933360486780
+    second: Attack6_0_2
+  - first:
+      213: -4187452483307772497
+    second: Attack6_0_3
+  - first:
+      213: 2494197592193341302
+    second: Attack6_0_4
+  - first:
+      213: 1110568395504691698
+    second: Attack6_0_5
+  - first:
+      213: 6106755173121363367
+    second: Attack6_0_6
+  - first:
+      213: 31234974922349361
+    second: Attack6_0_7
+  - first:
+      213: 4245500506248270553
+    second: Attack6_0_8
+  - first:
+      213: 7372963805011876882
+    second: Attack6_0_9
+  - first:
+      213: 6733280516079134855
+    second: Attack6_0_10
+  - first:
+      213: -675669346207410570
+    second: Attack6_0_11
+  - first:
+      213: -7739044220954438746
+    second: Attack6_0_12
+  - first:
+      213: -1775415595917662217
+    second: Attack6_0_13
+  - first:
+      213: 5694738316932331789
+    second: Attack6_0_14
+  - first:
+      213: 7551674229103938861
+    second: Attack6_1_0
+  - first:
+      213: -4402962760148661122
+    second: Attack6_1_1
+  - first:
+      213: -8346073437405285878
+    second: Attack6_1_2
+  - first:
+      213: 553937463734360052
+    second: Attack6_1_3
+  - first:
+      213: -2979552080183109152
+    second: Attack6_1_4
+  - first:
+      213: -1966877620268716449
+    second: Attack6_1_5
+  - first:
+      213: -8921931374854545225
+    second: Attack6_1_6
+  - first:
+      213: 1657694137167343121
+    second: Attack6_1_7
+  - first:
+      213: -5260478901658820780
+    second: Attack6_1_8
+  - first:
+      213: 7048017352662339963
+    second: Attack6_1_9
+  - first:
+      213: 7495020625665352649
+    second: Attack6_1_10
+  - first:
+      213: -6532368044958840689
+    second: Attack6_1_11
+  - first:
+      213: -6881797530194423735
+    second: Attack6_1_12
+  - first:
+      213: -1341503787719232493
+    second: Attack6_1_13
+  - first:
+      213: 8160203953950469938
+    second: Attack6_1_14
+  - first:
+      213: 6747120867339261855
+    second: Attack6_2_0
+  - first:
+      213: 8315207861512545391
+    second: Attack6_2_1
+  - first:
+      213: -1998939042226629231
+    second: Attack6_2_2
+  - first:
+      213: 5982816530168170301
+    second: Attack6_2_3
+  - first:
+      213: 8945198580222693509
+    second: Attack6_2_4
+  - first:
+      213: 8644407764434622393
+    second: Attack6_2_5
+  - first:
+      213: 530203081723670843
+    second: Attack6_2_6
+  - first:
+      213: 1422800178269674549
+    second: Attack6_2_7
+  - first:
+      213: 1513867645193921023
+    second: Attack6_2_8
+  - first:
+      213: 397308274597436880
+    second: Attack6_2_9
+  - first:
+      213: 8738025569111616373
+    second: Attack6_2_10
+  - first:
+      213: 8960465119245300332
+    second: Attack6_2_11
+  - first:
+      213: -4772264791327187381
+    second: Attack6_2_12
+  - first:
+      213: 3367442513870206782
+    second: Attack6_2_13
+  - first:
+      213: -1154524297799066671
+    second: Attack6_2_14
+  - first:
+      213: 6626354417482215453
+    second: Attack6_3_0
+  - first:
+      213: -8487335951361355423
+    second: Attack6_3_1
+  - first:
+      213: -5233979821296435847
+    second: Attack6_3_2
+  - first:
+      213: 4091678684261039106
+    second: Attack6_3_3
+  - first:
+      213: 369487221861995680
+    second: Attack6_3_4
+  - first:
+      213: -5306063283307521935
+    second: Attack6_3_5
+  - first:
+      213: -939490773158973183
+    second: Attack6_3_6
+  - first:
+      213: -2930022583979253493
+    second: Attack6_3_7
+  - first:
+      213: -634583669612310605
+    second: Attack6_3_8
+  - first:
+      213: -4814460644575040062
+    second: Attack6_3_9
+  - first:
+      213: 4047224023871903684
+    second: Attack6_3_10
+  - first:
+      213: 3640854209465019595
+    second: Attack6_3_11
+  - first:
+      213: -2093708625133776682
+    second: Attack6_3_12
+  - first:
+      213: 6922811728846768236
+    second: Attack6_3_13
+  - first:
+      213: -5571357448291030454
+    second: Attack6_3_14
+  - first:
+      213: -6652486064994621821
+    second: Attack6_4_0
+  - first:
+      213: -6267556070056439306
+    second: Attack6_4_1
+  - first:
+      213: -6669195854546122169
+    second: Attack6_4_2
+  - first:
+      213: 7333472167456687594
+    second: Attack6_4_3
+  - first:
+      213: 3460042722803920544
+    second: Attack6_4_4
+  - first:
+      213: 5039329777372944636
+    second: Attack6_4_5
+  - first:
+      213: -3808103472660356366
+    second: Attack6_4_6
+  - first:
+      213: -9003834083317184752
+    second: Attack6_4_7
+  - first:
+      213: 8634590884511650761
+    second: Attack6_4_8
+  - first:
+      213: 6037277768329381757
+    second: Attack6_4_9
+  - first:
+      213: -8342634123171831675
+    second: Attack6_4_10
+  - first:
+      213: 4464552525287544620
+    second: Attack6_4_11
+  - first:
+      213: -5437626879949254736
+    second: Attack6_4_12
+  - first:
+      213: -2147620946606826583
+    second: Attack6_4_13
+  - first:
+      213: 9219199614315969265
+    second: Attack6_4_14
+  - first:
+      213: -7082882926552674137
+    second: Attack6_5_0
+  - first:
+      213: 130811728181503012
+    second: Attack6_5_1
+  - first:
+      213: -7317789333093689666
+    second: Attack6_5_2
+  - first:
+      213: 248663268281193544
+    second: Attack6_5_3
+  - first:
+      213: 7277945576292955488
+    second: Attack6_5_4
+  - first:
+      213: 6526325075502725815
+    second: Attack6_5_5
+  - first:
+      213: 7012395260712756737
+    second: Attack6_5_6
+  - first:
+      213: -4893931772013747094
+    second: Attack6_5_7
+  - first:
+      213: 1719567006455849152
+    second: Attack6_5_8
+  - first:
+      213: 3428962520529967314
+    second: Attack6_5_9
+  - first:
+      213: 5145655102454877853
+    second: Attack6_5_10
+  - first:
+      213: -2567436224075395729
+    second: Attack6_5_11
+  - first:
+      213: -2655105224392434058
+    second: Attack6_5_12
+  - first:
+      213: 479794888293007717
+    second: Attack6_5_13
+  - first:
+      213: -8589636081027370105
+    second: Attack6_5_14
+  - first:
+      213: -1863966866680228468
+    second: Attack6_6_0
+  - first:
+      213: -6835584069897255924
+    second: Attack6_6_1
+  - first:
+      213: -7015069879043038539
+    second: Attack6_6_2
+  - first:
+      213: 562123503142693950
+    second: Attack6_6_3
+  - first:
+      213: 1567035274174557533
+    second: Attack6_6_4
+  - first:
+      213: 2188892551471776712
+    second: Attack6_6_5
+  - first:
+      213: -8697802731212936979
+    second: Attack6_6_6
+  - first:
+      213: 6430763249422038822
+    second: Attack6_6_7
+  - first:
+      213: 3634678840406891714
+    second: Attack6_6_8
+  - first:
+      213: -5554132625358643927
+    second: Attack6_6_9
+  - first:
+      213: 3328895418358954570
+    second: Attack6_6_10
+  - first:
+      213: 4952353221685854846
+    second: Attack6_6_11
+  - first:
+      213: -3253424644180332286
+    second: Attack6_6_12
+  - first:
+      213: 4700272012829406016
+    second: Attack6_6_13
+  - first:
+      213: -335196574056440488
+    second: Attack6_6_14
+  - first:
+      213: 397649747406393214
+    second: Attack6_7_0
+  - first:
+      213: 2080998284291306254
+    second: Attack6_7_1
+  - first:
+      213: -8038278859484388121
+    second: Attack6_7_2
+  - first:
+      213: 8146956758982680757
+    second: Attack6_7_3
+  - first:
+      213: -2977743772002776565
+    second: Attack6_7_4
+  - first:
+      213: 5340665037491308216
+    second: Attack6_7_5
+  - first:
+      213: 1124548592527755270
+    second: Attack6_7_6
+  - first:
+      213: 7899145878835296797
+    second: Attack6_7_7
+  - first:
+      213: 4879038572797405904
+    second: Attack6_7_8
+  - first:
+      213: 8145930179035515257
+    second: Attack6_7_9
+  - first:
+      213: -2776770335271527908
+    second: Attack6_7_10
+  - first:
+      213: -712405155399495471
+    second: Attack6_7_11
+  - first:
+      213: 6023065386334846852
+    second: Attack6_7_12
+  - first:
+      213: -8365105369779861106
+    second: Attack6_7_13
+  - first:
+      213: -1405604506149396785
+    second: Attack6_7_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Attack6_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eb4123ef6da6dc0800000000000000
+      internalID: -3644864561152737762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd56775baa26ae310800000000000000
+      internalID: 1435067916599387615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79ac76af34cb2d20800000000000000
+      internalID: 3254910933360486780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5ec9a072e23e5c0800000000000000
+      internalID: -4187452483307772497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677915ace7b2d9220800000000000000
+      internalID: 2494197592193341302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f925d85218896f00800000000000000
+      internalID: 1110568395504691698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad8d28997d8fb450800000000000000
+      internalID: 6106755173121363367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b90d05b08fe6000800000000000000
+      internalID: 31234974922349361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d25ba0873c0bea30800000000000000
+      internalID: 4245500506248270553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c9b8b5487025660800000000000000
+      internalID: 7372963805011876882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788a4f574fa617d50800000000000000
+      internalID: 6733280516079134855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676dfa93f4a8f96f0800000000000000
+      internalID: -675669346207410570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a398f4c844699490800000000000000
+      internalID: -7739044220954438746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7a3ac0ce47c57e0800000000000000
+      internalID: -1775415595917662217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_0_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09be85c356c70f40800000000000000
+      internalID: 5694738316932331789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d463d63bfecc860800000000000000
+      internalID: 7551674229103938861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cc01292b885e2c0800000000000000
+      internalID: -4402962760148661122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0272269d6acc2c80800000000000000
+      internalID: -8346073437405285878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7daa9303bffa700800000000000000
+      internalID: 553937463734360052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9d8ee5b2186a6d0800000000000000
+      internalID: -2979552080183109152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ea73fa93f34b4e0800000000000000
+      internalID: -1966877620268716449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0e16b5faeee2480800000000000000
+      internalID: -8921931374854545225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e6b10f800510710800000000000000
+      internalID: 1657694137167343121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f50366f460ff6b0800000000000000
+      internalID: -5260478901658820780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b715a34b0769fc160800000000000000
+      internalID: 7048017352662339963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c362097c89a30860800000000000000
+      internalID: 7495020625665352649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f888d128fdd5855a0800000000000000
+      internalID: -6532368044958840689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940d99c8b91fe70a0800000000000000
+      internalID: -6881797530194423735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3147724a965026de0800000000000000
+      internalID: -1341503787719232493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_1_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fa4f1f24ede3170800000000000000
+      internalID: 8160203953950469938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97d16a5ea692ad50800000000000000
+      internalID: 6747120867339261855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64adf28e7d856370800000000000000
+      internalID: 8315207861512545391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1951c6c28875244e0800000000000000
+      internalID: -1998939042226629231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3742059feb370350800000000000000
+      internalID: 5982816530168170301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580908b07bab32c70800000000000000
+      internalID: 8945198580222693509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b711cccf0b17f770800000000000000
+      internalID: 8644407764434622393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31f4f8c4e8ab5700800000000000000
+      internalID: 530203081723670843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c502c493dceb310800000000000000
+      internalID: 1422800178269674549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1adbc3a96520510800000000000000
+      internalID: 1513867645193921023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd14bd45c5838500800000000000000
+      internalID: 397308274597436880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bad2585f3b34970800000000000000
+      internalID: 8738025569111616373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62f4e62d87f95c70800000000000000
+      internalID: 8960465119245300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ed6d2f47285cdb0800000000000000
+      internalID: -4772264791327187381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3738c8ff1f8bbe20800000000000000
+      internalID: 3367442513870206782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_2_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db1121a44e4affe0800000000000000
+      internalID: -1154524297799066671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d103ed91c3a85fb50800000000000000
+      internalID: 6626354417482215453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16154b98bece63a80800000000000000
+      internalID: -8487335951361355423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d3016551b2d57b0800000000000000
+      internalID: -5233979821296435847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cba6ea51098c830800000000000000
+      internalID: 4091678684261039106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a45120bbaea02500800000000000000
+      internalID: 369487221861995680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17856ba7e831d56b0800000000000000
+      internalID: -5306063283307521935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1013a149e1246f2f0800000000000000
+      internalID: -939490773158973183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b016b0adbf77657d0800000000000000
+      internalID: -2930022583979253493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf8e70c3818137f0800000000000000
+      internalID: -634583669612310605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cda1074d899f2db0800000000000000
+      internalID: -4814460644575040062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7df4d7ec0aa2830800000000000000
+      internalID: 4047224023871903684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcce52a0d99e68230800000000000000
+      internalID: 3640854209465019595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0dabf2917a1f2e0800000000000000
+      internalID: -2093708625133776682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68c1d8b694c21060800000000000000
+      internalID: 6922811728846768236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_3_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ae2e94bef8ea2b0800000000000000
+      internalID: -5571357448291030454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38662c69b2f9da3a0800000000000000
+      internalID: -6652486064994621821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1517216fa2509a0800000000000000
+      internalID: -6267556070056439306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a454884b14273a0800000000000000
+      internalID: -6669195854546122169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae54877f41ab5c560800000000000000
+      internalID: 7333472167456687594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae2768368a840030800000000000000
+      internalID: 3460042722803920544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8dc56abbb4fe540800000000000000
+      internalID: 5039329777372944636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2e52c5116e62bc0800000000000000
+      internalID: -3808103472660356366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01703570b94fb0380800000000000000
+      internalID: -9003834083317184752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3942459aa34d770800000000000000
+      internalID: 8634590884511650761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77c2a7b428b8c350800000000000000
+      internalID: 6037277768329381757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5806a455772093c80800000000000000
+      internalID: -8342634123171831675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2756d61ed645fd30800000000000000
+      internalID: 4464552525287544620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf4287992ba984b0800000000000000
+      internalID: -5437626879949254736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abdf4da02e1232e0800000000000000
+      internalID: -2147620946606826583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_4_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fab8bc243d21ff70800000000000000
+      internalID: 9219199614315969265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a01629418b84bd90800000000000000
+      internalID: -7082882926552674137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424a6bed29cb0d100800000000000000
+      internalID: 130811728181503012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6dec37f5df17a90800000000000000
+      internalID: -7317789333093689666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844969ecced637300800000000000000
+      internalID: 248663268281193544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065319101f4700560800000000000000
+      internalID: 7277945576292955488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba7016041a229a50800000000000000
+      internalID: 6526325075502725815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106aa6b1658015160800000000000000
+      internalID: 7012395260712756737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a646f168bf2451cb0800000000000000
+      internalID: -4893931772013747094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0684be4112dd710800000000000000
+      internalID: 1719567006455849152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d81158be3f169f20800000000000000
+      internalID: 3428962520529967314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ecf768d0a096740800000000000000
+      internalID: 5145655102454877853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d04886b52ae5cd0800000000000000
+      internalID: -2567436224075395729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e1ec2addb272bd0800000000000000
+      internalID: -2655105224392434058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561c0c9a8e298a600800000000000000
+      internalID: 479794888293007717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_5_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7833c708e7b7bc880800000000000000
+      internalID: -8589636081027370105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c855d6ea20cd126e0800000000000000
+      internalID: -1863966866680228468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04847141802321a0800000000000000
+      internalID: -6835584069897255924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2e819cc1775ae90800000000000000
+      internalID: -7015069879043038539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ce7bc09501dc700800000000000000
+      internalID: 562123503142693950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d6ea3874a3fb510800000000000000
+      internalID: 1567035274174557533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c349f5ad22806e10800000000000000
+      internalID: 2188892551471776712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de861a7bf723b4780800000000000000
+      internalID: -8697802731212936979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627ff6c8a19ae3950800000000000000
+      internalID: 6430763249422038822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccd413e529f07230800000000000000
+      internalID: 3634678840406891714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d1716edc1cbe2b0800000000000000
+      internalID: -5554132625358643927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4af5b9eebc923e20800000000000000
+      internalID: 3328895418358954570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72c8d4340b4ab440800000000000000
+      internalID: 4952353221685854846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2013124068389d2d0800000000000000
+      internalID: -3253424644180332286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04338681e78ba3140800000000000000
+      internalID: 4700272012829406016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_6_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d1079ed74295bf0800000000000000
+      internalID: -335196574056440488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f8e23a65cb48500800000000000000
+      internalID: 397649747406393214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e037169f9e031ec10800000000000000
+      internalID: 2080998284291306254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4a6e647fb427090800000000000000
+      internalID: -8038278859484388121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b061a3020ecf0170800000000000000
+      internalID: 8146956758982680757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a84ade0ddeca6d0800000000000000
+      internalID: -2977743772002776565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b684083e8add1a40800000000000000
+      internalID: 5340665037491308216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608484e9cf23b9f00800000000000000
+      internalID: 1124548592527755270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1af7f843576f9d60800000000000000
+      internalID: 7899145878835296797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daa4015bb3d5b340800000000000000
+      internalID: 4879038572797405904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979cb8eb6582c0170800000000000000
+      internalID: 8145930179035515257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a5c4f871ee679d0800000000000000
+      internalID: -2776770335271527908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0914029470d16f0800000000000000
+      internalID: -712405155399495471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f707bae0a369350800000000000000
+      internalID: 6023065386334846852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e890f858cfc29eb80800000000000000
+      internalID: -8365105369779861106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack6_7_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fced64c162a4e7ce0800000000000000
+      internalID: -1405604506149396785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Attack6_0: 5482610064963032989
+      Attack6_0_0: -3644864561152737762
+      Attack6_0_1: 1435067916599387615
+      Attack6_0_10: 6733280516079134855
+      Attack6_0_11: -675669346207410570
+      Attack6_0_12: -7739044220954438746
+      Attack6_0_13: -1775415595917662217
+      Attack6_0_14: 5694738316932331789
+      Attack6_0_2: 3254910933360486780
+      Attack6_0_3: -4187452483307772497
+      Attack6_0_4: 2494197592193341302
+      Attack6_0_5: 1110568395504691698
+      Attack6_0_6: 6106755173121363367
+      Attack6_0_7: 31234974922349361
+      Attack6_0_8: 4245500506248270553
+      Attack6_0_9: 7372963805011876882
+      Attack6_1: 8588242305356337402
+      Attack6_10: 5754472623818668727
+      Attack6_100: 7947422393395370595
+      Attack6_101: 4850429389415556841
+      Attack6_102: 5475403772393723366
+      Attack6_103: 6326765127527322409
+      Attack6_104: 6436368496717003310
+      Attack6_105: -85852679476467239
+      Attack6_106: 3681082233908312177
+      Attack6_107: -7317517371992131577
+      Attack6_108: 8279324857854593233
+      Attack6_109: 2250641033428892484
+      Attack6_11: 8951991130065033030
+      Attack6_110: 6305445720900475502
+      Attack6_111: 1606691443344885578
+      Attack6_112: -4541259757713057322
+      Attack6_113: 1071520532876893272
+      Attack6_114: 6233225105848611718
+      Attack6_115: 8183518088999003726
+      Attack6_116: -4672608429604534631
+      Attack6_117: 4013348572265302344
+      Attack6_118: 5882264727863917920
+      Attack6_119: 3508857394624059271
+      Attack6_12: -8849063547872284540
+      Attack6_120: 4423519233288865461
+      Attack6_121: 1911916328248840236
+      Attack6_122: -8214730448512331774
+      Attack6_123: 601279024310456826
+      Attack6_124: 7198739701479259128
+      Attack6_125: 2847625041274459637
+      Attack6_126: 1538898711367749623
+      Attack6_127: 7198435811565406943
+      Attack6_128: 303753264348199241
+      Attack6_13: 3288266515918032718
+      Attack6_14: 1502812758225185886
+      Attack6_15: -1103204519212954524
+      Attack6_16: -5187209559835704157
+      Attack6_17: 97998670828491838
+      Attack6_18: 4769762448830630667
+      Attack6_19: 1862423397392950636
+      Attack6_1_0: 7551674229103938861
+      Attack6_1_1: -4402962760148661122
+      Attack6_1_10: 7495020625665352649
+      Attack6_1_11: -6532368044958840689
+      Attack6_1_12: -6881797530194423735
+      Attack6_1_13: -1341503787719232493
+      Attack6_1_14: 8160203953950469938
+      Attack6_1_2: -8346073437405285878
+      Attack6_1_3: 553937463734360052
+      Attack6_1_4: -2979552080183109152
+      Attack6_1_5: -1966877620268716449
+      Attack6_1_6: -8921931374854545225
+      Attack6_1_7: 1657694137167343121
+      Attack6_1_8: -5260478901658820780
+      Attack6_1_9: 7048017352662339963
+      Attack6_2: 8388299428283925649
+      Attack6_20: -1284838472819610355
+      Attack6_21: -7759443615412677181
+      Attack6_22: 4397474108751545976
+      Attack6_23: 5645385526845793272
+      Attack6_24: -3286362456763965845
+      Attack6_25: -2249933905412135008
+      Attack6_26: -6674601850121833607
+      Attack6_27: 1676969201395235830
+      Attack6_28: 1862791737717480143
+      Attack6_29: 7478147688848751155
+      Attack6_2_0: 6747120867339261855
+      Attack6_2_1: 8315207861512545391
+      Attack6_2_10: 8738025569111616373
+      Attack6_2_11: 8960465119245300332
+      Attack6_2_12: -4772264791327187381
+      Attack6_2_13: 3367442513870206782
+      Attack6_2_14: -1154524297799066671
+      Attack6_2_2: -1998939042226629231
+      Attack6_2_3: 5982816530168170301
+      Attack6_2_4: 8945198580222693509
+      Attack6_2_5: 8644407764434622393
+      Attack6_2_6: 530203081723670843
+      Attack6_2_7: 1422800178269674549
+      Attack6_2_8: 1513867645193921023
+      Attack6_2_9: 397308274597436880
+      Attack6_3: -4116145226623622012
+      Attack6_30: -8133762427034425603
+      Attack6_31: -2336241889333851021
+      Attack6_32: 7649365338794386044
+      Attack6_33: 2443334804026522455
+      Attack6_34: -4901539942398015340
+      Attack6_35: 6197171345526712963
+      Attack6_36: 5376133167319943697
+      Attack6_37: 173466939409333356
+      Attack6_38: 858983976622314220
+      Attack6_39: 1523039001611937884
+      Attack6_3_0: 6626354417482215453
+      Attack6_3_1: -8487335951361355423
+      Attack6_3_10: 4047224023871903684
+      Attack6_3_11: 3640854209465019595
+      Attack6_3_12: -2093708625133776682
+      Attack6_3_13: 6922811728846768236
+      Attack6_3_14: -5571357448291030454
+      Attack6_3_2: -5233979821296435847
+      Attack6_3_3: 4091678684261039106
+      Attack6_3_4: 369487221861995680
+      Attack6_3_5: -5306063283307521935
+      Attack6_3_6: -939490773158973183
+      Attack6_3_7: -2930022583979253493
+      Attack6_3_8: -634583669612310605
+      Attack6_3_9: -4814460644575040062
+      Attack6_4: 2477931606612267982
+      Attack6_40: 2509568075421887474
+      Attack6_41: 4678122681378791434
+      Attack6_42: 5237086616276729265
+      Attack6_43: 26647855230824684
+      Attack6_44: -6530220079372973461
+      Attack6_45: 8297744576033650499
+      Attack6_46: 3381939867442839605
+      Attack6_47: -5362314332113094575
+      Attack6_48: 2110155102031735298
+      Attack6_49: -3816122760002613218
+      Attack6_4_0: -6652486064994621821
+      Attack6_4_1: -6267556070056439306
+      Attack6_4_10: -8342634123171831675
+      Attack6_4_11: 4464552525287544620
+      Attack6_4_12: -5437626879949254736
+      Attack6_4_13: -2147620946606826583
+      Attack6_4_14: 9219199614315969265
+      Attack6_4_2: -6669195854546122169
+      Attack6_4_3: 7333472167456687594
+      Attack6_4_4: 3460042722803920544
+      Attack6_4_5: 5039329777372944636
+      Attack6_4_6: -3808103472660356366
+      Attack6_4_7: -9003834083317184752
+      Attack6_4_8: 8634590884511650761
+      Attack6_4_9: 6037277768329381757
+      Attack6_5: -4415310750801259997
+      Attack6_50: 6586199429867803982
+      Attack6_51: -4975315306366737143
+      Attack6_52: -1763882160008599473
+      Attack6_53: 5792397202794298088
+      Attack6_54: 7322384784542117493
+      Attack6_55: -1466613685072215313
+      Attack6_56: -1562041693199445081
+      Attack6_57: -1434004963008715347
+      Attack6_58: -6052007510416811485
+      Attack6_59: 2477022865516501874
+      Attack6_5_0: -7082882926552674137
+      Attack6_5_1: 130811728181503012
+      Attack6_5_10: 5145655102454877853
+      Attack6_5_11: -2567436224075395729
+      Attack6_5_12: -2655105224392434058
+      Attack6_5_13: 479794888293007717
+      Attack6_5_14: -8589636081027370105
+      Attack6_5_2: -7317789333093689666
+      Attack6_5_3: 248663268281193544
+      Attack6_5_4: 7277945576292955488
+      Attack6_5_5: 6526325075502725815
+      Attack6_5_6: 7012395260712756737
+      Attack6_5_7: -4893931772013747094
+      Attack6_5_8: 1719567006455849152
+      Attack6_5_9: 3428962520529967314
+      Attack6_6: -9173961485564423041
+      Attack6_60: -5294832855542973234
+      Attack6_61: -4926641403506126160
+      Attack6_62: -2970884279213737188
+      Attack6_63: 2695602641647059738
+      Attack6_64: 2388074075607266135
+      Attack6_65: 2707218783930027159
+      Attack6_66: -216524187964897383
+      Attack6_67: 8643218916497201898
+      Attack6_68: 1596843304440734930
+      Attack6_69: 7855534077859502344
+      Attack6_6_0: -1863966866680228468
+      Attack6_6_1: -6835584069897255924
+      Attack6_6_10: 3328895418358954570
+      Attack6_6_11: 4952353221685854846
+      Attack6_6_12: -3253424644180332286
+      Attack6_6_13: 4700272012829406016
+      Attack6_6_14: -335196574056440488
+      Attack6_6_2: -7015069879043038539
+      Attack6_6_3: 562123503142693950
+      Attack6_6_4: 1567035274174557533
+      Attack6_6_5: 2188892551471776712
+      Attack6_6_6: -8697802731212936979
+      Attack6_6_7: 6430763249422038822
+      Attack6_6_8: 3634678840406891714
+      Attack6_6_9: -5554132625358643927
+      Attack6_7: -6582215117842756502
+      Attack6_70: 5500811198349450026
+      Attack6_71: 7136760368587915191
+      Attack6_72: 4097386375988648666
+      Attack6_73: -6218663834729780500
+      Attack6_74: -3411966227387051033
+      Attack6_75: 1006945840740082667
+      Attack6_76: 3593535218714196443
+      Attack6_77: -2726638767808260636
+      Attack6_78: -2665104732080991966
+      Attack6_79: 5101934506933592334
+      Attack6_7_0: 397649747406393214
+      Attack6_7_1: 2080998284291306254
+      Attack6_7_10: -2776770335271527908
+      Attack6_7_11: -712405155399495471
+      Attack6_7_12: 6023065386334846852
+      Attack6_7_13: -8365105369779861106
+      Attack6_7_14: -1405604506149396785
+      Attack6_7_2: -8038278859484388121
+      Attack6_7_3: 8146956758982680757
+      Attack6_7_4: -2977743772002776565
+      Attack6_7_5: 5340665037491308216
+      Attack6_7_6: 1124548592527755270
+      Attack6_7_7: 7899145878835296797
+      Attack6_7_8: 4879038572797405904
+      Attack6_7_9: 8145930179035515257
+      Attack6_8: 3816629149387219719
+      Attack6_80: -6862936497127994677
+      Attack6_81: -7547838791193279295
+      Attack6_82: 860875004998426884
+      Attack6_83: 6451579235971901929
+      Attack6_84: -8356120672668009055
+      Attack6_85: 2576400708236217592
+      Attack6_86: 8180600613560184579
+      Attack6_87: -6645117261912750383
+      Attack6_88: 1951480581889954697
+      Attack6_89: -6866376993643987007
+      Attack6_9: -1836294298157616417
+      Attack6_90: -1013614321756125684
+      Attack6_91: -6206449833631165351
+      Attack6_92: -3765387216455367510
+      Attack6_93: 228032337496222738
+      Attack6_94: 7665043073796748174
+      Attack6_95: 9188859702958786491
+      Attack6_96: 4274718240670057617
+      Attack6_97: -104725616252280301
+      Attack6_98: 5690947524841834239
+      Attack6_99: 508653222236612955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

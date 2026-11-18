@@ -1,0 +1,5705 @@
+fileFormatVersion: 2
+guid: c215e2e966ca92d44b3abeefbf09226d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4875550202295362856
+    second: Kick_0
+  - first:
+      213: 7382034801322492081
+    second: Kick_1
+  - first:
+      213: 3640076384215072705
+    second: Kick_2
+  - first:
+      213: -5744143365864270874
+    second: Kick_3
+  - first:
+      213: -7484144780416948975
+    second: Kick_4
+  - first:
+      213: -4347578519165869139
+    second: Kick_5
+  - first:
+      213: -6500147261662118090
+    second: Kick_6
+  - first:
+      213: -4513392813365026625
+    second: Kick_7
+  - first:
+      213: 2373574331434663591
+    second: Kick_8
+  - first:
+      213: -694122209341000648
+    second: Kick_9
+  - first:
+      213: -3130122043592584391
+    second: Kick_10
+  - first:
+      213: -1184338038214779424
+    second: Kick_11
+  - first:
+      213: -6278379700893849238
+    second: Kick_12
+  - first:
+      213: -2329759627579760923
+    second: Kick_13
+  - first:
+      213: -8731451342485663347
+    second: Kick_14
+  - first:
+      213: 1758862618882075845
+    second: Kick_15
+  - first:
+      213: -4739176893017749648
+    second: Kick_16
+  - first:
+      213: -7587724472594246672
+    second: Kick_17
+  - first:
+      213: 3925823642134178883
+    second: Kick_18
+  - first:
+      213: -7424675351201738324
+    second: Kick_19
+  - first:
+      213: 2940217539679394119
+    second: Kick_20
+  - first:
+      213: -4167057831420378153
+    second: Kick_21
+  - first:
+      213: -2252206954677251430
+    second: Kick_22
+  - first:
+      213: -3278472320177172867
+    second: Kick_23
+  - first:
+      213: -7871122585674940944
+    second: Kick_24
+  - first:
+      213: 2770282508368533559
+    second: Kick_25
+  - first:
+      213: -6505984805256772458
+    second: Kick_26
+  - first:
+      213: -5135661782472528759
+    second: Kick_27
+  - first:
+      213: 4776322614497421682
+    second: Kick_28
+  - first:
+      213: -6359660778412559074
+    second: Kick_29
+  - first:
+      213: 3969365098454579327
+    second: Kick_30
+  - first:
+      213: 7364034447000363697
+    second: Kick_31
+  - first:
+      213: -5937058321480096244
+    second: Kick_32
+  - first:
+      213: 2112388846829592753
+    second: Kick_33
+  - first:
+      213: -6810268207112100259
+    second: Kick_34
+  - first:
+      213: -3981618612978135638
+    second: Kick_35
+  - first:
+      213: 7068607032678475297
+    second: Kick_36
+  - first:
+      213: -1869642885893667781
+    second: Kick_37
+  - first:
+      213: 7651993739971860731
+    second: Kick_38
+  - first:
+      213: 8240018675257941764
+    second: Kick_39
+  - first:
+      213: -9005281627751113342
+    second: Kick_40
+  - first:
+      213: 3248501593303394810
+    second: Kick_41
+  - first:
+      213: -3810322179372027113
+    second: Kick_42
+  - first:
+      213: 1268547231836127592
+    second: Kick_43
+  - first:
+      213: 238645374277502217
+    second: Kick_44
+  - first:
+      213: 3549382180739583855
+    second: Kick_45
+  - first:
+      213: 3075367277012205919
+    second: Kick_46
+  - first:
+      213: -308950364216248243
+    second: Kick_47
+  - first:
+      213: -1255472037287010649
+    second: Kick_48
+  - first:
+      213: -4501335001233255172
+    second: Kick_49
+  - first:
+      213: -7977118608748228579
+    second: Kick_50
+  - first:
+      213: 5999699660555418751
+    second: Kick_51
+  - first:
+      213: -3116682143974281607
+    second: Kick_52
+  - first:
+      213: 2847356777041489661
+    second: Kick_53
+  - first:
+      213: -2613113307084715381
+    second: Kick_54
+  - first:
+      213: 4685421517959110566
+    second: Kick_55
+  - first:
+      213: 3179020469037808874
+    second: Kick_56
+  - first:
+      213: -8286538191473350673
+    second: Kick_57
+  - first:
+      213: -2686716513450129563
+    second: Kick_58
+  - first:
+      213: 3339459830459646191
+    second: Kick_59
+  - first:
+      213: -6110891247478702202
+    second: Kick_60
+  - first:
+      213: -6556703268762688167
+    second: Kick_61
+  - first:
+      213: 7251059502453073306
+    second: Kick_62
+  - first:
+      213: -6911509367171999994
+    second: Kick_63
+  - first:
+      213: -4445116623542283175
+    second: Kick_64
+  - first:
+      213: -8648281642174068681
+    second: Kick_65
+  - first:
+      213: 4973895548577131846
+    second: Kick_66
+  - first:
+      213: -5463355068963133117
+    second: Kick_67
+  - first:
+      213: -4196343815666612418
+    second: Kick_68
+  - first:
+      213: 5884461646573826522
+    second: Kick_69
+  - first:
+      213: 8367838434712239679
+    second: Kick_70
+  - first:
+      213: 5471944767195386833
+    second: Kick_71
+  - first:
+      213: -6145912367683719367
+    second: Kick_72
+  - first:
+      213: 4298759251804231530
+    second: Kick_73
+  - first:
+      213: -2603292104294591435
+    second: Kick_74
+  - first:
+      213: -8484719476944776590
+    second: Kick_75
+  - first:
+      213: 8443718771696296413
+    second: Kick_76
+  - first:
+      213: -5315174322142030005
+    second: Kick_77
+  - first:
+      213: -8375909799440011323
+    second: Kick_78
+  - first:
+      213: 5663072130928281157
+    second: Kick_79
+  - first:
+      213: -5252797724122942427
+    second: Kick_80
+  - first:
+      213: 3151777071854884341
+    second: Kick_81
+  - first:
+      213: 1000262339358072460
+    second: Kick_82
+  - first:
+      213: -1035734630405183642
+    second: Kick_83
+  - first:
+      213: 6282269460116976416
+    second: Kick_84
+  - first:
+      213: 7591130084371667291
+    second: Kick_85
+  - first:
+      213: 7323558474999384293
+    second: Kick_86
+  - first:
+      213: 5305662707708013074
+    second: Kick_87
+  - first:
+      213: -6279808519638660304
+    second: Kick_88
+  - first:
+      213: -1592582032535494678
+    second: Kick_89
+  - first:
+      213: 2432671286902158037
+    second: Kick_90
+  - first:
+      213: -8249641336187882781
+    second: Kick_91
+  - first:
+      213: 6873026007485832739
+    second: Kick_92
+  - first:
+      213: -8379961527138072690
+    second: Kick_93
+  - first:
+      213: 820464020854992596
+    second: Kick_94
+  - first:
+      213: -6834551127082495971
+    second: Kick_95
+  - first:
+      213: -6242769092921517531
+    second: Kick_96
+  - first:
+      213: -4340561105458600748
+    second: Kick_97
+  - first:
+      213: 7259202979069582839
+    second: Kick_98
+  - first:
+      213: 6619545503148090890
+    second: Kick_99
+  - first:
+      213: -3357011088158948144
+    second: Kick_100
+  - first:
+      213: 1075507650673402332
+    second: Kick_101
+  - first:
+      213: -6000757952218528778
+    second: Kick_102
+  - first:
+      213: -6843757243696751775
+    second: Kick_103
+  - first:
+      213: 268879620965417464
+    second: Kick_104
+  - first:
+      213: -4793709833487669161
+    second: Kick_105
+  - first:
+      213: 675303480682272361
+    second: Kick_106
+  - first:
+      213: 6067488920932953683
+    second: Kick_107
+  - first:
+      213: -3603929609555661270
+    second: Kick_108
+  - first:
+      213: 1882164786322147159
+    second: Kick_109
+  - first:
+      213: -853935072052737882
+    second: Kick_110
+  - first:
+      213: -2497510523561717982
+    second: Kick_111
+  - first:
+      213: 6198950438793629871
+    second: Kick_112
+  - first:
+      213: 2105246556999147653
+    second: Kick_113
+  - first:
+      213: -6810643237891943874
+    second: Kick_114
+  - first:
+      213: -7389096978637695472
+    second: Kick_115
+  - first:
+      213: -2266966428193576388
+    second: Kick_116
+  - first:
+      213: 1418098954312812508
+    second: Kick_117
+  - first:
+      213: 8994804610375598687
+    second: Kick_118
+  - first:
+      213: -5159842926858346523
+    second: Kick_119
+  - first:
+      213: -7541554345672330853
+    second: Kick_120
+  - first:
+      213: -6595444687720014423
+    second: Kick_121
+  - first:
+      213: 4763469428234390433
+    second: Kick_122
+  - first:
+      213: -1419801895282076848
+    second: Kick_123
+  - first:
+      213: 2118738356124362166
+    second: Kick_124
+  - first:
+      213: 6002755457341601584
+    second: Kick_125
+  - first:
+      213: -5364329746945696212
+    second: Kick_126
+  - first:
+      213: 7811171535337056517
+    second: Kick_127
+  - first:
+      213: 3111627922806444294
+    second: Kick_128
+  - first:
+      213: -2217119072933265325
+    second: Kick_129
+  - first:
+      213: -2679576742367458705
+    second: Kick_130
+  - first:
+      213: -6968814812825755101
+    second: Kick_131
+  - first:
+      213: 8217088379978306390
+    second: Kick_132
+  - first:
+      213: 2239114697434531946
+    second: Kick_133
+  - first:
+      213: -6161627887438175428
+    second: Kick_134
+  - first:
+      213: -6776971437254924060
+    second: Kick_135
+  - first:
+      213: 755419821275061292
+    second: Kick_136
+  - first:
+      213: -6753298907574635913
+    second: Kick_137
+  - first:
+      213: 1754270742109336856
+    second: Kick_138
+  - first:
+      213: -6713157445636088072
+    second: Kick_139
+  - first:
+      213: -377957832187954657
+    second: Kick_140
+  - first:
+      213: -6892397402829082893
+    second: Kick_141
+  - first:
+      213: -7699747086708822105
+    second: Kick_142
+  - first:
+      213: 5462279545661005415
+    second: Kick_143
+  - first:
+      213: -1557672828057136352
+    second: Kick_144
+  - first:
+      213: 3570586014342791619
+    second: Kick_145
+  - first:
+      213: 55065617710958147
+    second: Kick_146
+  - first:
+      213: 2593077472942870565
+    second: Kick_147
+  - first:
+      213: -8457608670938913577
+    second: Kick_148
+  - first:
+      213: -802692597128182507
+    second: Kick_149
+  - first:
+      213: 3007717830782109557
+    second: Kick_150
+  - first:
+      213: 9089789259004610980
+    second: Kick_151
+  - first:
+      213: -8485883837114931684
+    second: Kick_152
+  - first:
+      213: -1161527946314248316
+    second: Kick_153
+  - first:
+      213: 4848539510097247315
+    second: Kick_154
+  - first:
+      213: -4391012480894734979
+    second: Kick_155
+  - first:
+      213: -3877420064650950521
+    second: Kick_156
+  - first:
+      213: 1428232260660486224
+    second: Kick_157
+  - first:
+      213: -8348679819521719156
+    second: Kick_158
+  - first:
+      213: -616304357394507131
+    second: Kick_159
+  - first:
+      213: -4236622133408388001
+    second: Kick_160
+  - first:
+      213: 6622000263887800067
+    second: Kick_161
+  - first:
+      213: 562006871318467681
+    second: Kick_162
+  - first:
+      213: 6074621287859082330
+    second: Kick_163
+  - first:
+      213: 1227573647364945584
+    second: Kick_164
+  - first:
+      213: 656009081805344646
+    second: Kick_165
+  - first:
+      213: 7585201240353796422
+    second: Kick_166
+  - first:
+      213: -3900079617063129536
+    second: Kick_167
+  - first:
+      213: -3068648751213097834
+    second: Kick_168
+  - first:
+      213: 7514767048651768695
+    second: Kick_169
+  - first:
+      213: 5497046859010096549
+    second: Kick_170
+  - first:
+      213: -5657155999370195683
+    second: Kick_171
+  - first:
+      213: -5743382100159355240
+    second: Kick_172
+  - first:
+      213: -2115405746228556713
+    second: Kick_173
+  - first:
+      213: 2513960792972347422
+    second: Kick_174
+  - first:
+      213: 4007360248724436508
+    second: Kick_175
+  - first:
+      213: 8111384189586708549
+    second: Kick_176
+  - first:
+      213: 5138180739579998488
+    second: Kick_177
+  - first:
+      213: -3014809472303537284
+    second: Kick_178
+  - first:
+      213: -7367646976750311191
+    second: Kick_179
+  - first:
+      213: 8270912976422718286
+    second: Kick_180
+  - first:
+      213: 2042711785668465900
+    second: Kick_181
+  - first:
+      213: 8337167189515882422
+    second: Kick_182
+  - first:
+      213: 951529531810218542
+    second: Kick_183
+  - first:
+      213: 4344707799354670941
+    second: Kick_184
+  - first:
+      213: 8812402742151826082
+    second: Kick_185
+  - first:
+      213: -5446124294318148622
+    second: Kick_186
+  - first:
+      213: 3456986835597708872
+    second: Kick_187
+  - first:
+      213: -381939558089045824
+    second: Kick_188
+  - first:
+      213: 2764736159084821864
+    second: Kick_189
+  - first:
+      213: -2707159942934859921
+    second: Kick_190
+  - first:
+      213: -6225383687975654561
+    second: Kick_191
+  - first:
+      213: -9203167203737986226
+    second: Kick_192
+  - first:
+      213: 1277961264632204334
+    second: Kick_193
+  - first:
+      213: -4670642991426174665
+    second: Kick_194
+  - first:
+      213: 5000988678740009825
+    second: Kick_195
+  - first:
+      213: -7384570528443142419
+    second: Kick_196
+  - first:
+      213: -222566894447319330
+    second: Kick_197
+  - first:
+      213: 5711066077778409205
+    second: Kick_198
+  - first:
+      213: -8075415465724034393
+    second: Kick_199
+  - first:
+      213: 332707179166896801
+    second: Kick_200
+  - first:
+      213: 3347533157183375468
+    second: Kick_201
+  - first:
+      213: 2678141936107541799
+    second: Kick_202
+  - first:
+      213: -7018145997928402334
+    second: Kick_203
+  - first:
+      213: -2625425585742737262
+    second: Kick_204
+  - first:
+      213: -1399986558426208433
+    second: Kick_205
+  - first:
+      213: 2131952524494468146
+    second: Kick_206
+  - first:
+      213: -7980221839299207266
+    second: Kick_207
+  - first:
+      213: 6631577508605195430
+    second: Kick_208
+  - first:
+      213: 4790656678423257581
+    second: Kick_209
+  - first:
+      213: 7852111014988924896
+    second: Kick_210
+  - first:
+      213: 8182722072613984135
+    second: Kick_211
+  - first:
+      213: -2153299170556891610
+    second: Kick_212
+  - first:
+      213: 9104034065073668728
+    second: Kick_213
+  - first:
+      213: 1878308815388898091
+    second: Kick_214
+  - first:
+      213: 4621975578705889132
+    second: Kick_215
+  - first:
+      213: 8918668594542201537
+    second: Kick_216
+  - first:
+      213: -3973330539661168235
+    second: Kick_217
+  - first:
+      213: 2633650892120178922
+    second: Kick_218
+  - first:
+      213: -7213962019115363276
+    second: Kick_219
+  - first:
+      213: 3631497557753939294
+    second: Kick_220
+  - first:
+      213: -3815224448449376361
+    second: Kick_221
+  - first:
+      213: -1266802188988280501
+    second: Kick_222
+  - first:
+      213: -5881278298216784858
+    second: Kick_223
+  - first:
+      213: 6711427095311898861
+    second: Kick_224
+  - first:
+      213: -7175513526511556228
+    second: Kick_225
+  - first:
+      213: 5586190115062072181
+    second: Kick_226
+  - first:
+      213: 911973926804740106
+    second: Kick_227
+  - first:
+      213: -5170071308487717036
+    second: Kick_228
+  - first:
+      213: -979851645529534371
+    second: Kick_229
+  - first:
+      213: -5209983959400743356
+    second: Kick_230
+  - first:
+      213: -9205656023504264110
+    second: Kick_231
+  - first:
+      213: 3851727297903875464
+    second: Kick_232
+  - first:
+      213: 3872944840709255241
+    second: Kick_233
+  - first:
+      213: -6244161780528933988
+    second: Kick_234
+  - first:
+      213: 7792958697212047626
+    second: Kick_235
+  - first:
+      213: 8678734331865427802
+    second: Kick_236
+  - first:
+      213: -6696248679600815618
+    second: Kick_237
+  - first:
+      213: 4003582476072957570
+    second: Kick_238
+  - first:
+      213: 2782770777175794002
+    second: Kick_239
+  - first:
+      213: 3961187519324297245
+    second: Kick_240
+  - first:
+      213: -423282248426543339
+    second: Kick_241
+  - first:
+      213: -6150845294925095910
+    second: Kick_242
+  - first:
+      213: 8620690621518182903
+    second: Kick_243
+  - first:
+      213: 3815467730315448193
+    second: Kick_244
+  - first:
+      213: -5282986585003552284
+    second: Kick_245
+  - first:
+      213: -7998611128368555187
+    second: Kick_246
+  - first:
+      213: -6703083794374387760
+    second: Kick_247
+  - first:
+      213: -9144735682507579381
+    second: Kick_248
+  - first:
+      213: 5888021011299545390
+    second: Kick_249
+  - first:
+      213: -6324870670502304418
+    second: Kick_250
+  - first:
+      213: -2798816006478312088
+    second: Kick_251
+  - first:
+      213: 5945008949890634005
+    second: Kick_252
+  - first:
+      213: 6557133467692474456
+    second: Kick_253
+  - first:
+      213: 7648705655373896008
+    second: Kick_254
+  - first:
+      213: 7988283307552320122
+    second: Kick_255
+  - first:
+      213: 942176295443454059
+    second: Kick_256
+  - first:
+      213: 7920804246895186297
+    second: Kick_257
+  - first:
+      213: 6288677374786725743
+    second: Kick_258
+  - first:
+      213: 4121189196003092303
+    second: Kick_259
+  - first:
+      213: -7925537492188359614
+    second: Kick_260
+  - first:
+      213: 1719359835321973280
+    second: Kick_261
+  - first:
+      213: 3419704466718558424
+    second: Kick_262
+  - first:
+      213: -2349955237855209256
+    second: Kick_263
+  - first:
+      213: -1873534238631364950
+    second: Kick_264
+  - first:
+      213: -2706622844862977211
+    second: Kick_265
+  - first:
+      213: 246156901098360852
+    second: Kick_266
+  - first:
+      213: 652102935257731954
+    second: Kick_267
+  - first:
+      213: 6365016209224054907
+    second: Kick_268
+  - first:
+      213: -6077642945921015387
+    second: Kick_269
+  - first:
+      213: -3793918925193850319
+    second: Kick_270
+  - first:
+      213: 2792524324305630020
+    second: Kick_271
+  - first:
+      213: -7745742291958080274
+    second: Kick_272
+  - first:
+      213: -6119898320457626237
+    second: Kick_273
+  - first:
+      213: 5192885572599933628
+    second: Kick_274
+  - first:
+      213: 5568427486642584271
+    second: Kick_275
+  - first:
+      213: -1068213185108508855
+    second: Kick_276
+  - first:
+      213: -6218997419093218044
+    second: Kick_277
+  - first:
+      213: 2839079603019333218
+    second: Kick_278
+  - first:
+      213: 4294118371828231140
+    second: Kick_279
+  - first:
+      213: -3599146452480365037
+    second: Kick_280
+  - first:
+      213: -867517173503359380
+    second: Kick_281
+  - first:
+      213: 6745718266705872665
+    second: Kick_282
+  - first:
+      213: -5552226643474021926
+    second: Kick_283
+  - first:
+      213: 2279639011157717578
+    second: Kick_284
+  - first:
+      213: 4138467152443603650
+    second: Kick_285
+  - first:
+      213: 7410633459241473503
+    second: Kick_286
+  - first:
+      213: -7111228113302790391
+    second: Kick_287
+  - first:
+      213: 4206484389813057323
+    second: Kick_288
+  - first:
+      213: -5258467056966477144
+    second: Kick_289
+  - first:
+      213: -4779537766530180222
+    second: Kick_290
+  - first:
+      213: -4414920832794290525
+    second: Kick_291
+  - first:
+      213: 8824592813908227179
+    second: Kick_292
+  - first:
+      213: 5899453780712842280
+    second: Kick_293
+  - first:
+      213: -5074813658161035775
+    second: Kick_294
+  - first:
+      213: 927762797048385156
+    second: Kick_295
+  - first:
+      213: -6495458738660168323
+    second: Kick_296
+  - first:
+      213: -7995518776307566399
+    second: Kick_297
+  - first:
+      213: -3762849580345367350
+    second: Kick_298
+  - first:
+      213: 3324484826754882677
+    second: Kick_299
+  - first:
+      213: 8817434426459722906
+    second: Kick_300
+  - first:
+      213: -581755579497659439
+    second: Kick_301
+  - first:
+      213: -5273668593588371480
+    second: Kick_302
+  - first:
+      213: 3799879805730588654
+    second: Kick_303
+  - first:
+      213: 7936978559632439696
+    second: Kick_304
+  - first:
+      213: -8601855511803663132
+    second: Kick_305
+  - first:
+      213: -4893531359374916200
+    second: Kick_306
+  - first:
+      213: 6905287345845663866
+    second: Kick_307
+  - first:
+      213: -7767186048256401385
+    second: Kick_308
+  - first:
+      213: 6602887704485478034
+    second: Kick_309
+  - first:
+      213: -6125334645952536372
+    second: Kick_310
+  - first:
+      213: 6260930145479562483
+    second: Kick_311
+  - first:
+      213: 648569472925477971
+    second: Kick_312
+  - first:
+      213: -2384450633879791227
+    second: Kick_313
+  - first:
+      213: -7656558289021261726
+    second: Kick_314
+  - first:
+      213: 8007400516505418029
+    second: Kick_315
+  - first:
+      213: 2361502760850946221
+    second: Kick_316
+  - first:
+      213: 6156594464684194233
+    second: Kick_317
+  - first:
+      213: 1452536501760688953
+    second: Kick_318
+  - first:
+      213: 1959507547115865871
+    second: Kick_319
+  - first:
+      213: 5940882648629535886
+    second: Kick_320
+  - first:
+      213: -2487261394016618575
+    second: Kick_321
+  - first:
+      213: -5129352972427966455
+    second: Kick_322
+  - first:
+      213: 3291007295133612380
+    second: Kick_323
+  - first:
+      213: 2917207874640300048
+    second: Kick_324
+  - first:
+      213: 6014658893811755975
+    second: Kick_325
+  - first:
+      213: -1373127016232068647
+    second: Kick_326
+  - first:
+      213: -9001645746075779100
+    second: Kick_327
+  - first:
+      213: 8472889575683355200
+    second: Kick_328
+  - first:
+      213: -2187336072265102744
+    second: Kick_329
+  - first:
+      213: -588715074905662329
+    second: Kick_330
+  - first:
+      213: -3582737291939774642
+    second: Kick_331
+  - first:
+      213: -8943303667879380234
+    second: Kick_332
+  - first:
+      213: 6683770541229176999
+    second: Kick_333
+  - first:
+      213: -2111480687548774778
+    second: Kick_334
+  - first:
+      213: -5512071130627268726
+    second: Kick_335
+  - first:
+      213: -4658835770219145953
+    second: Kick_336
+  - first:
+      213: -253527690085993123
+    second: Kick_337
+  - first:
+      213: -1209564288118187843
+    second: Kick_338
+  - first:
+      213: 5010559751160848639
+    second: Kick_339
+  - first:
+      213: 5034512450186949120
+    second: Kick_340
+  - first:
+      213: 5445824777098648803
+    second: Kick_341
+  - first:
+      213: 7651721761905190358
+    second: Kick_342
+  - first:
+      213: 3061634129974918394
+    second: Kick_343
+  - first:
+      213: 838972196328330979
+    second: Kick_344
+  - first:
+      213: -2937551741524321774
+    second: Kick_345
+  - first:
+      213: 5904883966808093824
+    second: Kick_346
+  - first:
+      213: 4274487311474411849
+    second: Kick_347
+  - first:
+      213: -1626587270729355502
+    second: Kick_348
+  - first:
+      213: 7553478315320816201
+    second: Kick_349
+  - first:
+      213: -3901698794637068501
+    second: Kick_350
+  - first:
+      213: 192125085074144539
+    second: Kick_351
+  - first:
+      213: -7975422455560797812
+    second: Kick_352
+  - first:
+      213: -3244313477282723753
+    second: Kick_353
+  - first:
+      213: 719057501071219975
+    second: Kick_354
+  - first:
+      213: 679275133593141739
+    second: Kick_355
+  - first:
+      213: 3764488350008165813
+    second: Kick_356
+  - first:
+      213: -7828175951579315766
+    second: Kick_357
+  - first:
+      213: -8674981224635964408
+    second: Kick_358
+  - first:
+      213: 7039791222666909922
+    second: Kick_359
+  - first:
+      213: 1896423749417339268
+    second: Kick_360
+  - first:
+      213: 5430751301822183206
+    second: Kick_361
+  - first:
+      213: -3766966897667130524
+    second: Kick_362
+  - first:
+      213: 1896506804050388344
+    second: Kick_363
+  - first:
+      213: -6691706076874880059
+    second: Kick_364
+  - first:
+      213: 5898484877800222398
+    second: Kick_365
+  - first:
+      213: 2341395238130659973
+    second: Kick_366
+  - first:
+      213: 1337669442079822136
+    second: Kick_367
+  - first:
+      213: -7862649152293648625
+    second: Kick_368
+  - first:
+      213: -5946198572751251315
+    second: Kick_369
+  - first:
+      213: 1021024189442415890
+    second: Kick_370
+  - first:
+      213: 1348920119716983162
+    second: Kick_371
+  - first:
+      213: -5499749530313404168
+    second: Kick_372
+  - first:
+      213: 6296080891908517817
+    second: Kick_373
+  - first:
+      213: -681184893208623798
+    second: Kick_374
+  - first:
+      213: -7510937630459740239
+    second: Kick_375
+  - first:
+      213: -1012213535277536375
+    second: Kick_376
+  - first:
+      213: 6734622057913250200
+    second: Kick_377
+  - first:
+      213: 551292797042626507
+    second: Kick_378
+  - first:
+      213: -8105775028395206619
+    second: Kick_379
+  - first:
+      213: 1111896759986188913
+    second: Kick_380
+  - first:
+      213: 494970076081202547
+    second: Kick_381
+  - first:
+      213: 7398590577704804445
+    second: Kick_382
+  - first:
+      213: -7674671010317207527
+    second: Kick_383
+  - first:
+      213: -6170608424051453274
+    second: Kick_384
+  - first:
+      213: -5442792557155063675
+    second: Kick_385
+  - first:
+      213: -3126319283802942432
+    second: Kick_386
+  - first:
+      213: 5502700415986641451
+    second: Kick_387
+  - first:
+      213: -716127343677374404
+    second: Kick_388
+  - first:
+      213: -2338889322542052388
+    second: Kick_389
+  - first:
+      213: 398177945376001734
+    second: Kick_390
+  - first:
+      213: 5187406018295497249
+    second: Kick_391
+  - first:
+      213: -7881995541574154908
+    second: Kick_392
+  - first:
+      213: 3252290219480398612
+    second: Kick_393
+  - first:
+      213: 7371927798619922236
+    second: Kick_394
+  - first:
+      213: 1836260297079390108
+    second: Kick_395
+  - first:
+      213: -5857751870254418156
+    second: Kick_396
+  - first:
+      213: -5166201708358841449
+    second: Kick_397
+  - first:
+      213: 8644683696534153801
+    second: Kick_398
+  - first:
+      213: -6645965711122935790
+    second: Kick_399
+  - first:
+      213: -505899175234393664
+    second: Kick_400
+  - first:
+      213: -6258162154875118267
+    second: Kick_401
+  - first:
+      213: -6182006934771156795
+    second: Kick_402
+  - first:
+      213: -1230866584344953407
+    second: Kick_403
+  - first:
+      213: -6945426071099016600
+    second: Kick_404
+  - first:
+      213: -4895121089640124270
+    second: Kick_405
+  - first:
+      213: 5108225367758271334
+    second: Kick_406
+  - first:
+      213: 1251117473971227888
+    second: Kick_407
+  - first:
+      213: -6332279435088261473
+    second: Kick_408
+  - first:
+      213: -3738310679703980693
+    second: Kick_409
+  - first:
+      213: -1484024233774237292
+    second: Kick_410
+  - first:
+      213: 3274701159943501765
+    second: Kick_411
+  - first:
+      213: -5628585105545532835
+    second: Kick_412
+  - first:
+      213: 7629888857632529196
+    second: Kick_413
+  - first:
+      213: 5443908276077321049
+    second: Kick_414
+  - first:
+      213: -6216813786653726157
+    second: Kick_415
+  - first:
+      213: 8841072192820066827
+    second: Kick_416
+  - first:
+      213: -830696890308839969
+    second: Kick_417
+  - first:
+      213: 1126951414244190686
+    second: Kick_418
+  - first:
+      213: 7357573766650445730
+    second: Kick_419
+  - first:
+      213: 7614183472226002930
+    second: Kick_420
+  - first:
+      213: -1392697180213671453
+    second: Kick_421
+  - first:
+      213: -3061624993764060149
+    second: Kick_422
+  - first:
+      213: 624491805352593092
+    second: Kick_423
+  - first:
+      213: 1402583569909086108
+    second: Kick_424
+  - first:
+      213: 3345205552561434478
+    second: Kick_425
+  - first:
+      213: 3312675594520342169
+    second: Kick_426
+  - first:
+      213: -6193559205658872518
+    second: Kick_427
+  - first:
+      213: 3612248824897011036
+    second: Kick_428
+  - first:
+      213: 5229748040978928899
+    second: Kick_429
+  - first:
+      213: -6443791875569486033
+    second: Kick_430
+  - first:
+      213: -7908642393067499028
+    second: Kick_431
+  - first:
+      213: 7383859776779842449
+    second: Kick_432
+  - first:
+      213: -3280252444189007785
+    second: Kick_433
+  - first:
+      213: 8708467940011825594
+    second: Kick_434
+  - first:
+      213: -1080641533178937815
+    second: Kick_435
+  - first:
+      213: 1538314775446875827
+    second: Kick_436
+  - first:
+      213: 7779425865563288661
+    second: Kick_437
+  - first:
+      213: -415822025929133412
+    second: Kick_438
+  - first:
+      213: -4055843805612811453
+    second: Kick_439
+  - first:
+      213: 8259393660575294738
+    second: Kick_440
+  - first:
+      213: -5203363154216267679
+    second: Kick_441
+  - first:
+      213: -7320032861953123590
+    second: Kick_442
+  - first:
+      213: -6615168543366556118
+    second: Kick_443
+  - first:
+      213: -7512288205937599257
+    second: Kick_444
+  - first:
+      213: -1711794160227139886
+    second: Kick_445
+  - first:
+      213: -1338841452601747042
+    second: Kick_446
+  - first:
+      213: 112313564069002541
+    second: Kick_447
+  - first:
+      213: 2585855197056327504
+    second: Kick_448
+  - first:
+      213: -3068404125871587643
+    second: Kick_449
+  - first:
+      213: -2950283507272191729
+    second: Kick_450
+  - first:
+      213: -7080780110482084430
+    second: Kick_451
+  - first:
+      213: 444467342678532673
+    second: Kick_452
+  - first:
+      213: -5838641856871643056
+    second: Kick_453
+  - first:
+      213: 803904236766297804
+    second: Kick_454
+  - first:
+      213: -8748204012314158098
+    second: Kick_455
+  - first:
+      213: -6174650807962979458
+    second: Kick_456
+  - first:
+      213: -549830915157062873
+    second: Kick_457
+  - first:
+      213: 7997415092811221476
+    second: Kick_458
+  - first:
+      213: 882804207702417503
+    second: Kick_459
+  - first:
+      213: -2672523961752695809
+    second: Kick_460
+  - first:
+      213: -6564043288835812210
+    second: Kick_461
+  - first:
+      213: 2207619252112161563
+    second: Kick_462
+  - first:
+      213: -9201186707378656016
+    second: Kick_463
+  - first:
+      213: 7121384088507026067
+    second: Kick_464
+  - first:
+      213: 6147235601681902651
+    second: Kick_465
+  - first:
+      213: -5225397191215086277
+    second: Kick_466
+  - first:
+      213: 2980225341931241633
+    second: Kick_467
+  - first:
+      213: 503755092039697667
+    second: Kick_468
+  - first:
+      213: -4945532211636955808
+    second: Kick_469
+  - first:
+      213: -3460831473442235379
+    second: Kick_470
+  - first:
+      213: 7881278449722548980
+    second: Kick_471
+  - first:
+      213: 7232092628670614856
+    second: Kick_472
+  - first:
+      213: -1879873093567786536
+    second: Kick_473
+  - first:
+      213: 1127494928323867907
+    second: Kick_474
+  - first:
+      213: -3070901541966842224
+    second: Kick_475
+  - first:
+      213: 1975717245508140553
+    second: Kick_476
+  - first:
+      213: -3839121346422100528
+    second: Kick_477
+  - first:
+      213: -7228875231245998621
+    second: Kick_478
+  - first:
+      213: -8307163798804895661
+    second: Kick_479
+  - first:
+      213: -3439839419910303401
+    second: Kick_480
+  - first:
+      213: -7212298295555978857
+    second: Kick_481
+  - first:
+      213: -6377881055960449567
+    second: Kick_482
+  - first:
+      213: -6676658453100172125
+    second: Kick_483
+  - first:
+      213: 5486144193190776469
+    second: Kick_484
+  - first:
+      213: 6489132551952006688
+    second: Kick_485
+  - first:
+      213: -2982158463189088763
+    second: Kick_486
+  - first:
+      213: 2640567489026647624
+    second: Kick_487
+  - first:
+      213: -2627865833289700375
+    second: Kick_488
+  - first:
+      213: -6283098693108264063
+    second: Kick_489
+  - first:
+      213: -8453531533844918959
+    second: Kick_490
+  - first:
+      213: 5498908865939218848
+    second: Kick_491
+  - first:
+      213: 6023689087371630852
+    second: Kick_492
+  - first:
+      213: -4967295689196561494
+    second: Kick_493
+  - first:
+      213: 7967962414038502065
+    second: Kick_494
+  - first:
+      213: -6065107874072754264
+    second: Kick_495
+  - first:
+      213: 6808847827159097840
+    second: Kick_496
+  - first:
+      213: -3409465603706274518
+    second: Kick_497
+  - first:
+      213: 1111291313009404018
+    second: Kick_498
+  - first:
+      213: -1559872446043962296
+    second: Kick_499
+  - first:
+      213: -2831880146083521621
+    second: Kick_500
+  - first:
+      213: -1438079779927488934
+    second: Kick_501
+  - first:
+      213: 2456339057792670681
+    second: Kick_502
+  - first:
+      213: 3316703801512592452
+    second: Kick_503
+  - first:
+      213: 3771749873530504945
+    second: Kick_504
+  - first:
+      213: -7703964106483994855
+    second: Kick_505
+  - first:
+      213: -6951122889011774399
+    second: Kick_506
+  - first:
+      213: -6038264844249269952
+    second: Kick_507
+  - first:
+      213: 2356506538106761715
+    second: Kick_508
+  - first:
+      213: 8280824439760745271
+    second: Kick_509
+  - first:
+      213: 7521865218445800771
+    second: Kick_510
+  - first:
+      213: 8453564911506292168
+    second: Kick_511
+  - first:
+      213: 4895269490129762380
+    second: Kick_512
+  - first:
+      213: 4467023204935542453
+    second: Kick_513
+  - first:
+      213: -5662891887674565503
+    second: Kick_514
+  - first:
+      213: 8334673638430421661
+    second: Kick_515
+  - first:
+      213: -6311251178859405209
+    second: Kick_516
+  - first:
+      213: -2960447636190709039
+    second: Kick_517
+  - first:
+      213: -2134634151299216404
+    second: Kick_518
+  - first:
+      213: -8203926085362995700
+    second: Kick_519
+  - first:
+      213: 8565689891008673363
+    second: Kick_520
+  - first:
+      213: -2215457923861841131
+    second: Kick_521
+  - first:
+      213: -8366111066795739637
+    second: Kick_522
+  - first:
+      213: 3352201162284151291
+    second: Kick_523
+  - first:
+      213: -3977791975140568475
+    second: Kick_524
+  - first:
+      213: -1296601232400421849
+    second: Kick_525
+  - first:
+      213: -2281211865300026781
+    second: Kick_526
+  - first:
+      213: -8237794082137906681
+    second: Kick_527
+  - first:
+      213: 9040018967421163105
+    second: Kick_528
+  - first:
+      213: -963819929612031306
+    second: Kick_529
+  - first:
+      213: 8281563291991459592
+    second: Kick_530
+  - first:
+      213: 8524543782286720791
+    second: Kick_531
+  - first:
+      213: 2365468880452099902
+    second: Kick_532
+  - first:
+      213: -4638672676398893447
+    second: Kick_533
+  - first:
+      213: 5058324247380642519
+    second: Kick_534
+  - first:
+      213: -1863998137595055268
+    second: Kick_535
+  - first:
+      213: 3744456269623572212
+    second: Kick_536
+  - first:
+      213: 4913214750816869795
+    second: Kick_537
+  - first:
+      213: -1207314733466034090
+    second: Kick_538
+  - first:
+      213: -1907065448893184645
+    second: Kick_539
+  - first:
+      213: 2134698615823173968
+    second: Kick_540
+  - first:
+      213: 7084403378351093061
+    second: Kick_541
+  - first:
+      213: 9118311653254030648
+    second: Kick_542
+  - first:
+      213: 4467444754738421931
+    second: Kick_543
+  - first:
+      213: 6846174645368691699
+    second: Kick_544
+  - first:
+      213: -6368489517127980617
+    second: Kick_545
+  - first:
+      213: 1846950768200378249
+    second: Kick_546
+  - first:
+      213: -4511281629008209334
+    second: Kick_547
+  - first:
+      213: 5688808689080252878
+    second: Kick_548
+  - first:
+      213: -6052136573226298854
+    second: Kick_549
+  - first:
+      213: -2662116009519407290
+    second: Kick_550
+  - first:
+      213: 8034267621211699943
+    second: Kick_551
+  - first:
+      213: -1372473236819283507
+    second: Kick_552
+  - first:
+      213: -1973212314770804745
+    second: Kick_553
+  - first:
+      213: -2874053999869224743
+    second: Kick_554
+  - first:
+      213: -479870266763921200
+    second: Kick_555
+  - first:
+      213: -5311787272439898295
+    second: Kick_556
+  - first:
+      213: 1114920730283449383
+    second: Kick_557
+  - first:
+      213: 1988563222636287679
+    second: Kick_558
+  - first:
+      213: 9167173369887782796
+    second: Kick_559
+  - first:
+      213: -3912106176800061263
+    second: Kick_560
+  - first:
+      213: -4084117818489930654
+    second: Kick_561
+  - first:
+      213: 6951614865251879768
+    second: Kick_562
+  - first:
+      213: 1594587762374541495
+    second: Kick_563
+  - first:
+      213: 1105783388599906488
+    second: Kick_564
+  - first:
+      213: -7867796869697230434
+    second: Kick_565
+  - first:
+      213: -2804860047755756537
+    second: Kick_566
+  - first:
+      213: -6569027688962668275
+    second: Kick_567
+  - first:
+      213: -4937349191485894239
+    second: Kick_568
+  - first:
+      213: -2592362436167061196
+    second: Kick_569
+  - first:
+      213: 3541709952396708994
+    second: Kick_570
+  - first:
+      213: 3902379886942430546
+    second: Kick_571
+  - first:
+      213: 2954380668582728027
+    second: Kick_572
+  - first:
+      213: 7168344760093115544
+    second: Kick_573
+  - first:
+      213: 2105028030477396237
+    second: Kick_574
+  - first:
+      213: 3184636964906597868
+    second: Kick_575
+  - first:
+      213: 7047739217790878405
+    second: Kick_576
+  - first:
+      213: 8057488268549844022
+    second: Kick_577
+  - first:
+      213: -7129897392484368384
+    second: Kick_578
+  - first:
+      213: -5597331791688305023
+    second: Kick_579
+  - first:
+      213: -2824931969006630973
+    second: Kick_580
+  - first:
+      213: -3822214623645885367
+    second: Kick_581
+  - first:
+      213: 7971559740329969354
+    second: Kick_582
+  - first:
+      213: 6531530708221703336
+    second: Kick_583
+  - first:
+      213: -1989443360780876267
+    second: Kick_584
+  - first:
+      213: -1529633263531016840
+    second: Kick_585
+  - first:
+      213: 3017222490357714482
+    second: Kick_586
+  - first:
+      213: -6782553707051027093
+    second: Kick_587
+  - first:
+      213: -7411396925625755215
+    second: Kick_588
+  - first:
+      213: 106820343813851543
+    second: Kick_589
+  - first:
+      213: 925526130349691360
+    second: Kick_590
+  - first:
+      213: 7583547009504315382
+    second: Kick_591
+  - first:
+      213: -7769296335232243322
+    second: Kick_592
+  - first:
+      213: 1536123845920359976
+    second: Kick_593
+  - first:
+      213: 6482756354811432605
+    second: Kick_594
+  - first:
+      213: -4720571841930624182
+    second: Kick_595
+  - first:
+      213: -1907806741639891022
+    second: Kick_596
+  - first:
+      213: -2251660764614126476
+    second: Kick_597
+  - first:
+      213: 6979941535724248153
+    second: Kick_598
+  - first:
+      213: 7161874535062758693
+    second: Kick_599
+  - first:
+      213: 2764265978903540428
+    second: Kick_600
+  - first:
+      213: -6978756267728067763
+    second: Kick_601
+  - first:
+      213: 4485956390429221153
+    second: Kick_602
+  - first:
+      213: -261501215326563381
+    second: Kick_603
+  - first:
+      213: 6615061140282086793
+    second: Kick_604
+  - first:
+      213: -7877512535827407782
+    second: Kick_605
+  - first:
+      213: -2173454476588577440
+    second: Kick_606
+  - first:
+      213: -5617493260894010106
+    second: Kick_607
+  - first:
+      213: -1552097916016350485
+    second: Kick_608
+  - first:
+      213: -9212630771755742866
+    second: Kick_609
+  - first:
+      213: -4284241336760081133
+    second: Kick_610
+  - first:
+      213: -3641776557720444521
+    second: Kick_611
+  - first:
+      213: 1937121812279750204
+    second: Kick_612
+  - first:
+      213: 7020041377977987214
+    second: Kick_613
+  - first:
+      213: -2819496119500964985
+    second: Kick_614
+  - first:
+      213: 9049891565176214847
+    second: Kick_615
+  - first:
+      213: -709349890706465873
+    second: Kick_616
+  - first:
+      213: -6869148545869336266
+    second: Kick_0_0
+  - first:
+      213: 1771881464502935302
+    second: Kick_0_1
+  - first:
+      213: 8604042196195405491
+    second: Kick_0_2
+  - first:
+      213: -7228910291081176088
+    second: Kick_0_3
+  - first:
+      213: -1906028983387749198
+    second: Kick_0_4
+  - first:
+      213: -4745472504748983151
+    second: Kick_0_5
+  - first:
+      213: 6403985985020791524
+    second: Kick_0_6
+  - first:
+      213: 4907400072745027542
+    second: Kick_0_7
+  - first:
+      213: 3147302573029779373
+    second: Kick_0_8
+  - first:
+      213: -5693254462736911350
+    second: Kick_0_9
+  - first:
+      213: 4675696193361666053
+    second: Kick_0_10
+  - first:
+      213: 4725674646524762058
+    second: Kick_0_11
+  - first:
+      213: -5929549193476256442
+    second: Kick_0_12
+  - first:
+      213: -8258005166741627023
+    second: Kick_0_13
+  - first:
+      213: -8221093552465651202
+    second: Kick_0_14
+  - first:
+      213: 1211396040081713760
+    second: Kick_1_0
+  - first:
+      213: 4749152423974120284
+    second: Kick_1_1
+  - first:
+      213: -9155019380782464556
+    second: Kick_1_2
+  - first:
+      213: -6873415042168652699
+    second: Kick_1_3
+  - first:
+      213: -1523702894713023033
+    second: Kick_1_4
+  - first:
+      213: -5320864414932125665
+    second: Kick_1_5
+  - first:
+      213: -374999754085734523
+    second: Kick_1_6
+  - first:
+      213: -8229910877900110762
+    second: Kick_1_7
+  - first:
+      213: -3061619479537325032
+    second: Kick_1_8
+  - first:
+      213: 2734774741178876943
+    second: Kick_1_9
+  - first:
+      213: -4851020434012101404
+    second: Kick_1_10
+  - first:
+      213: -2754458887422332055
+    second: Kick_1_11
+  - first:
+      213: 1603434724490375980
+    second: Kick_1_12
+  - first:
+      213: -145114812593406821
+    second: Kick_1_13
+  - first:
+      213: -6050195824599977509
+    second: Kick_1_14
+  - first:
+      213: 4633715854228084406
+    second: Kick_2_0
+  - first:
+      213: -566283485232154092
+    second: Kick_2_1
+  - first:
+      213: 5970348437612853654
+    second: Kick_2_2
+  - first:
+      213: -6432045171127399953
+    second: Kick_2_3
+  - first:
+      213: -5928899685380033979
+    second: Kick_2_4
+  - first:
+      213: 1338852886319273503
+    second: Kick_2_5
+  - first:
+      213: 2967831014540051252
+    second: Kick_2_6
+  - first:
+      213: 1667737093282784459
+    second: Kick_2_7
+  - first:
+      213: 5549730994221617007
+    second: Kick_2_8
+  - first:
+      213: 5683038144022296351
+    second: Kick_2_9
+  - first:
+      213: 7184491497031763269
+    second: Kick_2_10
+  - first:
+      213: -8282092901676158866
+    second: Kick_2_11
+  - first:
+      213: 4429142964596708370
+    second: Kick_2_12
+  - first:
+      213: -4546907789477343027
+    second: Kick_2_13
+  - first:
+      213: -3549695493523320443
+    second: Kick_2_14
+  - first:
+      213: -1945334485822879356
+    second: Kick_3_0
+  - first:
+      213: -6481136873599593558
+    second: Kick_3_1
+  - first:
+      213: 2929564023649822379
+    second: Kick_3_2
+  - first:
+      213: -3852536134991001522
+    second: Kick_3_3
+  - first:
+      213: -3810508940106392119
+    second: Kick_3_4
+  - first:
+      213: 2926584872749859358
+    second: Kick_3_5
+  - first:
+      213: 2085371390238563475
+    second: Kick_3_6
+  - first:
+      213: 7020824766942733409
+    second: Kick_3_7
+  - first:
+      213: -1890956852918571350
+    second: Kick_3_8
+  - first:
+      213: -7098798008023677708
+    second: Kick_3_9
+  - first:
+      213: 6798406268491158713
+    second: Kick_3_10
+  - first:
+      213: 962481547532640391
+    second: Kick_3_11
+  - first:
+      213: -2245987969688717777
+    second: Kick_3_12
+  - first:
+      213: -1065336832764698852
+    second: Kick_3_13
+  - first:
+      213: -5818626775850173607
+    second: Kick_3_14
+  - first:
+      213: -3132939060530099380
+    second: Kick_4_0
+  - first:
+      213: -7839144153195706919
+    second: Kick_4_1
+  - first:
+      213: -37899051836200903
+    second: Kick_4_2
+  - first:
+      213: 2828028421643609287
+    second: Kick_4_3
+  - first:
+      213: 1513988282669935859
+    second: Kick_4_4
+  - first:
+      213: 2550179295106429661
+    second: Kick_4_5
+  - first:
+      213: -5682752575674518963
+    second: Kick_4_6
+  - first:
+      213: -3784663327082976232
+    second: Kick_4_7
+  - first:
+      213: 1654910542634232135
+    second: Kick_4_8
+  - first:
+      213: -1247388375189849118
+    second: Kick_4_9
+  - first:
+      213: -1737269259638410451
+    second: Kick_4_10
+  - first:
+      213: 1603707988245784942
+    second: Kick_4_11
+  - first:
+      213: -1256342373795809134
+    second: Kick_4_12
+  - first:
+      213: 9171212127632636530
+    second: Kick_4_13
+  - first:
+      213: -8925805835723790930
+    second: Kick_4_14
+  - first:
+      213: -5519288315985802159
+    second: Kick_5_0
+  - first:
+      213: -3363945431977211282
+    second: Kick_5_1
+  - first:
+      213: 1356895255617459571
+    second: Kick_5_2
+  - first:
+      213: 6743172027169749916
+    second: Kick_5_3
+  - first:
+      213: 8520561283744033055
+    second: Kick_5_4
+  - first:
+      213: 7535244393842204384
+    second: Kick_5_5
+  - first:
+      213: -1316013413457345086
+    second: Kick_5_6
+  - first:
+      213: -8391577277173562162
+    second: Kick_5_7
+  - first:
+      213: 3702216929958861564
+    second: Kick_5_8
+  - first:
+      213: -8264217730203668927
+    second: Kick_5_9
+  - first:
+      213: -9172434520225954305
+    second: Kick_5_10
+  - first:
+      213: 176815461665035717
+    second: Kick_5_11
+  - first:
+      213: -3145573861299302372
+    second: Kick_5_12
+  - first:
+      213: 6821502695263530172
+    second: Kick_5_13
+  - first:
+      213: -1622615126281330475
+    second: Kick_5_14
+  - first:
+      213: -1234081284427527961
+    second: Kick_6_0
+  - first:
+      213: 3505836990839996944
+    second: Kick_6_1
+  - first:
+      213: 3715780578225760860
+    second: Kick_6_2
+  - first:
+      213: 401707989780127185
+    second: Kick_6_3
+  - first:
+      213: 6487110711779742999
+    second: Kick_6_4
+  - first:
+      213: -1735382602148244057
+    second: Kick_6_5
+  - first:
+      213: 4209745961121514169
+    second: Kick_6_6
+  - first:
+      213: 4397807202938271277
+    second: Kick_6_7
+  - first:
+      213: -9208998631138426388
+    second: Kick_6_8
+  - first:
+      213: -7696649102786608392
+    second: Kick_6_9
+  - first:
+      213: 8213869786529070138
+    second: Kick_6_10
+  - first:
+      213: 6361199093695605686
+    second: Kick_6_11
+  - first:
+      213: 7366002513939019924
+    second: Kick_6_12
+  - first:
+      213: 6214441744714766437
+    second: Kick_6_13
+  - first:
+      213: 5163033071868410799
+    second: Kick_6_14
+  - first:
+      213: 7387198493581933247
+    second: Kick_7_0
+  - first:
+      213: 6411505486389420486
+    second: Kick_7_1
+  - first:
+      213: 8951375944976092672
+    second: Kick_7_2
+  - first:
+      213: -409504396888823534
+    second: Kick_7_3
+  - first:
+      213: 600203336962444107
+    second: Kick_7_4
+  - first:
+      213: -4143932124081431825
+    second: Kick_7_5
+  - first:
+      213: 8987271705010635765
+    second: Kick_7_6
+  - first:
+      213: -7457331439649442490
+    second: Kick_7_7
+  - first:
+      213: 3699613674963072089
+    second: Kick_7_8
+  - first:
+      213: 7033708043036094282
+    second: Kick_7_9
+  - first:
+      213: 6274150005555968166
+    second: Kick_7_10
+  - first:
+      213: 4094520372053977218
+    second: Kick_7_11
+  - first:
+      213: -5448029610858043716
+    second: Kick_7_12
+  - first:
+      213: -488689527376303891
+    second: Kick_7_13
+  - first:
+      213: -8836719607017123749
+    second: Kick_7_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kick_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6313116bac1eba0a0800000000000000
+      internalID: -6869148545869336266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fdbcbddccf69810800000000000000
+      internalID: 1771881464502935302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bee2b09ac2b76770800000000000000
+      internalID: 8604042196195405491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebd0f20460cdab90800000000000000
+      internalID: -7228910291081176088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b40399fcbc6c85e0800000000000000
+      internalID: -1906028983387749198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cbd0746e1b42eb0800000000000000
+      internalID: -4745472504748983151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea8eb7d2578fd850800000000000000
+      internalID: 6403985985020791524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d781ba9d569a1440800000000000000
+      internalID: 4907400072745027542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7ec1ad3077dab20800000000000000
+      internalID: 3147302573029779373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04b8a4fa3f7df0b0800000000000000
+      internalID: -5693254462736911350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500e7fa3ae863e040800000000000000
+      internalID: 4675696193361666053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac79d26ad08f49140800000000000000
+      internalID: 4725674646524762058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dc4a4bc6206bda0800000000000000
+      internalID: -5929549193476256442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f560bbd0ca56d80800000000000000
+      internalID: -8258005166741627023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_0_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9d704a8fec8ed80800000000000000
+      internalID: -8221093552465651202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aa26bb74ebfc010800000000000000
+      internalID: 1211396040081713760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ba92fa7f068e140800000000000000
+      internalID: 4749152423974120284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d105a8e066d2f080800000000000000
+      internalID: -9155019380782464556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cf5b1af69bc90a0800000000000000
+      internalID: -6873415042168652699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c555694a48badae0800000000000000
+      internalID: -1523702894713023033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1834f9710e7826b0800000000000000
+      internalID: -5320864414932125665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5876cd2e5bbbbcaf0800000000000000
+      internalID: -374999754085734523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65404a519ab79cd80800000000000000
+      internalID: -8229910877900110762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ce2c4fd41f285d0800000000000000
+      internalID: -3061619479537325032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f048dac332fd3f520800000000000000
+      internalID: 2734774741178876943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e42c88fd96bdacb0800000000000000
+      internalID: -4851020434012101404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96336c25c3236c9d0800000000000000
+      internalID: -2754458887422332055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2376c5f26b804610800000000000000
+      internalID: 1603434724490375980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cf8b7c8d27cfdf0800000000000000
+      internalID: -145114812593406821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_1_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1ba2de3f2690ca0800000000000000
+      internalID: -6050195824599977509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b65c59d4044e4040800000000000000
+      internalID: 4633715854228084406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a3194ab282428f0800000000000000
+      internalID: -566283485232154092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699f8319540fad250800000000000000
+      internalID: 5970348437612853654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe94fabcef8ccb6a0800000000000000
+      internalID: -6432045171127399953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5427ff7162158bda0800000000000000
+      internalID: -5928899685380033979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1611974b9f849210800000000000000
+      internalID: 1338852886319273503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4330c0f559adf2920800000000000000
+      internalID: 2967831014540051252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4ecdfdc0ef42710800000000000000
+      internalID: 1667737093282784459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f0e8d7fea940d40800000000000000
+      internalID: 5549730994221617007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17b17bf4153ede40800000000000000
+      internalID: 5683038144022296351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545846493f074b360800000000000000
+      internalID: 7184491497031763269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60fec6e268101d80800000000000000
+      internalID: -8282092901676158866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21415384f0a777d30800000000000000
+      internalID: 4429142964596708370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc01fbdb47326e0c0800000000000000
+      internalID: -4546907789477343027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_2_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581dcb771c2fcbec0800000000000000
+      internalID: -3549695493523320443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489c53b8798c005e0800000000000000
+      internalID: -1945334485822879356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3196c1a506e06a0800000000000000
+      internalID: -6481136873599593558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6696045f6e7a820800000000000000
+      internalID: 2929564023649822379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48418dfbca098ac0800000000000000
+      internalID: -3852536134991001522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd1283de4a5e1bc0800000000000000
+      internalID: -3810508940106392119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e128941af615d9820800000000000000
+      internalID: 2926584872749859358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c9eeb0b3ab0fc10800000000000000
+      internalID: 2085371390238563475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164e2e77deafe6160800000000000000
+      internalID: 7020824766942733409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaea230d2c8f1c5e0800000000000000
+      internalID: -1890956852918571350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f48f7f92d00c7d90800000000000000
+      internalID: -7098798008023677708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b454305b7ac85e50800000000000000
+      internalID: 6798406268491158713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7802d873edb6b5d00800000000000000
+      internalID: 962481547532640391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2637e067d5a4d0e0800000000000000
+      internalID: -2245987969688717777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f9be48bc92731f0800000000000000
+      internalID: -1065336832764698852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_3_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bbfd896c5104fa0800000000000000
+      internalID: -5818626775850173607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b482206809584d0800000000000000
+      internalID: -3132939060530099380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d580bd1de3c53390800000000000000
+      internalID: -7839144153195706919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938aafd530b597ff0800000000000000
+      internalID: -37899051836200903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4a6ceaddc2f3720800000000000000
+      internalID: 2828028421643609287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc25a65254c20510800000000000000
+      internalID: 1513988282669935859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2ff56be8e046320800000000000000
+      internalID: 2550179295106429661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42fb7414aec221b0800000000000000
+      internalID: -5682752575674518963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c65ca81cc2a7bc0800000000000000
+      internalID: -3784663327082976232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74923c4de5c67f610800000000000000
+      internalID: 1654910542634232135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb7bd7b1e260bee0800000000000000
+      internalID: -1247388375189849118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23fb0410daf3e7e0800000000000000
+      internalID: -1737269259638410451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69a8d22be3814610800000000000000
+      internalID: 1603707988245784942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29831a57443909ee0800000000000000
+      internalID: -1256342373795809134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a3c43c6d0b64f70800000000000000
+      internalID: 9171212127632636530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_4_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5239322ea212480800000000000000
+      internalID: -8925805835723790930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cc3b0e48c8763b0800000000000000
+      internalID: -5519288315985802159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a433bd37dd051d0800000000000000
+      internalID: -3363945431977211282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375dd7cbb09a4d210800000000000000
+      internalID: 1356895255617459571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bbdca5b3f849d50800000000000000
+      internalID: 6743172027169749916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19628cf75d1f3670800000000000000
+      internalID: 8520561283744033055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eed7be4ad0929860800000000000000
+      internalID: 7535244393842204384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5c933e5c49cbde0800000000000000
+      internalID: -1316013413457345086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec484d84de02b8b80800000000000000
+      internalID: -8391577277173562162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa92afbeaae06330800000000000000
+      internalID: 3702216929958861564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ea9b492c99f4d80800000000000000
+      internalID: -8264217730203668927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5c668c667f4b080800000000000000
+      internalID: -9172434520225954305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5575fb9bc247200800000000000000
+      internalID: 176815461665035717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1050863d3da854d0800000000000000
+      internalID: -3145573861299302372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc6d893f88daae50800000000000000
+      internalID: 6821502695263530172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_5_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d063deb3205b79e0800000000000000
+      internalID: -1622615126281330475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e84db93c99afdee0800000000000000
+      internalID: -1234081284427527961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012417f1b2c37a030800000000000000
+      internalID: 3505836990839996944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a2174bfba119330800000000000000
+      internalID: 3715780578225760860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddd742d947239500800000000000000
+      internalID: 401707989780127185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715534a72d8d60a50800000000000000
+      internalID: 6487110711779742999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a59f81c7beaae7e0800000000000000
+      internalID: -1735382602148244057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2884fb5a50c6a30800000000000000
+      internalID: 4209745961121514169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d263ac9b956280d30800000000000000
+      internalID: 4397807202938271277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce18fed4980133080800000000000000
+      internalID: -9208998631138426388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2439b6b62003590800000000000000
+      internalID: -7696649102786608392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cf0694d078df170800000000000000
+      internalID: 8213869786529070138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb63456fd4874850800000000000000
+      internalID: 6361199093695605686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49838f9724c493660800000000000000
+      internalID: 7366002513939019924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568151f57d12e3650800000000000000
+      internalID: 6214441744714766437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_6_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab7f445937c6a740800000000000000
+      internalID: 5163033071868410799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba704f04e9948660800000000000000
+      internalID: 7387198493581933247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1a5bf254e3af850800000000000000
+      internalID: 6411505486389420486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ec64bdefca93c70800000000000000
+      internalID: 8951375944976092672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2192b71bbe5215af0800000000000000
+      internalID: -409504396888823534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b86a441c9545800800000000000000
+      internalID: 600203336962444107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feadbca40bbcd76c0800000000000000
+      internalID: -4143932124081431825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f30415cff339bc70800000000000000
+      internalID: 8987271705010635765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645b757f09c328890800000000000000
+      internalID: -7457331439649442490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954f956390ba75330800000000000000
+      internalID: 3699613674963072089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f69fee230cc9160800000000000000
+      internalID: 7033708043036094282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8bdac2032421750800000000000000
+      internalID: 6274150005555968166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288a0eda598a2d830800000000000000
+      internalID: 4094520372053977218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb62ffe0fe5b464b0800000000000000
+      internalID: -5448029610858043716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8284bc673d739f0800000000000000
+      internalID: -488689527376303891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick_7_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50d30c165aad5580800000000000000
+      internalID: -8836719607017123749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kick_0: 4875550202295362856
+      Kick_0_0: -6869148545869336266
+      Kick_0_1: 1771881464502935302
+      Kick_0_10: 4675696193361666053
+      Kick_0_11: 4725674646524762058
+      Kick_0_12: -5929549193476256442
+      Kick_0_13: -8258005166741627023
+      Kick_0_14: -8221093552465651202
+      Kick_0_2: 8604042196195405491
+      Kick_0_3: -7228910291081176088
+      Kick_0_4: -1906028983387749198
+      Kick_0_5: -4745472504748983151
+      Kick_0_6: 6403985985020791524
+      Kick_0_7: 4907400072745027542
+      Kick_0_8: 3147302573029779373
+      Kick_0_9: -5693254462736911350
+      Kick_1: 7382034801322492081
+      Kick_10: -3130122043592584391
+      Kick_100: -3357011088158948144
+      Kick_101: 1075507650673402332
+      Kick_102: -6000757952218528778
+      Kick_103: -6843757243696751775
+      Kick_104: 268879620965417464
+      Kick_105: -4793709833487669161
+      Kick_106: 675303480682272361
+      Kick_107: 6067488920932953683
+      Kick_108: -3603929609555661270
+      Kick_109: 1882164786322147159
+      Kick_11: -1184338038214779424
+      Kick_110: -853935072052737882
+      Kick_111: -2497510523561717982
+      Kick_112: 6198950438793629871
+      Kick_113: 2105246556999147653
+      Kick_114: -6810643237891943874
+      Kick_115: -7389096978637695472
+      Kick_116: -2266966428193576388
+      Kick_117: 1418098954312812508
+      Kick_118: 8994804610375598687
+      Kick_119: -5159842926858346523
+      Kick_12: -6278379700893849238
+      Kick_120: -7541554345672330853
+      Kick_121: -6595444687720014423
+      Kick_122: 4763469428234390433
+      Kick_123: -1419801895282076848
+      Kick_124: 2118738356124362166
+      Kick_125: 6002755457341601584
+      Kick_126: -5364329746945696212
+      Kick_127: 7811171535337056517
+      Kick_128: 3111627922806444294
+      Kick_129: -2217119072933265325
+      Kick_13: -2329759627579760923
+      Kick_130: -2679576742367458705
+      Kick_131: -6968814812825755101
+      Kick_132: 8217088379978306390
+      Kick_133: 2239114697434531946
+      Kick_134: -6161627887438175428
+      Kick_135: -6776971437254924060
+      Kick_136: 755419821275061292
+      Kick_137: -6753298907574635913
+      Kick_138: 1754270742109336856
+      Kick_139: -6713157445636088072
+      Kick_14: -8731451342485663347
+      Kick_140: -377957832187954657
+      Kick_141: -6892397402829082893
+      Kick_142: -7699747086708822105
+      Kick_143: 5462279545661005415
+      Kick_144: -1557672828057136352
+      Kick_145: 3570586014342791619
+      Kick_146: 55065617710958147
+      Kick_147: 2593077472942870565
+      Kick_148: -8457608670938913577
+      Kick_149: -802692597128182507
+      Kick_15: 1758862618882075845
+      Kick_150: 3007717830782109557
+      Kick_151: 9089789259004610980
+      Kick_152: -8485883837114931684
+      Kick_153: -1161527946314248316
+      Kick_154: 4848539510097247315
+      Kick_155: -4391012480894734979
+      Kick_156: -3877420064650950521
+      Kick_157: 1428232260660486224
+      Kick_158: -8348679819521719156
+      Kick_159: -616304357394507131
+      Kick_16: -4739176893017749648
+      Kick_160: -4236622133408388001
+      Kick_161: 6622000263887800067
+      Kick_162: 562006871318467681
+      Kick_163: 6074621287859082330
+      Kick_164: 1227573647364945584
+      Kick_165: 656009081805344646
+      Kick_166: 7585201240353796422
+      Kick_167: -3900079617063129536
+      Kick_168: -3068648751213097834
+      Kick_169: 7514767048651768695
+      Kick_17: -7587724472594246672
+      Kick_170: 5497046859010096549
+      Kick_171: -5657155999370195683
+      Kick_172: -5743382100159355240
+      Kick_173: -2115405746228556713
+      Kick_174: 2513960792972347422
+      Kick_175: 4007360248724436508
+      Kick_176: 8111384189586708549
+      Kick_177: 5138180739579998488
+      Kick_178: -3014809472303537284
+      Kick_179: -7367646976750311191
+      Kick_18: 3925823642134178883
+      Kick_180: 8270912976422718286
+      Kick_181: 2042711785668465900
+      Kick_182: 8337167189515882422
+      Kick_183: 951529531810218542
+      Kick_184: 4344707799354670941
+      Kick_185: 8812402742151826082
+      Kick_186: -5446124294318148622
+      Kick_187: 3456986835597708872
+      Kick_188: -381939558089045824
+      Kick_189: 2764736159084821864
+      Kick_19: -7424675351201738324
+      Kick_190: -2707159942934859921
+      Kick_191: -6225383687975654561
+      Kick_192: -9203167203737986226
+      Kick_193: 1277961264632204334
+      Kick_194: -4670642991426174665
+      Kick_195: 5000988678740009825
+      Kick_196: -7384570528443142419
+      Kick_197: -222566894447319330
+      Kick_198: 5711066077778409205
+      Kick_199: -8075415465724034393
+      Kick_1_0: 1211396040081713760
+      Kick_1_1: 4749152423974120284
+      Kick_1_10: -4851020434012101404
+      Kick_1_11: -2754458887422332055
+      Kick_1_12: 1603434724490375980
+      Kick_1_13: -145114812593406821
+      Kick_1_14: -6050195824599977509
+      Kick_1_2: -9155019380782464556
+      Kick_1_3: -6873415042168652699
+      Kick_1_4: -1523702894713023033
+      Kick_1_5: -5320864414932125665
+      Kick_1_6: -374999754085734523
+      Kick_1_7: -8229910877900110762
+      Kick_1_8: -3061619479537325032
+      Kick_1_9: 2734774741178876943
+      Kick_2: 3640076384215072705
+      Kick_20: 2940217539679394119
+      Kick_200: 332707179166896801
+      Kick_201: 3347533157183375468
+      Kick_202: 2678141936107541799
+      Kick_203: -7018145997928402334
+      Kick_204: -2625425585742737262
+      Kick_205: -1399986558426208433
+      Kick_206: 2131952524494468146
+      Kick_207: -7980221839299207266
+      Kick_208: 6631577508605195430
+      Kick_209: 4790656678423257581
+      Kick_21: -4167057831420378153
+      Kick_210: 7852111014988924896
+      Kick_211: 8182722072613984135
+      Kick_212: -2153299170556891610
+      Kick_213: 9104034065073668728
+      Kick_214: 1878308815388898091
+      Kick_215: 4621975578705889132
+      Kick_216: 8918668594542201537
+      Kick_217: -3973330539661168235
+      Kick_218: 2633650892120178922
+      Kick_219: -7213962019115363276
+      Kick_22: -2252206954677251430
+      Kick_220: 3631497557753939294
+      Kick_221: -3815224448449376361
+      Kick_222: -1266802188988280501
+      Kick_223: -5881278298216784858
+      Kick_224: 6711427095311898861
+      Kick_225: -7175513526511556228
+      Kick_226: 5586190115062072181
+      Kick_227: 911973926804740106
+      Kick_228: -5170071308487717036
+      Kick_229: -979851645529534371
+      Kick_23: -3278472320177172867
+      Kick_230: -5209983959400743356
+      Kick_231: -9205656023504264110
+      Kick_232: 3851727297903875464
+      Kick_233: 3872944840709255241
+      Kick_234: -6244161780528933988
+      Kick_235: 7792958697212047626
+      Kick_236: 8678734331865427802
+      Kick_237: -6696248679600815618
+      Kick_238: 4003582476072957570
+      Kick_239: 2782770777175794002
+      Kick_24: -7871122585674940944
+      Kick_240: 3961187519324297245
+      Kick_241: -423282248426543339
+      Kick_242: -6150845294925095910
+      Kick_243: 8620690621518182903
+      Kick_244: 3815467730315448193
+      Kick_245: -5282986585003552284
+      Kick_246: -7998611128368555187
+      Kick_247: -6703083794374387760
+      Kick_248: -9144735682507579381
+      Kick_249: 5888021011299545390
+      Kick_25: 2770282508368533559
+      Kick_250: -6324870670502304418
+      Kick_251: -2798816006478312088
+      Kick_252: 5945008949890634005
+      Kick_253: 6557133467692474456
+      Kick_254: 7648705655373896008
+      Kick_255: 7988283307552320122
+      Kick_256: 942176295443454059
+      Kick_257: 7920804246895186297
+      Kick_258: 6288677374786725743
+      Kick_259: 4121189196003092303
+      Kick_26: -6505984805256772458
+      Kick_260: -7925537492188359614
+      Kick_261: 1719359835321973280
+      Kick_262: 3419704466718558424
+      Kick_263: -2349955237855209256
+      Kick_264: -1873534238631364950
+      Kick_265: -2706622844862977211
+      Kick_266: 246156901098360852
+      Kick_267: 652102935257731954
+      Kick_268: 6365016209224054907
+      Kick_269: -6077642945921015387
+      Kick_27: -5135661782472528759
+      Kick_270: -3793918925193850319
+      Kick_271: 2792524324305630020
+      Kick_272: -7745742291958080274
+      Kick_273: -6119898320457626237
+      Kick_274: 5192885572599933628
+      Kick_275: 5568427486642584271
+      Kick_276: -1068213185108508855
+      Kick_277: -6218997419093218044
+      Kick_278: 2839079603019333218
+      Kick_279: 4294118371828231140
+      Kick_28: 4776322614497421682
+      Kick_280: -3599146452480365037
+      Kick_281: -867517173503359380
+      Kick_282: 6745718266705872665
+      Kick_283: -5552226643474021926
+      Kick_284: 2279639011157717578
+      Kick_285: 4138467152443603650
+      Kick_286: 7410633459241473503
+      Kick_287: -7111228113302790391
+      Kick_288: 4206484389813057323
+      Kick_289: -5258467056966477144
+      Kick_29: -6359660778412559074
+      Kick_290: -4779537766530180222
+      Kick_291: -4414920832794290525
+      Kick_292: 8824592813908227179
+      Kick_293: 5899453780712842280
+      Kick_294: -5074813658161035775
+      Kick_295: 927762797048385156
+      Kick_296: -6495458738660168323
+      Kick_297: -7995518776307566399
+      Kick_298: -3762849580345367350
+      Kick_299: 3324484826754882677
+      Kick_2_0: 4633715854228084406
+      Kick_2_1: -566283485232154092
+      Kick_2_10: 7184491497031763269
+      Kick_2_11: -8282092901676158866
+      Kick_2_12: 4429142964596708370
+      Kick_2_13: -4546907789477343027
+      Kick_2_14: -3549695493523320443
+      Kick_2_2: 5970348437612853654
+      Kick_2_3: -6432045171127399953
+      Kick_2_4: -5928899685380033979
+      Kick_2_5: 1338852886319273503
+      Kick_2_6: 2967831014540051252
+      Kick_2_7: 1667737093282784459
+      Kick_2_8: 5549730994221617007
+      Kick_2_9: 5683038144022296351
+      Kick_3: -5744143365864270874
+      Kick_30: 3969365098454579327
+      Kick_300: 8817434426459722906
+      Kick_301: -581755579497659439
+      Kick_302: -5273668593588371480
+      Kick_303: 3799879805730588654
+      Kick_304: 7936978559632439696
+      Kick_305: -8601855511803663132
+      Kick_306: -4893531359374916200
+      Kick_307: 6905287345845663866
+      Kick_308: -7767186048256401385
+      Kick_309: 6602887704485478034
+      Kick_31: 7364034447000363697
+      Kick_310: -6125334645952536372
+      Kick_311: 6260930145479562483
+      Kick_312: 648569472925477971
+      Kick_313: -2384450633879791227
+      Kick_314: -7656558289021261726
+      Kick_315: 8007400516505418029
+      Kick_316: 2361502760850946221
+      Kick_317: 6156594464684194233
+      Kick_318: 1452536501760688953
+      Kick_319: 1959507547115865871
+      Kick_32: -5937058321480096244
+      Kick_320: 5940882648629535886
+      Kick_321: -2487261394016618575
+      Kick_322: -5129352972427966455
+      Kick_323: 3291007295133612380
+      Kick_324: 2917207874640300048
+      Kick_325: 6014658893811755975
+      Kick_326: -1373127016232068647
+      Kick_327: -9001645746075779100
+      Kick_328: 8472889575683355200
+      Kick_329: -2187336072265102744
+      Kick_33: 2112388846829592753
+      Kick_330: -588715074905662329
+      Kick_331: -3582737291939774642
+      Kick_332: -8943303667879380234
+      Kick_333: 6683770541229176999
+      Kick_334: -2111480687548774778
+      Kick_335: -5512071130627268726
+      Kick_336: -4658835770219145953
+      Kick_337: -253527690085993123
+      Kick_338: -1209564288118187843
+      Kick_339: 5010559751160848639
+      Kick_34: -6810268207112100259
+      Kick_340: 5034512450186949120
+      Kick_341: 5445824777098648803
+      Kick_342: 7651721761905190358
+      Kick_343: 3061634129974918394
+      Kick_344: 838972196328330979
+      Kick_345: -2937551741524321774
+      Kick_346: 5904883966808093824
+      Kick_347: 4274487311474411849
+      Kick_348: -1626587270729355502
+      Kick_349: 7553478315320816201
+      Kick_35: -3981618612978135638
+      Kick_350: -3901698794637068501
+      Kick_351: 192125085074144539
+      Kick_352: -7975422455560797812
+      Kick_353: -3244313477282723753
+      Kick_354: 719057501071219975
+      Kick_355: 679275133593141739
+      Kick_356: 3764488350008165813
+      Kick_357: -7828175951579315766
+      Kick_358: -8674981224635964408
+      Kick_359: 7039791222666909922
+      Kick_36: 7068607032678475297
+      Kick_360: 1896423749417339268
+      Kick_361: 5430751301822183206
+      Kick_362: -3766966897667130524
+      Kick_363: 1896506804050388344
+      Kick_364: -6691706076874880059
+      Kick_365: 5898484877800222398
+      Kick_366: 2341395238130659973
+      Kick_367: 1337669442079822136
+      Kick_368: -7862649152293648625
+      Kick_369: -5946198572751251315
+      Kick_37: -1869642885893667781
+      Kick_370: 1021024189442415890
+      Kick_371: 1348920119716983162
+      Kick_372: -5499749530313404168
+      Kick_373: 6296080891908517817
+      Kick_374: -681184893208623798
+      Kick_375: -7510937630459740239
+      Kick_376: -1012213535277536375
+      Kick_377: 6734622057913250200
+      Kick_378: 551292797042626507
+      Kick_379: -8105775028395206619
+      Kick_38: 7651993739971860731
+      Kick_380: 1111896759986188913
+      Kick_381: 494970076081202547
+      Kick_382: 7398590577704804445
+      Kick_383: -7674671010317207527
+      Kick_384: -6170608424051453274
+      Kick_385: -5442792557155063675
+      Kick_386: -3126319283802942432
+      Kick_387: 5502700415986641451
+      Kick_388: -716127343677374404
+      Kick_389: -2338889322542052388
+      Kick_39: 8240018675257941764
+      Kick_390: 398177945376001734
+      Kick_391: 5187406018295497249
+      Kick_392: -7881995541574154908
+      Kick_393: 3252290219480398612
+      Kick_394: 7371927798619922236
+      Kick_395: 1836260297079390108
+      Kick_396: -5857751870254418156
+      Kick_397: -5166201708358841449
+      Kick_398: 8644683696534153801
+      Kick_399: -6645965711122935790
+      Kick_3_0: -1945334485822879356
+      Kick_3_1: -6481136873599593558
+      Kick_3_10: 6798406268491158713
+      Kick_3_11: 962481547532640391
+      Kick_3_12: -2245987969688717777
+      Kick_3_13: -1065336832764698852
+      Kick_3_14: -5818626775850173607
+      Kick_3_2: 2929564023649822379
+      Kick_3_3: -3852536134991001522
+      Kick_3_4: -3810508940106392119
+      Kick_3_5: 2926584872749859358
+      Kick_3_6: 2085371390238563475
+      Kick_3_7: 7020824766942733409
+      Kick_3_8: -1890956852918571350
+      Kick_3_9: -7098798008023677708
+      Kick_4: -7484144780416948975
+      Kick_40: -9005281627751113342
+      Kick_400: -505899175234393664
+      Kick_401: -6258162154875118267
+      Kick_402: -6182006934771156795
+      Kick_403: -1230866584344953407
+      Kick_404: -6945426071099016600
+      Kick_405: -4895121089640124270
+      Kick_406: 5108225367758271334
+      Kick_407: 1251117473971227888
+      Kick_408: -6332279435088261473
+      Kick_409: -3738310679703980693
+      Kick_41: 3248501593303394810
+      Kick_410: -1484024233774237292
+      Kick_411: 3274701159943501765
+      Kick_412: -5628585105545532835
+      Kick_413: 7629888857632529196
+      Kick_414: 5443908276077321049
+      Kick_415: -6216813786653726157
+      Kick_416: 8841072192820066827
+      Kick_417: -830696890308839969
+      Kick_418: 1126951414244190686
+      Kick_419: 7357573766650445730
+      Kick_42: -3810322179372027113
+      Kick_420: 7614183472226002930
+      Kick_421: -1392697180213671453
+      Kick_422: -3061624993764060149
+      Kick_423: 624491805352593092
+      Kick_424: 1402583569909086108
+      Kick_425: 3345205552561434478
+      Kick_426: 3312675594520342169
+      Kick_427: -6193559205658872518
+      Kick_428: 3612248824897011036
+      Kick_429: 5229748040978928899
+      Kick_43: 1268547231836127592
+      Kick_430: -6443791875569486033
+      Kick_431: -7908642393067499028
+      Kick_432: 7383859776779842449
+      Kick_433: -3280252444189007785
+      Kick_434: 8708467940011825594
+      Kick_435: -1080641533178937815
+      Kick_436: 1538314775446875827
+      Kick_437: 7779425865563288661
+      Kick_438: -415822025929133412
+      Kick_439: -4055843805612811453
+      Kick_44: 238645374277502217
+      Kick_440: 8259393660575294738
+      Kick_441: -5203363154216267679
+      Kick_442: -7320032861953123590
+      Kick_443: -6615168543366556118
+      Kick_444: -7512288205937599257
+      Kick_445: -1711794160227139886
+      Kick_446: -1338841452601747042
+      Kick_447: 112313564069002541
+      Kick_448: 2585855197056327504
+      Kick_449: -3068404125871587643
+      Kick_45: 3549382180739583855
+      Kick_450: -2950283507272191729
+      Kick_451: -7080780110482084430
+      Kick_452: 444467342678532673
+      Kick_453: -5838641856871643056
+      Kick_454: 803904236766297804
+      Kick_455: -8748204012314158098
+      Kick_456: -6174650807962979458
+      Kick_457: -549830915157062873
+      Kick_458: 7997415092811221476
+      Kick_459: 882804207702417503
+      Kick_46: 3075367277012205919
+      Kick_460: -2672523961752695809
+      Kick_461: -6564043288835812210
+      Kick_462: 2207619252112161563
+      Kick_463: -9201186707378656016
+      Kick_464: 7121384088507026067
+      Kick_465: 6147235601681902651
+      Kick_466: -5225397191215086277
+      Kick_467: 2980225341931241633
+      Kick_468: 503755092039697667
+      Kick_469: -4945532211636955808
+      Kick_47: -308950364216248243
+      Kick_470: -3460831473442235379
+      Kick_471: 7881278449722548980
+      Kick_472: 7232092628670614856
+      Kick_473: -1879873093567786536
+      Kick_474: 1127494928323867907
+      Kick_475: -3070901541966842224
+      Kick_476: 1975717245508140553
+      Kick_477: -3839121346422100528
+      Kick_478: -7228875231245998621
+      Kick_479: -8307163798804895661
+      Kick_48: -1255472037287010649
+      Kick_480: -3439839419910303401
+      Kick_481: -7212298295555978857
+      Kick_482: -6377881055960449567
+      Kick_483: -6676658453100172125
+      Kick_484: 5486144193190776469
+      Kick_485: 6489132551952006688
+      Kick_486: -2982158463189088763
+      Kick_487: 2640567489026647624
+      Kick_488: -2627865833289700375
+      Kick_489: -6283098693108264063
+      Kick_49: -4501335001233255172
+      Kick_490: -8453531533844918959
+      Kick_491: 5498908865939218848
+      Kick_492: 6023689087371630852
+      Kick_493: -4967295689196561494
+      Kick_494: 7967962414038502065
+      Kick_495: -6065107874072754264
+      Kick_496: 6808847827159097840
+      Kick_497: -3409465603706274518
+      Kick_498: 1111291313009404018
+      Kick_499: -1559872446043962296
+      Kick_4_0: -3132939060530099380
+      Kick_4_1: -7839144153195706919
+      Kick_4_10: -1737269259638410451
+      Kick_4_11: 1603707988245784942
+      Kick_4_12: -1256342373795809134
+      Kick_4_13: 9171212127632636530
+      Kick_4_14: -8925805835723790930
+      Kick_4_2: -37899051836200903
+      Kick_4_3: 2828028421643609287
+      Kick_4_4: 1513988282669935859
+      Kick_4_5: 2550179295106429661
+      Kick_4_6: -5682752575674518963
+      Kick_4_7: -3784663327082976232
+      Kick_4_8: 1654910542634232135
+      Kick_4_9: -1247388375189849118
+      Kick_5: -4347578519165869139
+      Kick_50: -7977118608748228579
+      Kick_500: -2831880146083521621
+      Kick_501: -1438079779927488934
+      Kick_502: 2456339057792670681
+      Kick_503: 3316703801512592452
+      Kick_504: 3771749873530504945
+      Kick_505: -7703964106483994855
+      Kick_506: -6951122889011774399
+      Kick_507: -6038264844249269952
+      Kick_508: 2356506538106761715
+      Kick_509: 8280824439760745271
+      Kick_51: 5999699660555418751
+      Kick_510: 7521865218445800771
+      Kick_511: 8453564911506292168
+      Kick_512: 4895269490129762380
+      Kick_513: 4467023204935542453
+      Kick_514: -5662891887674565503
+      Kick_515: 8334673638430421661
+      Kick_516: -6311251178859405209
+      Kick_517: -2960447636190709039
+      Kick_518: -2134634151299216404
+      Kick_519: -8203926085362995700
+      Kick_52: -3116682143974281607
+      Kick_520: 8565689891008673363
+      Kick_521: -2215457923861841131
+      Kick_522: -8366111066795739637
+      Kick_523: 3352201162284151291
+      Kick_524: -3977791975140568475
+      Kick_525: -1296601232400421849
+      Kick_526: -2281211865300026781
+      Kick_527: -8237794082137906681
+      Kick_528: 9040018967421163105
+      Kick_529: -963819929612031306
+      Kick_53: 2847356777041489661
+      Kick_530: 8281563291991459592
+      Kick_531: 8524543782286720791
+      Kick_532: 2365468880452099902
+      Kick_533: -4638672676398893447
+      Kick_534: 5058324247380642519
+      Kick_535: -1863998137595055268
+      Kick_536: 3744456269623572212
+      Kick_537: 4913214750816869795
+      Kick_538: -1207314733466034090
+      Kick_539: -1907065448893184645
+      Kick_54: -2613113307084715381
+      Kick_540: 2134698615823173968
+      Kick_541: 7084403378351093061
+      Kick_542: 9118311653254030648
+      Kick_543: 4467444754738421931
+      Kick_544: 6846174645368691699
+      Kick_545: -6368489517127980617
+      Kick_546: 1846950768200378249
+      Kick_547: -4511281629008209334
+      Kick_548: 5688808689080252878
+      Kick_549: -6052136573226298854
+      Kick_55: 4685421517959110566
+      Kick_550: -2662116009519407290
+      Kick_551: 8034267621211699943
+      Kick_552: -1372473236819283507
+      Kick_553: -1973212314770804745
+      Kick_554: -2874053999869224743
+      Kick_555: -479870266763921200
+      Kick_556: -5311787272439898295
+      Kick_557: 1114920730283449383
+      Kick_558: 1988563222636287679
+      Kick_559: 9167173369887782796
+      Kick_56: 3179020469037808874
+      Kick_560: -3912106176800061263
+      Kick_561: -4084117818489930654
+      Kick_562: 6951614865251879768
+      Kick_563: 1594587762374541495
+      Kick_564: 1105783388599906488
+      Kick_565: -7867796869697230434
+      Kick_566: -2804860047755756537
+      Kick_567: -6569027688962668275
+      Kick_568: -4937349191485894239
+      Kick_569: -2592362436167061196
+      Kick_57: -8286538191473350673
+      Kick_570: 3541709952396708994
+      Kick_571: 3902379886942430546
+      Kick_572: 2954380668582728027
+      Kick_573: 7168344760093115544
+      Kick_574: 2105028030477396237
+      Kick_575: 3184636964906597868
+      Kick_576: 7047739217790878405
+      Kick_577: 8057488268549844022
+      Kick_578: -7129897392484368384
+      Kick_579: -5597331791688305023
+      Kick_58: -2686716513450129563
+      Kick_580: -2824931969006630973
+      Kick_581: -3822214623645885367
+      Kick_582: 7971559740329969354
+      Kick_583: 6531530708221703336
+      Kick_584: -1989443360780876267
+      Kick_585: -1529633263531016840
+      Kick_586: 3017222490357714482
+      Kick_587: -6782553707051027093
+      Kick_588: -7411396925625755215
+      Kick_589: 106820343813851543
+      Kick_59: 3339459830459646191
+      Kick_590: 925526130349691360
+      Kick_591: 7583547009504315382
+      Kick_592: -7769296335232243322
+      Kick_593: 1536123845920359976
+      Kick_594: 6482756354811432605
+      Kick_595: -4720571841930624182
+      Kick_596: -1907806741639891022
+      Kick_597: -2251660764614126476
+      Kick_598: 6979941535724248153
+      Kick_599: 7161874535062758693
+      Kick_5_0: -5519288315985802159
+      Kick_5_1: -3363945431977211282
+      Kick_5_10: -9172434520225954305
+      Kick_5_11: 176815461665035717
+      Kick_5_12: -3145573861299302372
+      Kick_5_13: 6821502695263530172
+      Kick_5_14: -1622615126281330475
+      Kick_5_2: 1356895255617459571
+      Kick_5_3: 6743172027169749916
+      Kick_5_4: 8520561283744033055
+      Kick_5_5: 7535244393842204384
+      Kick_5_6: -1316013413457345086
+      Kick_5_7: -8391577277173562162
+      Kick_5_8: 3702216929958861564
+      Kick_5_9: -8264217730203668927
+      Kick_6: -6500147261662118090
+      Kick_60: -6110891247478702202
+      Kick_600: 2764265978903540428
+      Kick_601: -6978756267728067763
+      Kick_602: 4485956390429221153
+      Kick_603: -261501215326563381
+      Kick_604: 6615061140282086793
+      Kick_605: -7877512535827407782
+      Kick_606: -2173454476588577440
+      Kick_607: -5617493260894010106
+      Kick_608: -1552097916016350485
+      Kick_609: -9212630771755742866
+      Kick_61: -6556703268762688167
+      Kick_610: -4284241336760081133
+      Kick_611: -3641776557720444521
+      Kick_612: 1937121812279750204
+      Kick_613: 7020041377977987214
+      Kick_614: -2819496119500964985
+      Kick_615: 9049891565176214847
+      Kick_616: -709349890706465873
+      Kick_62: 7251059502453073306
+      Kick_63: -6911509367171999994
+      Kick_64: -4445116623542283175
+      Kick_65: -8648281642174068681
+      Kick_66: 4973895548577131846
+      Kick_67: -5463355068963133117
+      Kick_68: -4196343815666612418
+      Kick_69: 5884461646573826522
+      Kick_6_0: -1234081284427527961
+      Kick_6_1: 3505836990839996944
+      Kick_6_10: 8213869786529070138
+      Kick_6_11: 6361199093695605686
+      Kick_6_12: 7366002513939019924
+      Kick_6_13: 6214441744714766437
+      Kick_6_14: 5163033071868410799
+      Kick_6_2: 3715780578225760860
+      Kick_6_3: 401707989780127185
+      Kick_6_4: 6487110711779742999
+      Kick_6_5: -1735382602148244057
+      Kick_6_6: 4209745961121514169
+      Kick_6_7: 4397807202938271277
+      Kick_6_8: -9208998631138426388
+      Kick_6_9: -7696649102786608392
+      Kick_7: -4513392813365026625
+      Kick_70: 8367838434712239679
+      Kick_71: 5471944767195386833
+      Kick_72: -6145912367683719367
+      Kick_73: 4298759251804231530
+      Kick_74: -2603292104294591435
+      Kick_75: -8484719476944776590
+      Kick_76: 8443718771696296413
+      Kick_77: -5315174322142030005
+      Kick_78: -8375909799440011323
+      Kick_79: 5663072130928281157
+      Kick_7_0: 7387198493581933247
+      Kick_7_1: 6411505486389420486
+      Kick_7_10: 6274150005555968166
+      Kick_7_11: 4094520372053977218
+      Kick_7_12: -5448029610858043716
+      Kick_7_13: -488689527376303891
+      Kick_7_14: -8836719607017123749
+      Kick_7_2: 8951375944976092672
+      Kick_7_3: -409504396888823534
+      Kick_7_4: 600203336962444107
+      Kick_7_5: -4143932124081431825
+      Kick_7_6: 8987271705010635765
+      Kick_7_7: -7457331439649442490
+      Kick_7_8: 3699613674963072089
+      Kick_7_9: 7033708043036094282
+      Kick_8: 2373574331434663591
+      Kick_80: -5252797724122942427
+      Kick_81: 3151777071854884341
+      Kick_82: 1000262339358072460
+      Kick_83: -1035734630405183642
+      Kick_84: 6282269460116976416
+      Kick_85: 7591130084371667291
+      Kick_86: 7323558474999384293
+      Kick_87: 5305662707708013074
+      Kick_88: -6279808519638660304
+      Kick_89: -1592582032535494678
+      Kick_9: -694122209341000648
+      Kick_90: 2432671286902158037
+      Kick_91: -8249641336187882781
+      Kick_92: 6873026007485832739
+      Kick_93: -8379961527138072690
+      Kick_94: 820464020854992596
+      Kick_95: -6834551127082495971
+      Kick_96: -6242769092921517531
+      Kick_97: -4340561105458600748
+      Kick_98: 7259202979069582839
+      Kick_99: 6619545503148090890
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

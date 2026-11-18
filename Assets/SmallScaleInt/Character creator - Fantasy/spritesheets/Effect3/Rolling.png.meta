@@ -1,0 +1,5705 @@
+fileFormatVersion: 2
+guid: e8bec8fed2d3eca4ca4384071d757ef6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -725676847703976320
+    second: Rolling_0
+  - first:
+      213: 2804552036436801705
+    second: Rolling_1
+  - first:
+      213: 246690345009715882
+    second: Rolling_2
+  - first:
+      213: 4914790032895607488
+    second: Rolling_3
+  - first:
+      213: 8957890312988738062
+    second: Rolling_4
+  - first:
+      213: 728715001442487571
+    second: Rolling_5
+  - first:
+      213: 291541445017753677
+    second: Rolling_6
+  - first:
+      213: 1937895615618567686
+    second: Rolling_7
+  - first:
+      213: -1433437805159334051
+    second: Rolling_8
+  - first:
+      213: -3078519299960756994
+    second: Rolling_9
+  - first:
+      213: 2240636464467928315
+    second: Rolling_10
+  - first:
+      213: 8676170316349161011
+    second: Rolling_11
+  - first:
+      213: -5842034905591963187
+    second: Rolling_12
+  - first:
+      213: -3221273882454254805
+    second: Rolling_13
+  - first:
+      213: -930069001885914268
+    second: Rolling_14
+  - first:
+      213: 3648973524908400381
+    second: Rolling_15
+  - first:
+      213: -6453209052969132641
+    second: Rolling_16
+  - first:
+      213: 8746928359168288737
+    second: Rolling_17
+  - first:
+      213: -8903024850358175846
+    second: Rolling_18
+  - first:
+      213: 4998097869354579997
+    second: Rolling_19
+  - first:
+      213: 5576098853454369386
+    second: Rolling_20
+  - first:
+      213: 7510271574358332752
+    second: Rolling_21
+  - first:
+      213: 5367252971323565703
+    second: Rolling_22
+  - first:
+      213: 8307941951932666045
+    second: Rolling_23
+  - first:
+      213: -1843811864358678339
+    second: Rolling_24
+  - first:
+      213: 3931340312679867531
+    second: Rolling_25
+  - first:
+      213: -9023591139542443368
+    second: Rolling_26
+  - first:
+      213: -7369834233558674118
+    second: Rolling_27
+  - first:
+      213: -1388024727487340364
+    second: Rolling_28
+  - first:
+      213: 6788357279408995876
+    second: Rolling_29
+  - first:
+      213: 3301805793619535459
+    second: Rolling_30
+  - first:
+      213: 283780167374697800
+    second: Rolling_31
+  - first:
+      213: 420223387149958495
+    second: Rolling_32
+  - first:
+      213: -7376548653227040949
+    second: Rolling_33
+  - first:
+      213: 5136471780619550303
+    second: Rolling_34
+  - first:
+      213: -4948507302233732967
+    second: Rolling_35
+  - first:
+      213: -6575877316452283513
+    second: Rolling_36
+  - first:
+      213: -8251808528299776368
+    second: Rolling_37
+  - first:
+      213: -5172210974887443530
+    second: Rolling_38
+  - first:
+      213: 677214768927874859
+    second: Rolling_39
+  - first:
+      213: -5298264536064098923
+    second: Rolling_40
+  - first:
+      213: 1758241633736173256
+    second: Rolling_41
+  - first:
+      213: 1609814412993003376
+    second: Rolling_42
+  - first:
+      213: 3933538405451958680
+    second: Rolling_43
+  - first:
+      213: -2665057764293156699
+    second: Rolling_44
+  - first:
+      213: 5600717533600887793
+    second: Rolling_45
+  - first:
+      213: -8660378509679933936
+    second: Rolling_46
+  - first:
+      213: -9030467325143899723
+    second: Rolling_47
+  - first:
+      213: 2906412196581271604
+    second: Rolling_48
+  - first:
+      213: -7000535951860378958
+    second: Rolling_49
+  - first:
+      213: 758922236981511725
+    second: Rolling_50
+  - first:
+      213: -6516722965493692525
+    second: Rolling_51
+  - first:
+      213: -3683232598795785349
+    second: Rolling_52
+  - first:
+      213: 1181561205293985063
+    second: Rolling_53
+  - first:
+      213: 3899859757184746102
+    second: Rolling_54
+  - first:
+      213: -3648406466075014309
+    second: Rolling_55
+  - first:
+      213: 2524657013531705344
+    second: Rolling_56
+  - first:
+      213: -6776205924539865516
+    second: Rolling_57
+  - first:
+      213: -6940007566986112309
+    second: Rolling_58
+  - first:
+      213: -7653998927355830740
+    second: Rolling_59
+  - first:
+      213: 8759141229120327801
+    second: Rolling_60
+  - first:
+      213: 7740280908263215084
+    second: Rolling_61
+  - first:
+      213: -502619275545543277
+    second: Rolling_62
+  - first:
+      213: -2652226153421337652
+    second: Rolling_63
+  - first:
+      213: 5324979804886236056
+    second: Rolling_64
+  - first:
+      213: -8282358645968371408
+    second: Rolling_65
+  - first:
+      213: -1615176529134483066
+    second: Rolling_66
+  - first:
+      213: -1142959332749993926
+    second: Rolling_67
+  - first:
+      213: -1989185630189250508
+    second: Rolling_68
+  - first:
+      213: 8388172391979271229
+    second: Rolling_69
+  - first:
+      213: 1104111104649185655
+    second: Rolling_70
+  - first:
+      213: -5935708931907726445
+    second: Rolling_71
+  - first:
+      213: -1818574782003066817
+    second: Rolling_72
+  - first:
+      213: 6059992907303253009
+    second: Rolling_73
+  - first:
+      213: 1215745877261652920
+    second: Rolling_74
+  - first:
+      213: 1306555310440098318
+    second: Rolling_75
+  - first:
+      213: -8080382261389840683
+    second: Rolling_76
+  - first:
+      213: 8834927114044307074
+    second: Rolling_77
+  - first:
+      213: -2530657752476927257
+    second: Rolling_78
+  - first:
+      213: 4820238423674081485
+    second: Rolling_79
+  - first:
+      213: 5101252141168105250
+    second: Rolling_80
+  - first:
+      213: -5543374459095579176
+    second: Rolling_81
+  - first:
+      213: -541360995759847636
+    second: Rolling_82
+  - first:
+      213: 8239716202594262453
+    second: Rolling_83
+  - first:
+      213: -4143624310779172742
+    second: Rolling_84
+  - first:
+      213: -7867713624070767478
+    second: Rolling_85
+  - first:
+      213: 6387915715801867788
+    second: Rolling_86
+  - first:
+      213: -5330922761748585737
+    second: Rolling_87
+  - first:
+      213: 5350355241731927647
+    second: Rolling_88
+  - first:
+      213: 7799904081071900481
+    second: Rolling_89
+  - first:
+      213: -7057504848332350123
+    second: Rolling_90
+  - first:
+      213: 8642428194618562127
+    second: Rolling_91
+  - first:
+      213: 217461914065587976
+    second: Rolling_92
+  - first:
+      213: 1942358655905831159
+    second: Rolling_93
+  - first:
+      213: 800906846467984021
+    second: Rolling_94
+  - first:
+      213: 7011214622729940093
+    second: Rolling_95
+  - first:
+      213: -1179619683738072532
+    second: Rolling_96
+  - first:
+      213: 5428623152436685557
+    second: Rolling_97
+  - first:
+      213: 3022395684332593104
+    second: Rolling_98
+  - first:
+      213: -6580051962387241302
+    second: Rolling_99
+  - first:
+      213: -6717398282796336041
+    second: Rolling_100
+  - first:
+      213: -2134463861404550528
+    second: Rolling_101
+  - first:
+      213: 3265794442235679397
+    second: Rolling_102
+  - first:
+      213: 7155218699708251466
+    second: Rolling_103
+  - first:
+      213: -234608420421255723
+    second: Rolling_104
+  - first:
+      213: -4266399415098719853
+    second: Rolling_105
+  - first:
+      213: -4064906606422547877
+    second: Rolling_106
+  - first:
+      213: -6251070981651638093
+    second: Rolling_107
+  - first:
+      213: 7810001014307648902
+    second: Rolling_108
+  - first:
+      213: -5080246318246228374
+    second: Rolling_109
+  - first:
+      213: -2772406596738334965
+    second: Rolling_110
+  - first:
+      213: -75963156327593409
+    second: Rolling_111
+  - first:
+      213: 4884283696255492735
+    second: Rolling_112
+  - first:
+      213: -8066745679144756604
+    second: Rolling_113
+  - first:
+      213: -357188709779742987
+    second: Rolling_114
+  - first:
+      213: -2420273323575882769
+    second: Rolling_115
+  - first:
+      213: -8374413112000904862
+    second: Rolling_116
+  - first:
+      213: -4112330819281989046
+    second: Rolling_117
+  - first:
+      213: -6225487169514623766
+    second: Rolling_118
+  - first:
+      213: 4327560353326864228
+    second: Rolling_119
+  - first:
+      213: -6135347243759313710
+    second: Rolling_120
+  - first:
+      213: -2705207768343285744
+    second: Rolling_121
+  - first:
+      213: 8901296506904936893
+    second: Rolling_122
+  - first:
+      213: 2621107800744702599
+    second: Rolling_123
+  - first:
+      213: -7725916815664083730
+    second: Rolling_124
+  - first:
+      213: -1449788090900003248
+    second: Rolling_125
+  - first:
+      213: 6670116281187999789
+    second: Rolling_126
+  - first:
+      213: 3447228499562568599
+    second: Rolling_127
+  - first:
+      213: -6190955470774622954
+    second: Rolling_128
+  - first:
+      213: -2957929181568828444
+    second: Rolling_129
+  - first:
+      213: -3062158586210354441
+    second: Rolling_130
+  - first:
+      213: -808778675461010214
+    second: Rolling_131
+  - first:
+      213: 7820949193957114731
+    second: Rolling_132
+  - first:
+      213: -8168966216335273169
+    second: Rolling_133
+  - first:
+      213: 8902956952580481373
+    second: Rolling_134
+  - first:
+      213: -2838195664317031446
+    second: Rolling_135
+  - first:
+      213: 1167938346700516976
+    second: Rolling_136
+  - first:
+      213: -6475743347000824553
+    second: Rolling_137
+  - first:
+      213: 2780426219674008775
+    second: Rolling_138
+  - first:
+      213: 6872647310620478798
+    second: Rolling_139
+  - first:
+      213: -8613917383450974523
+    second: Rolling_140
+  - first:
+      213: -4447312436769664752
+    second: Rolling_141
+  - first:
+      213: 6572925554788100542
+    second: Rolling_142
+  - first:
+      213: -6935701607681455316
+    second: Rolling_143
+  - first:
+      213: -1458213247988509859
+    second: Rolling_144
+  - first:
+      213: 4285401309120577800
+    second: Rolling_145
+  - first:
+      213: -2921018176021604127
+    second: Rolling_146
+  - first:
+      213: -4004888298781880686
+    second: Rolling_147
+  - first:
+      213: -6150655637087631207
+    second: Rolling_148
+  - first:
+      213: 916860631760781870
+    second: Rolling_149
+  - first:
+      213: 872855176777582331
+    second: Rolling_150
+  - first:
+      213: 6749421560277077030
+    second: Rolling_151
+  - first:
+      213: -1449498785240423825
+    second: Rolling_152
+  - first:
+      213: 6565037307489366611
+    second: Rolling_153
+  - first:
+      213: -5666896926844428064
+    second: Rolling_154
+  - first:
+      213: 6771332231801472231
+    second: Rolling_155
+  - first:
+      213: -833523374465071013
+    second: Rolling_156
+  - first:
+      213: 7468239166355827833
+    second: Rolling_157
+  - first:
+      213: 2085514161619973411
+    second: Rolling_158
+  - first:
+      213: -8417739543134936892
+    second: Rolling_159
+  - first:
+      213: -7337664125838950073
+    second: Rolling_160
+  - first:
+      213: 4302768645383442448
+    second: Rolling_161
+  - first:
+      213: -8093860851615883400
+    second: Rolling_162
+  - first:
+      213: 7185906583811456559
+    second: Rolling_163
+  - first:
+      213: 2728449041397428012
+    second: Rolling_164
+  - first:
+      213: -7210264017480289303
+    second: Rolling_165
+  - first:
+      213: -5219360441569098347
+    second: Rolling_166
+  - first:
+      213: 6864404083036092882
+    second: Rolling_167
+  - first:
+      213: 7853614296139695408
+    second: Rolling_168
+  - first:
+      213: -1331519877203211160
+    second: Rolling_169
+  - first:
+      213: -2773332108772161320
+    second: Rolling_170
+  - first:
+      213: -754183824887581552
+    second: Rolling_171
+  - first:
+      213: -8789898138037362031
+    second: Rolling_172
+  - first:
+      213: -1573306007297963786
+    second: Rolling_173
+  - first:
+      213: 3977323507676798214
+    second: Rolling_174
+  - first:
+      213: -91818812360711809
+    second: Rolling_175
+  - first:
+      213: -2102996826895619096
+    second: Rolling_176
+  - first:
+      213: 5298953586517361301
+    second: Rolling_177
+  - first:
+      213: 6888508340110839881
+    second: Rolling_178
+  - first:
+      213: -4422090455851532394
+    second: Rolling_179
+  - first:
+      213: 5391611456861762176
+    second: Rolling_180
+  - first:
+      213: 717612279030858073
+    second: Rolling_181
+  - first:
+      213: -2133676955622420027
+    second: Rolling_182
+  - first:
+      213: -8678052167879065070
+    second: Rolling_183
+  - first:
+      213: 8028462738140624513
+    second: Rolling_184
+  - first:
+      213: 4789456224707708140
+    second: Rolling_185
+  - first:
+      213: 5965753036581865159
+    second: Rolling_186
+  - first:
+      213: 2595163544154020341
+    second: Rolling_187
+  - first:
+      213: 5340774008244879286
+    second: Rolling_188
+  - first:
+      213: -8814194127012179679
+    second: Rolling_189
+  - first:
+      213: 1672309426407958768
+    second: Rolling_190
+  - first:
+      213: 5725000880011772013
+    second: Rolling_191
+  - first:
+      213: 8374715742917962603
+    second: Rolling_192
+  - first:
+      213: 1237774035090586663
+    second: Rolling_193
+  - first:
+      213: 7320489534767728685
+    second: Rolling_194
+  - first:
+      213: -5313790594035479604
+    second: Rolling_195
+  - first:
+      213: -6840611936720843785
+    second: Rolling_196
+  - first:
+      213: 4007547500343896357
+    second: Rolling_197
+  - first:
+      213: 5712980655472082512
+    second: Rolling_198
+  - first:
+      213: -5999400669538884036
+    second: Rolling_199
+  - first:
+      213: -4235637817817206202
+    second: Rolling_200
+  - first:
+      213: 6559883468049723
+    second: Rolling_201
+  - first:
+      213: 588299889725122561
+    second: Rolling_202
+  - first:
+      213: 2944855387332911783
+    second: Rolling_203
+  - first:
+      213: -2899766037767888168
+    second: Rolling_204
+  - first:
+      213: 3439261985745136491
+    second: Rolling_205
+  - first:
+      213: -2553696083130466962
+    second: Rolling_206
+  - first:
+      213: 1228605892280135542
+    second: Rolling_207
+  - first:
+      213: -3729595913381034349
+    second: Rolling_208
+  - first:
+      213: 6793783136003860923
+    second: Rolling_209
+  - first:
+      213: -3404171070080792376
+    second: Rolling_210
+  - first:
+      213: 3979450823620952445
+    second: Rolling_211
+  - first:
+      213: 8196954727584366449
+    second: Rolling_212
+  - first:
+      213: 5011815782833304742
+    second: Rolling_213
+  - first:
+      213: 6962325663694983484
+    second: Rolling_214
+  - first:
+      213: -8806080645045586359
+    second: Rolling_215
+  - first:
+      213: 5581803997635496987
+    second: Rolling_216
+  - first:
+      213: 1526943140468705009
+    second: Rolling_217
+  - first:
+      213: 7815198710324994192
+    second: Rolling_218
+  - first:
+      213: 713301295822080902
+    second: Rolling_219
+  - first:
+      213: 5724835780650281479
+    second: Rolling_220
+  - first:
+      213: -7848297618857336699
+    second: Rolling_221
+  - first:
+      213: -5622518944031129926
+    second: Rolling_222
+  - first:
+      213: 432929463304555762
+    second: Rolling_223
+  - first:
+      213: 8669001241778110149
+    second: Rolling_224
+  - first:
+      213: -2486504927062628794
+    second: Rolling_225
+  - first:
+      213: -1640945506417253972
+    second: Rolling_226
+  - first:
+      213: 1685723891019684530
+    second: Rolling_227
+  - first:
+      213: 2733727925580011924
+    second: Rolling_228
+  - first:
+      213: 1135556048624967303
+    second: Rolling_229
+  - first:
+      213: 992240298801343042
+    second: Rolling_230
+  - first:
+      213: 5676038888203894720
+    second: Rolling_231
+  - first:
+      213: 8663521905490306543
+    second: Rolling_232
+  - first:
+      213: -2195513783089450305
+    second: Rolling_233
+  - first:
+      213: -8133844707756298845
+    second: Rolling_234
+  - first:
+      213: 399407969443708106
+    second: Rolling_235
+  - first:
+      213: 3133038033332349873
+    second: Rolling_236
+  - first:
+      213: 8002832419559294518
+    second: Rolling_237
+  - first:
+      213: -5525738909657529403
+    second: Rolling_238
+  - first:
+      213: 813407514058109402
+    second: Rolling_239
+  - first:
+      213: 3159171655019193555
+    second: Rolling_240
+  - first:
+      213: 5370344474578795951
+    second: Rolling_241
+  - first:
+      213: -7573210615868095799
+    second: Rolling_242
+  - first:
+      213: 8686520276006044791
+    second: Rolling_243
+  - first:
+      213: 8167755567697306939
+    second: Rolling_244
+  - first:
+      213: -8448703774622174989
+    second: Rolling_245
+  - first:
+      213: -5620993582752800917
+    second: Rolling_246
+  - first:
+      213: -8588582223572839459
+    second: Rolling_247
+  - first:
+      213: -3673507502152936918
+    second: Rolling_248
+  - first:
+      213: 6899557578245586723
+    second: Rolling_249
+  - first:
+      213: -211517660505301750
+    second: Rolling_250
+  - first:
+      213: -6913599311041486998
+    second: Rolling_251
+  - first:
+      213: 4457438333006765513
+    second: Rolling_252
+  - first:
+      213: 4830044481182002816
+    second: Rolling_253
+  - first:
+      213: 8659288778581137122
+    second: Rolling_254
+  - first:
+      213: -6088301525507461355
+    second: Rolling_255
+  - first:
+      213: -3002157572416115058
+    second: Rolling_256
+  - first:
+      213: 2639540869417390541
+    second: Rolling_257
+  - first:
+      213: 7627889891406831183
+    second: Rolling_258
+  - first:
+      213: 303825788805250385
+    second: Rolling_259
+  - first:
+      213: 8818961240624677901
+    second: Rolling_260
+  - first:
+      213: 3696578856828682698
+    second: Rolling_261
+  - first:
+      213: -1184077272634839946
+    second: Rolling_262
+  - first:
+      213: -2810328234475756222
+    second: Rolling_263
+  - first:
+      213: 5590428747236485387
+    second: Rolling_264
+  - first:
+      213: -6255135190668693652
+    second: Rolling_265
+  - first:
+      213: -3655825045279590448
+    second: Rolling_266
+  - first:
+      213: -3739800952491099922
+    second: Rolling_267
+  - first:
+      213: -4478914852256301309
+    second: Rolling_268
+  - first:
+      213: 7960364915632112233
+    second: Rolling_269
+  - first:
+      213: -4438645232292327595
+    second: Rolling_270
+  - first:
+      213: 5304041520437107203
+    second: Rolling_271
+  - first:
+      213: 6964159938374022566
+    second: Rolling_272
+  - first:
+      213: -8883753944753450473
+    second: Rolling_273
+  - first:
+      213: -4699736665652596455
+    second: Rolling_274
+  - first:
+      213: 4699875263810658265
+    second: Rolling_275
+  - first:
+      213: 980633692750050875
+    second: Rolling_276
+  - first:
+      213: -8539353255422807707
+    second: Rolling_277
+  - first:
+      213: 4104203724145151147
+    second: Rolling_278
+  - first:
+      213: -9088626992837436079
+    second: Rolling_279
+  - first:
+      213: -4459389198900714685
+    second: Rolling_280
+  - first:
+      213: 639573962227667132
+    second: Rolling_281
+  - first:
+      213: 6581131209643925130
+    second: Rolling_282
+  - first:
+      213: 2768926981505529672
+    second: Rolling_283
+  - first:
+      213: -9015254864457744320
+    second: Rolling_284
+  - first:
+      213: 8178387294141089667
+    second: Rolling_285
+  - first:
+      213: -6076749532056824984
+    second: Rolling_286
+  - first:
+      213: 8144361785188075480
+    second: Rolling_287
+  - first:
+      213: -1878020981598507419
+    second: Rolling_288
+  - first:
+      213: -7541584927985315945
+    second: Rolling_289
+  - first:
+      213: 6983368675934466883
+    second: Rolling_290
+  - first:
+      213: -4120726512606345851
+    second: Rolling_291
+  - first:
+      213: 2546473936729796269
+    second: Rolling_292
+  - first:
+      213: 6766151502469358317
+    second: Rolling_293
+  - first:
+      213: -4616339412949580881
+    second: Rolling_294
+  - first:
+      213: 5106317266397196730
+    second: Rolling_295
+  - first:
+      213: -7648439370242818212
+    second: Rolling_296
+  - first:
+      213: 9197836119871176974
+    second: Rolling_297
+  - first:
+      213: -139289853091793419
+    second: Rolling_298
+  - first:
+      213: 6759615701046208669
+    second: Rolling_299
+  - first:
+      213: 3588775628041200093
+    second: Rolling_300
+  - first:
+      213: 8865596600128188745
+    second: Rolling_301
+  - first:
+      213: 7799375973814734781
+    second: Rolling_302
+  - first:
+      213: 746375056052561640
+    second: Rolling_303
+  - first:
+      213: -5828608350885607772
+    second: Rolling_304
+  - first:
+      213: 6503274156434878000
+    second: Rolling_305
+  - first:
+      213: 4764046731660265148
+    second: Rolling_306
+  - first:
+      213: 8000777920798911093
+    second: Rolling_307
+  - first:
+      213: -8397087731540531215
+    second: Rolling_308
+  - first:
+      213: -1714149239932559643
+    second: Rolling_309
+  - first:
+      213: -7874085757565281879
+    second: Rolling_310
+  - first:
+      213: 7497970917430670797
+    second: Rolling_311
+  - first:
+      213: 6826338356107658869
+    second: Rolling_312
+  - first:
+      213: 6771111512682079491
+    second: Rolling_313
+  - first:
+      213: -7953443676152950851
+    second: Rolling_314
+  - first:
+      213: 4159287362142360444
+    second: Rolling_315
+  - first:
+      213: -8177866803271166995
+    second: Rolling_316
+  - first:
+      213: 1976335293123033156
+    second: Rolling_317
+  - first:
+      213: 3698477501362933742
+    second: Rolling_318
+  - first:
+      213: -4307669878629545419
+    second: Rolling_319
+  - first:
+      213: -6353385209649988915
+    second: Rolling_320
+  - first:
+      213: 1566172553623634617
+    second: Rolling_321
+  - first:
+      213: 1126162996695946304
+    second: Rolling_322
+  - first:
+      213: -4944679474045782210
+    second: Rolling_323
+  - first:
+      213: 2818755656125748960
+    second: Rolling_324
+  - first:
+      213: -8363127837953279346
+    second: Rolling_325
+  - first:
+      213: 919582763278787029
+    second: Rolling_326
+  - first:
+      213: -5765911662981948850
+    second: Rolling_327
+  - first:
+      213: -635861680907924826
+    second: Rolling_328
+  - first:
+      213: -284303525630747103
+    second: Rolling_329
+  - first:
+      213: 8530122983832838581
+    second: Rolling_330
+  - first:
+      213: -5310344511323770467
+    second: Rolling_331
+  - first:
+      213: 6452621955714718748
+    second: Rolling_332
+  - first:
+      213: -8388899807432801955
+    second: Rolling_333
+  - first:
+      213: 1090407616496625463
+    second: Rolling_334
+  - first:
+      213: 747674998037070290
+    second: Rolling_335
+  - first:
+      213: -4004392027241703150
+    second: Rolling_336
+  - first:
+      213: -2085844125050515828
+    second: Rolling_337
+  - first:
+      213: -7842942482868672635
+    second: Rolling_338
+  - first:
+      213: 1097836173153621508
+    second: Rolling_339
+  - first:
+      213: -3988450035608816293
+    second: Rolling_340
+  - first:
+      213: 6337706367593767716
+    second: Rolling_341
+  - first:
+      213: -3923900372066303715
+    second: Rolling_342
+  - first:
+      213: -108222678702935130
+    second: Rolling_343
+  - first:
+      213: -1068115947680861904
+    second: Rolling_344
+  - first:
+      213: 1829291021229246412
+    second: Rolling_345
+  - first:
+      213: 6728093767508231006
+    second: Rolling_346
+  - first:
+      213: -7205659179874163456
+    second: Rolling_347
+  - first:
+      213: -2448247660050541658
+    second: Rolling_348
+  - first:
+      213: 6903792615335895199
+    second: Rolling_349
+  - first:
+      213: 8308204240529082475
+    second: Rolling_350
+  - first:
+      213: -5048911409857855568
+    second: Rolling_351
+  - first:
+      213: -3739954433610742221
+    second: Rolling_352
+  - first:
+      213: 6975930743245293867
+    second: Rolling_353
+  - first:
+      213: -2974828442053319863
+    second: Rolling_354
+  - first:
+      213: -4461826327161839287
+    second: Rolling_355
+  - first:
+      213: -188699896208049315
+    second: Rolling_356
+  - first:
+      213: 8385263194350688870
+    second: Rolling_357
+  - first:
+      213: 8534488083411956072
+    second: Rolling_358
+  - first:
+      213: -8394548584508815537
+    second: Rolling_359
+  - first:
+      213: -3816761957069506195
+    second: Rolling_360
+  - first:
+      213: -4100879617073956170
+    second: Rolling_361
+  - first:
+      213: 4102823751728509623
+    second: Rolling_362
+  - first:
+      213: 55550057678617805
+    second: Rolling_363
+  - first:
+      213: -2300337626209958428
+    second: Rolling_364
+  - first:
+      213: 6890849977057927556
+    second: Rolling_365
+  - first:
+      213: -9159033451181883839
+    second: Rolling_366
+  - first:
+      213: -467326253403829567
+    second: Rolling_367
+  - first:
+      213: -3812279981168100613
+    second: Rolling_368
+  - first:
+      213: 4618889164495900711
+    second: Rolling_369
+  - first:
+      213: -6870664960561030846
+    second: Rolling_370
+  - first:
+      213: 4769766740212075405
+    second: Rolling_371
+  - first:
+      213: 2428813061323087924
+    second: Rolling_372
+  - first:
+      213: -7609575001031827214
+    second: Rolling_373
+  - first:
+      213: -1320113804613782343
+    second: Rolling_374
+  - first:
+      213: -61039170596835592
+    second: Rolling_375
+  - first:
+      213: 6860300213497474458
+    second: Rolling_376
+  - first:
+      213: 2403091927626978442
+    second: Rolling_377
+  - first:
+      213: 6160342901417305998
+    second: Rolling_378
+  - first:
+      213: 3084745467915637603
+    second: Rolling_379
+  - first:
+      213: -4923733135019531789
+    second: Rolling_380
+  - first:
+      213: 7203211250323117228
+    second: Rolling_381
+  - first:
+      213: 1372121922667698035
+    second: Rolling_382
+  - first:
+      213: 8143525947471318299
+    second: Rolling_383
+  - first:
+      213: 1772345611232099663
+    second: Rolling_384
+  - first:
+      213: 9204060120986146222
+    second: Rolling_385
+  - first:
+      213: -7584768845285896185
+    second: Rolling_386
+  - first:
+      213: 7767678564025257776
+    second: Rolling_387
+  - first:
+      213: 6277601080392181849
+    second: Rolling_388
+  - first:
+      213: 7459879846566869279
+    second: Rolling_389
+  - first:
+      213: -6862474829514118537
+    second: Rolling_390
+  - first:
+      213: -2450817152712512553
+    second: Rolling_391
+  - first:
+      213: -843510333436742081
+    second: Rolling_392
+  - first:
+      213: 4522759379496009055
+    second: Rolling_393
+  - first:
+      213: -6139945729879040163
+    second: Rolling_394
+  - first:
+      213: -1005027876083412843
+    second: Rolling_395
+  - first:
+      213: -5504085478535230927
+    second: Rolling_396
+  - first:
+      213: 2024720671370937125
+    second: Rolling_397
+  - first:
+      213: 548578211025059848
+    second: Rolling_398
+  - first:
+      213: 5094313204052234790
+    second: Rolling_399
+  - first:
+      213: -4026934312329684130
+    second: Rolling_400
+  - first:
+      213: -576296830997103601
+    second: Rolling_401
+  - first:
+      213: -7457935186553662797
+    second: Rolling_402
+  - first:
+      213: 8228071058779843127
+    second: Rolling_403
+  - first:
+      213: 6158354208778483815
+    second: Rolling_404
+  - first:
+      213: -1175647623079603838
+    second: Rolling_405
+  - first:
+      213: -314336739629391527
+    second: Rolling_406
+  - first:
+      213: 6375304633316472937
+    second: Rolling_407
+  - first:
+      213: 302993566831935132
+    second: Rolling_408
+  - first:
+      213: -2235401444449188981
+    second: Rolling_409
+  - first:
+      213: -1463902311411740367
+    second: Rolling_410
+  - first:
+      213: 2180476898579735586
+    second: Rolling_411
+  - first:
+      213: -3388124658315587227
+    second: Rolling_412
+  - first:
+      213: 7148733253541893791
+    second: Rolling_413
+  - first:
+      213: 1205332426290876809
+    second: Rolling_414
+  - first:
+      213: 7217631241550096765
+    second: Rolling_415
+  - first:
+      213: -6540100782033119682
+    second: Rolling_416
+  - first:
+      213: -7541329828912587068
+    second: Rolling_417
+  - first:
+      213: -1011380885461678338
+    second: Rolling_418
+  - first:
+      213: 7183651541060416112
+    second: Rolling_419
+  - first:
+      213: -7523017590392323603
+    second: Rolling_420
+  - first:
+      213: -6449204522197467310
+    second: Rolling_421
+  - first:
+      213: -3593312338556174979
+    second: Rolling_422
+  - first:
+      213: -3276134805115725233
+    second: Rolling_423
+  - first:
+      213: -3636361153025933756
+    second: Rolling_424
+  - first:
+      213: 4860192556223830488
+    second: Rolling_425
+  - first:
+      213: -7800846631342355187
+    second: Rolling_426
+  - first:
+      213: 620195118710784869
+    second: Rolling_427
+  - first:
+      213: -4373318852608880200
+    second: Rolling_428
+  - first:
+      213: 6037669877645683079
+    second: Rolling_429
+  - first:
+      213: 8477425290449542444
+    second: Rolling_430
+  - first:
+      213: -4520578194717951402
+    second: Rolling_431
+  - first:
+      213: 5457605027458007254
+    second: Rolling_432
+  - first:
+      213: 4386772951462802053
+    second: Rolling_433
+  - first:
+      213: -7575420068914346841
+    second: Rolling_434
+  - first:
+      213: 146339990176057570
+    second: Rolling_435
+  - first:
+      213: 2873396225999835011
+    second: Rolling_436
+  - first:
+      213: -2586602675823870916
+    second: Rolling_437
+  - first:
+      213: -6077135428852882990
+    second: Rolling_438
+  - first:
+      213: -7478195589426833864
+    second: Rolling_439
+  - first:
+      213: -5838046956276547229
+    second: Rolling_440
+  - first:
+      213: 6519859563278160131
+    second: Rolling_441
+  - first:
+      213: 2169626721333029969
+    second: Rolling_442
+  - first:
+      213: -3018301183717416761
+    second: Rolling_443
+  - first:
+      213: 5698079405177693180
+    second: Rolling_444
+  - first:
+      213: 113860918171634792
+    second: Rolling_445
+  - first:
+      213: 8122981571059790678
+    second: Rolling_446
+  - first:
+      213: 188283303870680266
+    second: Rolling_447
+  - first:
+      213: -2986178059427871466
+    second: Rolling_448
+  - first:
+      213: -3032826897073151883
+    second: Rolling_449
+  - first:
+      213: 381996366176898017
+    second: Rolling_450
+  - first:
+      213: -2947474104381931672
+    second: Rolling_451
+  - first:
+      213: -6682256961583684166
+    second: Rolling_452
+  - first:
+      213: 344128268650055206
+    second: Rolling_453
+  - first:
+      213: -2521512455904092412
+    second: Rolling_454
+  - first:
+      213: 8990677276990363226
+    second: Rolling_455
+  - first:
+      213: -7870878689297686523
+    second: Rolling_456
+  - first:
+      213: -7941439344408668008
+    second: Rolling_457
+  - first:
+      213: -8711510323473227643
+    second: Rolling_458
+  - first:
+      213: -723133266962124141
+    second: Rolling_459
+  - first:
+      213: 5129199179175018603
+    second: Rolling_460
+  - first:
+      213: -1379713791449777382
+    second: Rolling_461
+  - first:
+      213: 1906853895082220518
+    second: Rolling_462
+  - first:
+      213: 3270488864159381696
+    second: Rolling_463
+  - first:
+      213: -2329280897396663894
+    second: Rolling_464
+  - first:
+      213: 8568172035790927312
+    second: Rolling_465
+  - first:
+      213: -6356336896175612226
+    second: Rolling_466
+  - first:
+      213: 7908399970844859904
+    second: Rolling_467
+  - first:
+      213: -5647155248302656289
+    second: Rolling_468
+  - first:
+      213: 441466258209116069
+    second: Rolling_469
+  - first:
+      213: -4340207581787791829
+    second: Rolling_470
+  - first:
+      213: 3099316865652567857
+    second: Rolling_471
+  - first:
+      213: 3012796747298746659
+    second: Rolling_472
+  - first:
+      213: -3373258589406291738
+    second: Rolling_473
+  - first:
+      213: -747881365903878614
+    second: Rolling_474
+  - first:
+      213: -2913548821387557660
+    second: Rolling_475
+  - first:
+      213: 3925914775895004160
+    second: Rolling_476
+  - first:
+      213: -6099664729184658274
+    second: Rolling_477
+  - first:
+      213: -5190154103852793267
+    second: Rolling_478
+  - first:
+      213: 1500425129938540553
+    second: Rolling_479
+  - first:
+      213: 3796465062707683958
+    second: Rolling_480
+  - first:
+      213: -7686578150307557249
+    second: Rolling_481
+  - first:
+      213: -572663019038422757
+    second: Rolling_482
+  - first:
+      213: -2151156472908055653
+    second: Rolling_483
+  - first:
+      213: -7156623607357928434
+    second: Rolling_484
+  - first:
+      213: -3110921975001124720
+    second: Rolling_485
+  - first:
+      213: -7938369188991533891
+    second: Rolling_486
+  - first:
+      213: -3843547360772599654
+    second: Rolling_487
+  - first:
+      213: -2966185411846393105
+    second: Rolling_488
+  - first:
+      213: 1426491512378189433
+    second: Rolling_489
+  - first:
+      213: -8256997514383806841
+    second: Rolling_490
+  - first:
+      213: 1624039036196328906
+    second: Rolling_491
+  - first:
+      213: -5202875909544804684
+    second: Rolling_492
+  - first:
+      213: 4594166030591259493
+    second: Rolling_493
+  - first:
+      213: -403360404461318964
+    second: Rolling_494
+  - first:
+      213: -5848638791329854630
+    second: Rolling_495
+  - first:
+      213: 8724761036079766322
+    second: Rolling_496
+  - first:
+      213: -4127416394686620249
+    second: Rolling_497
+  - first:
+      213: -6557490328589829050
+    second: Rolling_498
+  - first:
+      213: -2591870413993227711
+    second: Rolling_499
+  - first:
+      213: -2310390301325250084
+    second: Rolling_500
+  - first:
+      213: -156580244512705079
+    second: Rolling_501
+  - first:
+      213: 6446789934282240909
+    second: Rolling_502
+  - first:
+      213: -8509813827265606517
+    second: Rolling_503
+  - first:
+      213: 3679562910104899860
+    second: Rolling_504
+  - first:
+      213: -2663065479176968702
+    second: Rolling_505
+  - first:
+      213: 5175130629687689149
+    second: Rolling_506
+  - first:
+      213: 2300514967548701208
+    second: Rolling_507
+  - first:
+      213: 6614489203243043629
+    second: Rolling_508
+  - first:
+      213: 2063865236857806458
+    second: Rolling_509
+  - first:
+      213: -2044497099882880568
+    second: Rolling_510
+  - first:
+      213: -7250567366374295189
+    second: Rolling_511
+  - first:
+      213: 4132250395982112851
+    second: Rolling_512
+  - first:
+      213: -6693072585093175309
+    second: Rolling_513
+  - first:
+      213: 7800114188460710517
+    second: Rolling_514
+  - first:
+      213: -6677743025302702990
+    second: Rolling_515
+  - first:
+      213: 8698677373954596959
+    second: Rolling_516
+  - first:
+      213: -8639945130687822451
+    second: Rolling_517
+  - first:
+      213: 7174807872669808085
+    second: Rolling_518
+  - first:
+      213: 6040463427343053036
+    second: Rolling_519
+  - first:
+      213: 3907822889385820117
+    second: Rolling_520
+  - first:
+      213: -5778348546191851222
+    second: Rolling_521
+  - first:
+      213: 258260469218757820
+    second: Rolling_522
+  - first:
+      213: 3783123991167818037
+    second: Rolling_523
+  - first:
+      213: 4103728213108966841
+    second: Rolling_524
+  - first:
+      213: 7992201236407465299
+    second: Rolling_525
+  - first:
+      213: 5496060037108214704
+    second: Rolling_526
+  - first:
+      213: 6463387985183215738
+    second: Rolling_527
+  - first:
+      213: 6439096257420092426
+    second: Rolling_528
+  - first:
+      213: -1439743930436103013
+    second: Rolling_529
+  - first:
+      213: 433902922049321583
+    second: Rolling_530
+  - first:
+      213: -1654326887044705853
+    second: Rolling_531
+  - first:
+      213: -407722433041190854
+    second: Rolling_532
+  - first:
+      213: 3538244494974707225
+    second: Rolling_533
+  - first:
+      213: 5194632068915560941
+    second: Rolling_534
+  - first:
+      213: -4129202386717377261
+    second: Rolling_535
+  - first:
+      213: 5726770835151657757
+    second: Rolling_536
+  - first:
+      213: 7213334419616129826
+    second: Rolling_537
+  - first:
+      213: -1998158271662529727
+    second: Rolling_538
+  - first:
+      213: 3928817334709439263
+    second: Rolling_539
+  - first:
+      213: 5052233980388045391
+    second: Rolling_540
+  - first:
+      213: -2130916761114816221
+    second: Rolling_541
+  - first:
+      213: -8611246622868180668
+    second: Rolling_542
+  - first:
+      213: -3581057317807179958
+    second: Rolling_543
+  - first:
+      213: -3193765511760218719
+    second: Rolling_544
+  - first:
+      213: 1048464090168854337
+    second: Rolling_545
+  - first:
+      213: 712875530573071896
+    second: Rolling_546
+  - first:
+      213: -625081914990851984
+    second: Rolling_547
+  - first:
+      213: 2373909977025338716
+    second: Rolling_548
+  - first:
+      213: -7075323344532810283
+    second: Rolling_549
+  - first:
+      213: -7423097977782639031
+    second: Rolling_550
+  - first:
+      213: 2917661828130959717
+    second: Rolling_551
+  - first:
+      213: -7599562355131532175
+    second: Rolling_552
+  - first:
+      213: -868401434648692249
+    second: Rolling_553
+  - first:
+      213: -7627661817670834903
+    second: Rolling_554
+  - first:
+      213: -1781052568652621727
+    second: Rolling_555
+  - first:
+      213: -707497212199497726
+    second: Rolling_556
+  - first:
+      213: 7767537666763712044
+    second: Rolling_557
+  - first:
+      213: 1209435860429717731
+    second: Rolling_558
+  - first:
+      213: -8306969862845813146
+    second: Rolling_559
+  - first:
+      213: -6379296931302262125
+    second: Rolling_560
+  - first:
+      213: -943834388072110307
+    second: Rolling_561
+  - first:
+      213: 3375235029772360747
+    second: Rolling_562
+  - first:
+      213: 642420181477667679
+    second: Rolling_563
+  - first:
+      213: -1884556848849262160
+    second: Rolling_564
+  - first:
+      213: 343116331024678841
+    second: Rolling_565
+  - first:
+      213: 4127100216143730987
+    second: Rolling_566
+  - first:
+      213: 4255865035637042772
+    second: Rolling_567
+  - first:
+      213: -2780303153015922379
+    second: Rolling_568
+  - first:
+      213: -1431771808422519576
+    second: Rolling_569
+  - first:
+      213: -8305447402115119810
+    second: Rolling_570
+  - first:
+      213: 7115874280064884168
+    second: Rolling_571
+  - first:
+      213: -6374658836659860041
+    second: Rolling_572
+  - first:
+      213: -8875994109494774102
+    second: Rolling_573
+  - first:
+      213: -4808549531597119690
+    second: Rolling_574
+  - first:
+      213: -4281155031587791841
+    second: Rolling_575
+  - first:
+      213: -6708070909054877842
+    second: Rolling_576
+  - first:
+      213: -4028644397955772044
+    second: Rolling_577
+  - first:
+      213: -47844672706935513
+    second: Rolling_578
+  - first:
+      213: 4006180902208143080
+    second: Rolling_579
+  - first:
+      213: 4351508604201129740
+    second: Rolling_580
+  - first:
+      213: -1396873343165465056
+    second: Rolling_581
+  - first:
+      213: 3926463350733645456
+    second: Rolling_582
+  - first:
+      213: -4507615557301306534
+    second: Rolling_583
+  - first:
+      213: -5257758527376300462
+    second: Rolling_584
+  - first:
+      213: -7206378235789273575
+    second: Rolling_585
+  - first:
+      213: 3697780998969196274
+    second: Rolling_586
+  - first:
+      213: 7402384138425932803
+    second: Rolling_587
+  - first:
+      213: 7097607538964717770
+    second: Rolling_588
+  - first:
+      213: 9110107582894271591
+    second: Rolling_589
+  - first:
+      213: 7911894508830685452
+    second: Rolling_590
+  - first:
+      213: -6408432426662216855
+    second: Rolling_591
+  - first:
+      213: 1244352744109962619
+    second: Rolling_592
+  - first:
+      213: -1350559979479586945
+    second: Rolling_593
+  - first:
+      213: 5742056026053666546
+    second: Rolling_594
+  - first:
+      213: -2902887605640834792
+    second: Rolling_595
+  - first:
+      213: 2429400595090343447
+    second: Rolling_596
+  - first:
+      213: -3992060479032608760
+    second: Rolling_597
+  - first:
+      213: -567581574191820430
+    second: Rolling_598
+  - first:
+      213: 7188607255906130446
+    second: Rolling_599
+  - first:
+      213: -3990428643748986659
+    second: Rolling_600
+  - first:
+      213: 347760986074299992
+    second: Rolling_601
+  - first:
+      213: 5222537536753110898
+    second: Rolling_602
+  - first:
+      213: -8503812464563445712
+    second: Rolling_603
+  - first:
+      213: 5955083351245492048
+    second: Rolling_604
+  - first:
+      213: 2268741352063426052
+    second: Rolling_605
+  - first:
+      213: -7507368258964578792
+    second: Rolling_606
+  - first:
+      213: -5915724003390319758
+    second: Rolling_607
+  - first:
+      213: -8746377105267537500
+    second: Rolling_608
+  - first:
+      213: -7440656676782639591
+    second: Rolling_609
+  - first:
+      213: -8118677500925877198
+    second: Rolling_610
+  - first:
+      213: -6198976505115079485
+    second: Rolling_611
+  - first:
+      213: 8991702897536215059
+    second: Rolling_612
+  - first:
+      213: 649885189136536876
+    second: Rolling_613
+  - first:
+      213: 6509584322276414647
+    second: Rolling_614
+  - first:
+      213: -7316269358787549304
+    second: Rolling_615
+  - first:
+      213: -8613885620408439403
+    second: Rolling_616
+  - first:
+      213: -8059010916517732046
+    second: Rolling_0_0
+  - first:
+      213: -2899595997726184119
+    second: Rolling_0_1
+  - first:
+      213: 3949457293605614058
+    second: Rolling_0_2
+  - first:
+      213: 2235619261306299740
+    second: Rolling_0_3
+  - first:
+      213: 4645629811315382115
+    second: Rolling_0_4
+  - first:
+      213: -378334361896734773
+    second: Rolling_0_5
+  - first:
+      213: 5846083680643940013
+    second: Rolling_0_6
+  - first:
+      213: -7107570688630141394
+    second: Rolling_0_7
+  - first:
+      213: 4797858664193745476
+    second: Rolling_0_8
+  - first:
+      213: -3805720408609149497
+    second: Rolling_0_9
+  - first:
+      213: 6234866414316751631
+    second: Rolling_0_10
+  - first:
+      213: -2979685852148430122
+    second: Rolling_0_11
+  - first:
+      213: -9116227845337538723
+    second: Rolling_0_12
+  - first:
+      213: 1572212246398673413
+    second: Rolling_0_13
+  - first:
+      213: 951201184552773983
+    second: Rolling_0_14
+  - first:
+      213: -1398698692788455945
+    second: Rolling_1_0
+  - first:
+      213: 5397534546387612617
+    second: Rolling_1_1
+  - first:
+      213: -1679605552927657737
+    second: Rolling_1_2
+  - first:
+      213: -6046962246716104650
+    second: Rolling_1_3
+  - first:
+      213: -8274102656202109047
+    second: Rolling_1_4
+  - first:
+      213: -5502245496975329092
+    second: Rolling_1_5
+  - first:
+      213: 3395262793561245798
+    second: Rolling_1_6
+  - first:
+      213: -7157562267280907651
+    second: Rolling_1_7
+  - first:
+      213: 6676391259910508340
+    second: Rolling_1_8
+  - first:
+      213: -4033642098157453360
+    second: Rolling_1_9
+  - first:
+      213: -288584489771183333
+    second: Rolling_1_10
+  - first:
+      213: -4810505052098027586
+    second: Rolling_1_11
+  - first:
+      213: -933489845410976101
+    second: Rolling_1_12
+  - first:
+      213: 7987336234074404468
+    second: Rolling_1_13
+  - first:
+      213: 9059394103409100277
+    second: Rolling_1_14
+  - first:
+      213: 4186984426931105229
+    second: Rolling_2_0
+  - first:
+      213: -1097950111102855308
+    second: Rolling_2_1
+  - first:
+      213: -4911853028781535519
+    second: Rolling_2_2
+  - first:
+      213: 7279139314380272821
+    second: Rolling_2_3
+  - first:
+      213: 3227667033365716317
+    second: Rolling_2_4
+  - first:
+      213: -5099799418880417414
+    second: Rolling_2_5
+  - first:
+      213: -213607704557802803
+    second: Rolling_2_6
+  - first:
+      213: 8662902570696029303
+    second: Rolling_2_7
+  - first:
+      213: 8538889455808797391
+    second: Rolling_2_8
+  - first:
+      213: 9166552594646743968
+    second: Rolling_2_9
+  - first:
+      213: -4447336029276502546
+    second: Rolling_2_10
+  - first:
+      213: 5494342779189225998
+    second: Rolling_2_11
+  - first:
+      213: -3627629750635383436
+    second: Rolling_2_12
+  - first:
+      213: 6552136952819017466
+    second: Rolling_2_13
+  - first:
+      213: 1164797103872325676
+    second: Rolling_2_14
+  - first:
+      213: 1951002318904476465
+    second: Rolling_3_0
+  - first:
+      213: -2846034538224559856
+    second: Rolling_3_1
+  - first:
+      213: 5723296073038903289
+    second: Rolling_3_2
+  - first:
+      213: 3179022985966227761
+    second: Rolling_3_3
+  - first:
+      213: -914040416465742743
+    second: Rolling_3_4
+  - first:
+      213: -6320007777988539662
+    second: Rolling_3_5
+  - first:
+      213: 3958542152357430493
+    second: Rolling_3_6
+  - first:
+      213: 6492156198454727633
+    second: Rolling_3_7
+  - first:
+      213: 8205995120919458825
+    second: Rolling_3_8
+  - first:
+      213: 2027770353401785315
+    second: Rolling_3_9
+  - first:
+      213: 4134805163027133086
+    second: Rolling_3_10
+  - first:
+      213: 6332629294599948678
+    second: Rolling_3_11
+  - first:
+      213: 5056405182008644600
+    second: Rolling_3_12
+  - first:
+      213: -958423082676156176
+    second: Rolling_3_13
+  - first:
+      213: -8614823140459553498
+    second: Rolling_3_14
+  - first:
+      213: 6992968081229214734
+    second: Rolling_4_0
+  - first:
+      213: -5553089230041251707
+    second: Rolling_4_1
+  - first:
+      213: 2599892951602128900
+    second: Rolling_4_2
+  - first:
+      213: 5760369728032938115
+    second: Rolling_4_3
+  - first:
+      213: -4689381101684241111
+    second: Rolling_4_4
+  - first:
+      213: 4003303183690521681
+    second: Rolling_4_5
+  - first:
+      213: 761748754819046172
+    second: Rolling_4_6
+  - first:
+      213: 1137592015304058368
+    second: Rolling_4_7
+  - first:
+      213: -6611273259291785160
+    second: Rolling_4_8
+  - first:
+      213: 3408940313829598459
+    second: Rolling_4_9
+  - first:
+      213: -7338470981830817987
+    second: Rolling_4_10
+  - first:
+      213: -4246004724529612486
+    second: Rolling_4_11
+  - first:
+      213: -7794398818412830789
+    second: Rolling_4_12
+  - first:
+      213: 1026582182664431627
+    second: Rolling_4_13
+  - first:
+      213: -5711442852770014347
+    second: Rolling_4_14
+  - first:
+      213: 4033610940563840063
+    second: Rolling_5_0
+  - first:
+      213: -7860940974231130
+    second: Rolling_5_1
+  - first:
+      213: -5021264570033976276
+    second: Rolling_5_2
+  - first:
+      213: -8916489446179060079
+    second: Rolling_5_3
+  - first:
+      213: -9222903917832315750
+    second: Rolling_5_4
+  - first:
+      213: 7887996526832421927
+    second: Rolling_5_5
+  - first:
+      213: -9035010115441700608
+    second: Rolling_5_6
+  - first:
+      213: 326124303557005087
+    second: Rolling_5_7
+  - first:
+      213: 7759713592503527676
+    second: Rolling_5_8
+  - first:
+      213: 3723527330969469932
+    second: Rolling_5_9
+  - first:
+      213: 6534049792209614245
+    second: Rolling_5_10
+  - first:
+      213: -8445338582819058296
+    second: Rolling_5_11
+  - first:
+      213: -1009419483842111031
+    second: Rolling_5_12
+  - first:
+      213: 6783847098255306408
+    second: Rolling_5_13
+  - first:
+      213: 1739427915829608105
+    second: Rolling_5_14
+  - first:
+      213: -2423114069687728923
+    second: Rolling_6_0
+  - first:
+      213: 7552156969346778932
+    second: Rolling_6_1
+  - first:
+      213: -1216445642931878189
+    second: Rolling_6_2
+  - first:
+      213: -2375490739361493846
+    second: Rolling_6_3
+  - first:
+      213: 1533993381822578331
+    second: Rolling_6_4
+  - first:
+      213: -3737633416597829186
+    second: Rolling_6_5
+  - first:
+      213: -6809248631911981694
+    second: Rolling_6_6
+  - first:
+      213: 2517533602122106794
+    second: Rolling_6_7
+  - first:
+      213: -6740751691397012733
+    second: Rolling_6_8
+  - first:
+      213: 8595900947256227313
+    second: Rolling_6_9
+  - first:
+      213: -8068371509818926684
+    second: Rolling_6_10
+  - first:
+      213: 9167832496244927069
+    second: Rolling_6_11
+  - first:
+      213: 4905992264693799173
+    second: Rolling_6_12
+  - first:
+      213: -3766768246784805850
+    second: Rolling_6_13
+  - first:
+      213: -5130673060938275092
+    second: Rolling_6_14
+  - first:
+      213: 807016009152791370
+    second: Rolling_7_0
+  - first:
+      213: 2350539471972077826
+    second: Rolling_7_1
+  - first:
+      213: 2639313508499655999
+    second: Rolling_7_2
+  - first:
+      213: -3107608514266444745
+    second: Rolling_7_3
+  - first:
+      213: 957835198055945895
+    second: Rolling_7_4
+  - first:
+      213: -7770940883337904396
+    second: Rolling_7_5
+  - first:
+      213: -8742181525528910664
+    second: Rolling_7_6
+  - first:
+      213: -3483881742666755007
+    second: Rolling_7_7
+  - first:
+      213: -718694764550907997
+    second: Rolling_7_8
+  - first:
+      213: -5607615248640261966
+    second: Rolling_7_9
+  - first:
+      213: -4584677211721576270
+    second: Rolling_7_10
+  - first:
+      213: 2890741414071836420
+    second: Rolling_7_11
+  - first:
+      213: 1503190360184888399
+    second: Rolling_7_12
+  - first:
+      213: 2344915809453993965
+    second: Rolling_7_13
+  - first:
+      213: -7239585866169005741
+    second: Rolling_7_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rolling_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23127f71544a82090800000000000000
+      internalID: -8059010916517732046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94de2638dc092c7d0800000000000000
+      internalID: -2899595997726184119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae130f0cb7a4fc630800000000000000
+      internalID: 3949457293605614058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55ee239fd3860f10800000000000000
+      internalID: 2235619261306299740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3671b6523b7987040800000000000000
+      internalID: 4645629811315382115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf22d007e2efbaf0800000000000000
+      internalID: -378334361896734773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae7df73226712150800000000000000
+      internalID: 5846083680643940013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ec830cd16dc5d90800000000000000
+      internalID: -7107570688630141394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4426cc1f80b659240800000000000000
+      internalID: 4797858664193745476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cda562b37d5f2bc0800000000000000
+      internalID: -3805720408609149497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b0d5758f1b68650800000000000000
+      internalID: 6234866414316751631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da8f68218706a6d0800000000000000
+      internalID: -2979685852148430122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f91231317ac7180800000000000000
+      internalID: -9116227845337538723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502ac1a45be91d510800000000000000
+      internalID: 1572212246398673413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_0_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59e23b0078533d00800000000000000
+      internalID: 951201184552773983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f57a8413f2d69ce0800000000000000
+      internalID: -1398698692788455945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c335549215e7ea40800000000000000
+      internalID: 5397534546387612617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f039f606a7d0b8e0800000000000000
+      internalID: -1679605552927657737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630e942ffdfd41ca0800000000000000
+      internalID: -6046962246716104650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f05f5e87b7c2d80800000000000000
+      internalID: -8274102656202109047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8fac56fd814a3b0800000000000000
+      internalID: -5502245496975329092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668815995856e1f20800000000000000
+      internalID: 3395262793561245798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d726bf05a0b3bac90800000000000000
+      internalID: -7157562267280907651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f0d745a7e47ac50800000000000000
+      internalID: 6676391259910508340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df734402ef9508c0800000000000000
+      internalID: -4033642098157453360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13508f7fedbefbf0800000000000000
+      internalID: -288584489771183333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf997b6427ad3db0800000000000000
+      internalID: -4810505052098027586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e28d27ee39b03f0800000000000000
+      internalID: -933489845410976101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4767c957cf7b8de60800000000000000
+      internalID: 7987336234074404468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_1_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5c7f530fe69bd70800000000000000
+      internalID: 9059394103409100277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd225717282b1a30800000000000000
+      internalID: 4186984426931105229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4771d9ee03c43c0f0800000000000000
+      internalID: -1097950111102855308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eecc86c1b795dbb0800000000000000
+      internalID: -4911853028781535519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b47730d3a2b40560800000000000000
+      internalID: 7279139314380272821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d9001e01afacc20800000000000000
+      internalID: 3227667033365716317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71a3ebc27fd939b0800000000000000
+      internalID: -5099799418880417414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaab88acec190df0800000000000000
+      internalID: -213607704557802803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774b7227dffc83870800000000000000
+      internalID: 8662902570696029303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcadfc518ba308670800000000000000
+      internalID: 8538889455808797391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abbad2b403263f70800000000000000
+      internalID: 9166552594646743968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee58d22c173e742c0800000000000000
+      internalID: -4447336029276502546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a6ecbb5a3df3c40800000000000000
+      internalID: 5494342779189225998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4753db836f118adc0800000000000000
+      internalID: -3627629750635383436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6ec7808ddddea50800000000000000
+      internalID: 6552136952819017466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_2_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28b6bb6bc03a2010800000000000000
+      internalID: 1164797103872325676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133c34ea54a531b10800000000000000
+      internalID: 1951002318904476465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019d1aa9aaad088d0800000000000000
+      internalID: -2846034538224559856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f73fd1847b3d6f40800000000000000
+      internalID: 5723296073038903289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131915300982e1c20800000000000000
+      internalID: 3179022985966227761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9649532851da053f0800000000000000
+      internalID: -914040416465742743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa89472962da48a0800000000000000
+      internalID: -6320007777988539662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4cca34d119fe630800000000000000
+      internalID: 3958542152357430493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d39e336aa5c81a50800000000000000
+      internalID: 6492156198454727633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9043ef2d51d81e170800000000000000
+      internalID: 8205995120919458825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebe4909466142c10800000000000000
+      internalID: 2027770353401785315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92fead7367c16930800000000000000
+      internalID: 4134805163027133086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689ccdeaac402e750800000000000000
+      internalID: 6332629294599948678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3d11a19b5fb2640800000000000000
+      internalID: 5056405182008644600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f88d84c84ff2b2f0800000000000000
+      internalID: -958423082676156176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_3_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dd71e3ffff17880800000000000000
+      internalID: -8614823140459553498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04ff476b630c0160800000000000000
+      internalID: 6992968081229214734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580085d44c67fe2b0800000000000000
+      internalID: -5553089230041251707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408694a5ddca41420800000000000000
+      internalID: 2599892951602128900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38811567fb1f0ff40800000000000000
+      internalID: 5760369728032938115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d4ea1cbb8fbeeb0800000000000000
+      internalID: -4689381101684241111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c501009079e8730800000000000000
+      internalID: 4003303183690521681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bd513e476429a00800000000000000
+      internalID: 761748754819046172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006e48329e989cf00800000000000000
+      internalID: 1137592015304058368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838cfdaaff90044a0800000000000000
+      internalID: -6611273259291785160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf46252772dfe4f20800000000000000
+      internalID: 3408940313829598459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37467dd583882a90800000000000000
+      internalID: -7338470981830817987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3938c703392315c0800000000000000
+      internalID: -4246004724529612486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf57c6329bb4d390800000000000000
+      internalID: -7794398818412830789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08657a5e072f3e00800000000000000
+      internalID: 1026582182664431627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_4_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b13b56cf0ecb0b0800000000000000
+      internalID: -5711442852770014347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cdf6a87c34af730800000000000000
+      internalID: 4033610940563840063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a171ad048214eff0800000000000000
+      internalID: -7860940974231130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cced33a72e05ab0800000000000000
+      internalID: -5021264570033976276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1964afc1714424480800000000000000
+      internalID: -8916489446179060079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cdb0470c9a10080800000000000000
+      internalID: -9222903917832315750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c8c5b7c0bc77d60800000000000000
+      internalID: 7887996526832421927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00159076b223d9280800000000000000
+      internalID: -9035010115441700608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f03228350a68400800000000000000
+      internalID: 326124303557005087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf861ff466a00bb60800000000000000
+      internalID: 7759713592503527676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3c4e12160aca330800000000000000
+      internalID: 3723527330969469932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a57e59caab9daa50800000000000000
+      internalID: 6534049792209614245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d4b23ed412cca80800000000000000
+      internalID: -8445338582819058296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c99b3cd352ddf1f0800000000000000
+      internalID: -1009419483842111031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae62165ef0152e50800000000000000
+      internalID: 6783847098255306408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_5_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aefb6b3970b32810800000000000000
+      internalID: 1739427915829608105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e40302879e5f5ed0800000000000000
+      internalID: -2423114069687728923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437c7e520c6aec860800000000000000
+      internalID: 7552156969346778932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6497cf1215e1fe0800000000000000
+      internalID: -1216445642931878189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacc02922cf880fd0800000000000000
+      internalID: -2375490739361493846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eb5537ad6d94510800000000000000
+      internalID: 1533993381822578331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb98e0fd532412cc0800000000000000
+      internalID: -3737633416597829186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d529b3270b081a0800000000000000
+      internalID: -6809248631911981694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa70990097310f220800000000000000
+      internalID: 2517533602122106794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303ea2bfc0a0472a0800000000000000
+      internalID: -6740751691397012733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5b6a55e56ca4770800000000000000
+      internalID: 8595900947256227313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a95c512cd2670090800000000000000
+      internalID: -8068371509818926684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a26f2051faa3f70800000000000000
+      internalID: 9167832496244927069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50953efb8f5951440800000000000000
+      internalID: 4905992264693799173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624bb2b9c30c9bbc0800000000000000
+      internalID: -3766768246784805850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_6_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6ab18d8003cc8b0800000000000000
+      internalID: -5130673060938275092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a430b99d8c8133b00800000000000000
+      internalID: 807016009152791370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2011e61323bce9020800000000000000
+      internalID: 2350539471972077826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d030df6a9b0a420800000000000000
+      internalID: 2639313508499655999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c4b26658e8fd4d0800000000000000
+      internalID: -3107608514266444745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a69d7da90aea4d00800000000000000
+      internalID: 957835198055945895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe75165072182490800000000000000
+      internalID: -7770940883337904396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4edd878388da680800000000000000
+      internalID: -8742181525528910664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14411e07304c6afc0800000000000000
+      internalID: -3483881742666755007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a792016beea606f0800000000000000
+      internalID: -718694764550907997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0cbbb44afbd22b0800000000000000
+      internalID: -5607615248640261966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0d189dd54ff50c0800000000000000
+      internalID: -4584677211721576270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f1343100afd1820800000000000000
+      internalID: 2890741414071836420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c9c981ba76cd410800000000000000
+      internalID: 1503190360184888399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defe3ba3180da8020800000000000000
+      internalID: 2344915809453993965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rolling_7_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359ce0ef203d78b90800000000000000
+      internalID: -7239585866169005741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rolling_0: -725676847703976320
+      Rolling_0_0: -8059010916517732046
+      Rolling_0_1: -2899595997726184119
+      Rolling_0_10: 6234866414316751631
+      Rolling_0_11: -2979685852148430122
+      Rolling_0_12: -9116227845337538723
+      Rolling_0_13: 1572212246398673413
+      Rolling_0_14: 951201184552773983
+      Rolling_0_2: 3949457293605614058
+      Rolling_0_3: 2235619261306299740
+      Rolling_0_4: 4645629811315382115
+      Rolling_0_5: -378334361896734773
+      Rolling_0_6: 5846083680643940013
+      Rolling_0_7: -7107570688630141394
+      Rolling_0_8: 4797858664193745476
+      Rolling_0_9: -3805720408609149497
+      Rolling_1: 2804552036436801705
+      Rolling_10: 2240636464467928315
+      Rolling_100: -6717398282796336041
+      Rolling_101: -2134463861404550528
+      Rolling_102: 3265794442235679397
+      Rolling_103: 7155218699708251466
+      Rolling_104: -234608420421255723
+      Rolling_105: -4266399415098719853
+      Rolling_106: -4064906606422547877
+      Rolling_107: -6251070981651638093
+      Rolling_108: 7810001014307648902
+      Rolling_109: -5080246318246228374
+      Rolling_11: 8676170316349161011
+      Rolling_110: -2772406596738334965
+      Rolling_111: -75963156327593409
+      Rolling_112: 4884283696255492735
+      Rolling_113: -8066745679144756604
+      Rolling_114: -357188709779742987
+      Rolling_115: -2420273323575882769
+      Rolling_116: -8374413112000904862
+      Rolling_117: -4112330819281989046
+      Rolling_118: -6225487169514623766
+      Rolling_119: 4327560353326864228
+      Rolling_12: -5842034905591963187
+      Rolling_120: -6135347243759313710
+      Rolling_121: -2705207768343285744
+      Rolling_122: 8901296506904936893
+      Rolling_123: 2621107800744702599
+      Rolling_124: -7725916815664083730
+      Rolling_125: -1449788090900003248
+      Rolling_126: 6670116281187999789
+      Rolling_127: 3447228499562568599
+      Rolling_128: -6190955470774622954
+      Rolling_129: -2957929181568828444
+      Rolling_13: -3221273882454254805
+      Rolling_130: -3062158586210354441
+      Rolling_131: -808778675461010214
+      Rolling_132: 7820949193957114731
+      Rolling_133: -8168966216335273169
+      Rolling_134: 8902956952580481373
+      Rolling_135: -2838195664317031446
+      Rolling_136: 1167938346700516976
+      Rolling_137: -6475743347000824553
+      Rolling_138: 2780426219674008775
+      Rolling_139: 6872647310620478798
+      Rolling_14: -930069001885914268
+      Rolling_140: -8613917383450974523
+      Rolling_141: -4447312436769664752
+      Rolling_142: 6572925554788100542
+      Rolling_143: -6935701607681455316
+      Rolling_144: -1458213247988509859
+      Rolling_145: 4285401309120577800
+      Rolling_146: -2921018176021604127
+      Rolling_147: -4004888298781880686
+      Rolling_148: -6150655637087631207
+      Rolling_149: 916860631760781870
+      Rolling_15: 3648973524908400381
+      Rolling_150: 872855176777582331
+      Rolling_151: 6749421560277077030
+      Rolling_152: -1449498785240423825
+      Rolling_153: 6565037307489366611
+      Rolling_154: -5666896926844428064
+      Rolling_155: 6771332231801472231
+      Rolling_156: -833523374465071013
+      Rolling_157: 7468239166355827833
+      Rolling_158: 2085514161619973411
+      Rolling_159: -8417739543134936892
+      Rolling_16: -6453209052969132641
+      Rolling_160: -7337664125838950073
+      Rolling_161: 4302768645383442448
+      Rolling_162: -8093860851615883400
+      Rolling_163: 7185906583811456559
+      Rolling_164: 2728449041397428012
+      Rolling_165: -7210264017480289303
+      Rolling_166: -5219360441569098347
+      Rolling_167: 6864404083036092882
+      Rolling_168: 7853614296139695408
+      Rolling_169: -1331519877203211160
+      Rolling_17: 8746928359168288737
+      Rolling_170: -2773332108772161320
+      Rolling_171: -754183824887581552
+      Rolling_172: -8789898138037362031
+      Rolling_173: -1573306007297963786
+      Rolling_174: 3977323507676798214
+      Rolling_175: -91818812360711809
+      Rolling_176: -2102996826895619096
+      Rolling_177: 5298953586517361301
+      Rolling_178: 6888508340110839881
+      Rolling_179: -4422090455851532394
+      Rolling_18: -8903024850358175846
+      Rolling_180: 5391611456861762176
+      Rolling_181: 717612279030858073
+      Rolling_182: -2133676955622420027
+      Rolling_183: -8678052167879065070
+      Rolling_184: 8028462738140624513
+      Rolling_185: 4789456224707708140
+      Rolling_186: 5965753036581865159
+      Rolling_187: 2595163544154020341
+      Rolling_188: 5340774008244879286
+      Rolling_189: -8814194127012179679
+      Rolling_19: 4998097869354579997
+      Rolling_190: 1672309426407958768
+      Rolling_191: 5725000880011772013
+      Rolling_192: 8374715742917962603
+      Rolling_193: 1237774035090586663
+      Rolling_194: 7320489534767728685
+      Rolling_195: -5313790594035479604
+      Rolling_196: -6840611936720843785
+      Rolling_197: 4007547500343896357
+      Rolling_198: 5712980655472082512
+      Rolling_199: -5999400669538884036
+      Rolling_1_0: -1398698692788455945
+      Rolling_1_1: 5397534546387612617
+      Rolling_1_10: -288584489771183333
+      Rolling_1_11: -4810505052098027586
+      Rolling_1_12: -933489845410976101
+      Rolling_1_13: 7987336234074404468
+      Rolling_1_14: 9059394103409100277
+      Rolling_1_2: -1679605552927657737
+      Rolling_1_3: -6046962246716104650
+      Rolling_1_4: -8274102656202109047
+      Rolling_1_5: -5502245496975329092
+      Rolling_1_6: 3395262793561245798
+      Rolling_1_7: -7157562267280907651
+      Rolling_1_8: 6676391259910508340
+      Rolling_1_9: -4033642098157453360
+      Rolling_2: 246690345009715882
+      Rolling_20: 5576098853454369386
+      Rolling_200: -4235637817817206202
+      Rolling_201: 6559883468049723
+      Rolling_202: 588299889725122561
+      Rolling_203: 2944855387332911783
+      Rolling_204: -2899766037767888168
+      Rolling_205: 3439261985745136491
+      Rolling_206: -2553696083130466962
+      Rolling_207: 1228605892280135542
+      Rolling_208: -3729595913381034349
+      Rolling_209: 6793783136003860923
+      Rolling_21: 7510271574358332752
+      Rolling_210: -3404171070080792376
+      Rolling_211: 3979450823620952445
+      Rolling_212: 8196954727584366449
+      Rolling_213: 5011815782833304742
+      Rolling_214: 6962325663694983484
+      Rolling_215: -8806080645045586359
+      Rolling_216: 5581803997635496987
+      Rolling_217: 1526943140468705009
+      Rolling_218: 7815198710324994192
+      Rolling_219: 713301295822080902
+      Rolling_22: 5367252971323565703
+      Rolling_220: 5724835780650281479
+      Rolling_221: -7848297618857336699
+      Rolling_222: -5622518944031129926
+      Rolling_223: 432929463304555762
+      Rolling_224: 8669001241778110149
+      Rolling_225: -2486504927062628794
+      Rolling_226: -1640945506417253972
+      Rolling_227: 1685723891019684530
+      Rolling_228: 2733727925580011924
+      Rolling_229: 1135556048624967303
+      Rolling_23: 8307941951932666045
+      Rolling_230: 992240298801343042
+      Rolling_231: 5676038888203894720
+      Rolling_232: 8663521905490306543
+      Rolling_233: -2195513783089450305
+      Rolling_234: -8133844707756298845
+      Rolling_235: 399407969443708106
+      Rolling_236: 3133038033332349873
+      Rolling_237: 8002832419559294518
+      Rolling_238: -5525738909657529403
+      Rolling_239: 813407514058109402
+      Rolling_24: -1843811864358678339
+      Rolling_240: 3159171655019193555
+      Rolling_241: 5370344474578795951
+      Rolling_242: -7573210615868095799
+      Rolling_243: 8686520276006044791
+      Rolling_244: 8167755567697306939
+      Rolling_245: -8448703774622174989
+      Rolling_246: -5620993582752800917
+      Rolling_247: -8588582223572839459
+      Rolling_248: -3673507502152936918
+      Rolling_249: 6899557578245586723
+      Rolling_25: 3931340312679867531
+      Rolling_250: -211517660505301750
+      Rolling_251: -6913599311041486998
+      Rolling_252: 4457438333006765513
+      Rolling_253: 4830044481182002816
+      Rolling_254: 8659288778581137122
+      Rolling_255: -6088301525507461355
+      Rolling_256: -3002157572416115058
+      Rolling_257: 2639540869417390541
+      Rolling_258: 7627889891406831183
+      Rolling_259: 303825788805250385
+      Rolling_26: -9023591139542443368
+      Rolling_260: 8818961240624677901
+      Rolling_261: 3696578856828682698
+      Rolling_262: -1184077272634839946
+      Rolling_263: -2810328234475756222
+      Rolling_264: 5590428747236485387
+      Rolling_265: -6255135190668693652
+      Rolling_266: -3655825045279590448
+      Rolling_267: -3739800952491099922
+      Rolling_268: -4478914852256301309
+      Rolling_269: 7960364915632112233
+      Rolling_27: -7369834233558674118
+      Rolling_270: -4438645232292327595
+      Rolling_271: 5304041520437107203
+      Rolling_272: 6964159938374022566
+      Rolling_273: -8883753944753450473
+      Rolling_274: -4699736665652596455
+      Rolling_275: 4699875263810658265
+      Rolling_276: 980633692750050875
+      Rolling_277: -8539353255422807707
+      Rolling_278: 4104203724145151147
+      Rolling_279: -9088626992837436079
+      Rolling_28: -1388024727487340364
+      Rolling_280: -4459389198900714685
+      Rolling_281: 639573962227667132
+      Rolling_282: 6581131209643925130
+      Rolling_283: 2768926981505529672
+      Rolling_284: -9015254864457744320
+      Rolling_285: 8178387294141089667
+      Rolling_286: -6076749532056824984
+      Rolling_287: 8144361785188075480
+      Rolling_288: -1878020981598507419
+      Rolling_289: -7541584927985315945
+      Rolling_29: 6788357279408995876
+      Rolling_290: 6983368675934466883
+      Rolling_291: -4120726512606345851
+      Rolling_292: 2546473936729796269
+      Rolling_293: 6766151502469358317
+      Rolling_294: -4616339412949580881
+      Rolling_295: 5106317266397196730
+      Rolling_296: -7648439370242818212
+      Rolling_297: 9197836119871176974
+      Rolling_298: -139289853091793419
+      Rolling_299: 6759615701046208669
+      Rolling_2_0: 4186984426931105229
+      Rolling_2_1: -1097950111102855308
+      Rolling_2_10: -4447336029276502546
+      Rolling_2_11: 5494342779189225998
+      Rolling_2_12: -3627629750635383436
+      Rolling_2_13: 6552136952819017466
+      Rolling_2_14: 1164797103872325676
+      Rolling_2_2: -4911853028781535519
+      Rolling_2_3: 7279139314380272821
+      Rolling_2_4: 3227667033365716317
+      Rolling_2_5: -5099799418880417414
+      Rolling_2_6: -213607704557802803
+      Rolling_2_7: 8662902570696029303
+      Rolling_2_8: 8538889455808797391
+      Rolling_2_9: 9166552594646743968
+      Rolling_3: 4914790032895607488
+      Rolling_30: 3301805793619535459
+      Rolling_300: 3588775628041200093
+      Rolling_301: 8865596600128188745
+      Rolling_302: 7799375973814734781
+      Rolling_303: 746375056052561640
+      Rolling_304: -5828608350885607772
+      Rolling_305: 6503274156434878000
+      Rolling_306: 4764046731660265148
+      Rolling_307: 8000777920798911093
+      Rolling_308: -8397087731540531215
+      Rolling_309: -1714149239932559643
+      Rolling_31: 283780167374697800
+      Rolling_310: -7874085757565281879
+      Rolling_311: 7497970917430670797
+      Rolling_312: 6826338356107658869
+      Rolling_313: 6771111512682079491
+      Rolling_314: -7953443676152950851
+      Rolling_315: 4159287362142360444
+      Rolling_316: -8177866803271166995
+      Rolling_317: 1976335293123033156
+      Rolling_318: 3698477501362933742
+      Rolling_319: -4307669878629545419
+      Rolling_32: 420223387149958495
+      Rolling_320: -6353385209649988915
+      Rolling_321: 1566172553623634617
+      Rolling_322: 1126162996695946304
+      Rolling_323: -4944679474045782210
+      Rolling_324: 2818755656125748960
+      Rolling_325: -8363127837953279346
+      Rolling_326: 919582763278787029
+      Rolling_327: -5765911662981948850
+      Rolling_328: -635861680907924826
+      Rolling_329: -284303525630747103
+      Rolling_33: -7376548653227040949
+      Rolling_330: 8530122983832838581
+      Rolling_331: -5310344511323770467
+      Rolling_332: 6452621955714718748
+      Rolling_333: -8388899807432801955
+      Rolling_334: 1090407616496625463
+      Rolling_335: 747674998037070290
+      Rolling_336: -4004392027241703150
+      Rolling_337: -2085844125050515828
+      Rolling_338: -7842942482868672635
+      Rolling_339: 1097836173153621508
+      Rolling_34: 5136471780619550303
+      Rolling_340: -3988450035608816293
+      Rolling_341: 6337706367593767716
+      Rolling_342: -3923900372066303715
+      Rolling_343: -108222678702935130
+      Rolling_344: -1068115947680861904
+      Rolling_345: 1829291021229246412
+      Rolling_346: 6728093767508231006
+      Rolling_347: -7205659179874163456
+      Rolling_348: -2448247660050541658
+      Rolling_349: 6903792615335895199
+      Rolling_35: -4948507302233732967
+      Rolling_350: 8308204240529082475
+      Rolling_351: -5048911409857855568
+      Rolling_352: -3739954433610742221
+      Rolling_353: 6975930743245293867
+      Rolling_354: -2974828442053319863
+      Rolling_355: -4461826327161839287
+      Rolling_356: -188699896208049315
+      Rolling_357: 8385263194350688870
+      Rolling_358: 8534488083411956072
+      Rolling_359: -8394548584508815537
+      Rolling_36: -6575877316452283513
+      Rolling_360: -3816761957069506195
+      Rolling_361: -4100879617073956170
+      Rolling_362: 4102823751728509623
+      Rolling_363: 55550057678617805
+      Rolling_364: -2300337626209958428
+      Rolling_365: 6890849977057927556
+      Rolling_366: -9159033451181883839
+      Rolling_367: -467326253403829567
+      Rolling_368: -3812279981168100613
+      Rolling_369: 4618889164495900711
+      Rolling_37: -8251808528299776368
+      Rolling_370: -6870664960561030846
+      Rolling_371: 4769766740212075405
+      Rolling_372: 2428813061323087924
+      Rolling_373: -7609575001031827214
+      Rolling_374: -1320113804613782343
+      Rolling_375: -61039170596835592
+      Rolling_376: 6860300213497474458
+      Rolling_377: 2403091927626978442
+      Rolling_378: 6160342901417305998
+      Rolling_379: 3084745467915637603
+      Rolling_38: -5172210974887443530
+      Rolling_380: -4923733135019531789
+      Rolling_381: 7203211250323117228
+      Rolling_382: 1372121922667698035
+      Rolling_383: 8143525947471318299
+      Rolling_384: 1772345611232099663
+      Rolling_385: 9204060120986146222
+      Rolling_386: -7584768845285896185
+      Rolling_387: 7767678564025257776
+      Rolling_388: 6277601080392181849
+      Rolling_389: 7459879846566869279
+      Rolling_39: 677214768927874859
+      Rolling_390: -6862474829514118537
+      Rolling_391: -2450817152712512553
+      Rolling_392: -843510333436742081
+      Rolling_393: 4522759379496009055
+      Rolling_394: -6139945729879040163
+      Rolling_395: -1005027876083412843
+      Rolling_396: -5504085478535230927
+      Rolling_397: 2024720671370937125
+      Rolling_398: 548578211025059848
+      Rolling_399: 5094313204052234790
+      Rolling_3_0: 1951002318904476465
+      Rolling_3_1: -2846034538224559856
+      Rolling_3_10: 4134805163027133086
+      Rolling_3_11: 6332629294599948678
+      Rolling_3_12: 5056405182008644600
+      Rolling_3_13: -958423082676156176
+      Rolling_3_14: -8614823140459553498
+      Rolling_3_2: 5723296073038903289
+      Rolling_3_3: 3179022985966227761
+      Rolling_3_4: -914040416465742743
+      Rolling_3_5: -6320007777988539662
+      Rolling_3_6: 3958542152357430493
+      Rolling_3_7: 6492156198454727633
+      Rolling_3_8: 8205995120919458825
+      Rolling_3_9: 2027770353401785315
+      Rolling_4: 8957890312988738062
+      Rolling_40: -5298264536064098923
+      Rolling_400: -4026934312329684130
+      Rolling_401: -576296830997103601
+      Rolling_402: -7457935186553662797
+      Rolling_403: 8228071058779843127
+      Rolling_404: 6158354208778483815
+      Rolling_405: -1175647623079603838
+      Rolling_406: -314336739629391527
+      Rolling_407: 6375304633316472937
+      Rolling_408: 302993566831935132
+      Rolling_409: -2235401444449188981
+      Rolling_41: 1758241633736173256
+      Rolling_410: -1463902311411740367
+      Rolling_411: 2180476898579735586
+      Rolling_412: -3388124658315587227
+      Rolling_413: 7148733253541893791
+      Rolling_414: 1205332426290876809
+      Rolling_415: 7217631241550096765
+      Rolling_416: -6540100782033119682
+      Rolling_417: -7541329828912587068
+      Rolling_418: -1011380885461678338
+      Rolling_419: 7183651541060416112
+      Rolling_42: 1609814412993003376
+      Rolling_420: -7523017590392323603
+      Rolling_421: -6449204522197467310
+      Rolling_422: -3593312338556174979
+      Rolling_423: -3276134805115725233
+      Rolling_424: -3636361153025933756
+      Rolling_425: 4860192556223830488
+      Rolling_426: -7800846631342355187
+      Rolling_427: 620195118710784869
+      Rolling_428: -4373318852608880200
+      Rolling_429: 6037669877645683079
+      Rolling_43: 3933538405451958680
+      Rolling_430: 8477425290449542444
+      Rolling_431: -4520578194717951402
+      Rolling_432: 5457605027458007254
+      Rolling_433: 4386772951462802053
+      Rolling_434: -7575420068914346841
+      Rolling_435: 146339990176057570
+      Rolling_436: 2873396225999835011
+      Rolling_437: -2586602675823870916
+      Rolling_438: -6077135428852882990
+      Rolling_439: -7478195589426833864
+      Rolling_44: -2665057764293156699
+      Rolling_440: -5838046956276547229
+      Rolling_441: 6519859563278160131
+      Rolling_442: 2169626721333029969
+      Rolling_443: -3018301183717416761
+      Rolling_444: 5698079405177693180
+      Rolling_445: 113860918171634792
+      Rolling_446: 8122981571059790678
+      Rolling_447: 188283303870680266
+      Rolling_448: -2986178059427871466
+      Rolling_449: -3032826897073151883
+      Rolling_45: 5600717533600887793
+      Rolling_450: 381996366176898017
+      Rolling_451: -2947474104381931672
+      Rolling_452: -6682256961583684166
+      Rolling_453: 344128268650055206
+      Rolling_454: -2521512455904092412
+      Rolling_455: 8990677276990363226
+      Rolling_456: -7870878689297686523
+      Rolling_457: -7941439344408668008
+      Rolling_458: -8711510323473227643
+      Rolling_459: -723133266962124141
+      Rolling_46: -8660378509679933936
+      Rolling_460: 5129199179175018603
+      Rolling_461: -1379713791449777382
+      Rolling_462: 1906853895082220518
+      Rolling_463: 3270488864159381696
+      Rolling_464: -2329280897396663894
+      Rolling_465: 8568172035790927312
+      Rolling_466: -6356336896175612226
+      Rolling_467: 7908399970844859904
+      Rolling_468: -5647155248302656289
+      Rolling_469: 441466258209116069
+      Rolling_47: -9030467325143899723
+      Rolling_470: -4340207581787791829
+      Rolling_471: 3099316865652567857
+      Rolling_472: 3012796747298746659
+      Rolling_473: -3373258589406291738
+      Rolling_474: -747881365903878614
+      Rolling_475: -2913548821387557660
+      Rolling_476: 3925914775895004160
+      Rolling_477: -6099664729184658274
+      Rolling_478: -5190154103852793267
+      Rolling_479: 1500425129938540553
+      Rolling_48: 2906412196581271604
+      Rolling_480: 3796465062707683958
+      Rolling_481: -7686578150307557249
+      Rolling_482: -572663019038422757
+      Rolling_483: -2151156472908055653
+      Rolling_484: -7156623607357928434
+      Rolling_485: -3110921975001124720
+      Rolling_486: -7938369188991533891
+      Rolling_487: -3843547360772599654
+      Rolling_488: -2966185411846393105
+      Rolling_489: 1426491512378189433
+      Rolling_49: -7000535951860378958
+      Rolling_490: -8256997514383806841
+      Rolling_491: 1624039036196328906
+      Rolling_492: -5202875909544804684
+      Rolling_493: 4594166030591259493
+      Rolling_494: -403360404461318964
+      Rolling_495: -5848638791329854630
+      Rolling_496: 8724761036079766322
+      Rolling_497: -4127416394686620249
+      Rolling_498: -6557490328589829050
+      Rolling_499: -2591870413993227711
+      Rolling_4_0: 6992968081229214734
+      Rolling_4_1: -5553089230041251707
+      Rolling_4_10: -7338470981830817987
+      Rolling_4_11: -4246004724529612486
+      Rolling_4_12: -7794398818412830789
+      Rolling_4_13: 1026582182664431627
+      Rolling_4_14: -5711442852770014347
+      Rolling_4_2: 2599892951602128900
+      Rolling_4_3: 5760369728032938115
+      Rolling_4_4: -4689381101684241111
+      Rolling_4_5: 4003303183690521681
+      Rolling_4_6: 761748754819046172
+      Rolling_4_7: 1137592015304058368
+      Rolling_4_8: -6611273259291785160
+      Rolling_4_9: 3408940313829598459
+      Rolling_5: 728715001442487571
+      Rolling_50: 758922236981511725
+      Rolling_500: -2310390301325250084
+      Rolling_501: -156580244512705079
+      Rolling_502: 6446789934282240909
+      Rolling_503: -8509813827265606517
+      Rolling_504: 3679562910104899860
+      Rolling_505: -2663065479176968702
+      Rolling_506: 5175130629687689149
+      Rolling_507: 2300514967548701208
+      Rolling_508: 6614489203243043629
+      Rolling_509: 2063865236857806458
+      Rolling_51: -6516722965493692525
+      Rolling_510: -2044497099882880568
+      Rolling_511: -7250567366374295189
+      Rolling_512: 4132250395982112851
+      Rolling_513: -6693072585093175309
+      Rolling_514: 7800114188460710517
+      Rolling_515: -6677743025302702990
+      Rolling_516: 8698677373954596959
+      Rolling_517: -8639945130687822451
+      Rolling_518: 7174807872669808085
+      Rolling_519: 6040463427343053036
+      Rolling_52: -3683232598795785349
+      Rolling_520: 3907822889385820117
+      Rolling_521: -5778348546191851222
+      Rolling_522: 258260469218757820
+      Rolling_523: 3783123991167818037
+      Rolling_524: 4103728213108966841
+      Rolling_525: 7992201236407465299
+      Rolling_526: 5496060037108214704
+      Rolling_527: 6463387985183215738
+      Rolling_528: 6439096257420092426
+      Rolling_529: -1439743930436103013
+      Rolling_53: 1181561205293985063
+      Rolling_530: 433902922049321583
+      Rolling_531: -1654326887044705853
+      Rolling_532: -407722433041190854
+      Rolling_533: 3538244494974707225
+      Rolling_534: 5194632068915560941
+      Rolling_535: -4129202386717377261
+      Rolling_536: 5726770835151657757
+      Rolling_537: 7213334419616129826
+      Rolling_538: -1998158271662529727
+      Rolling_539: 3928817334709439263
+      Rolling_54: 3899859757184746102
+      Rolling_540: 5052233980388045391
+      Rolling_541: -2130916761114816221
+      Rolling_542: -8611246622868180668
+      Rolling_543: -3581057317807179958
+      Rolling_544: -3193765511760218719
+      Rolling_545: 1048464090168854337
+      Rolling_546: 712875530573071896
+      Rolling_547: -625081914990851984
+      Rolling_548: 2373909977025338716
+      Rolling_549: -7075323344532810283
+      Rolling_55: -3648406466075014309
+      Rolling_550: -7423097977782639031
+      Rolling_551: 2917661828130959717
+      Rolling_552: -7599562355131532175
+      Rolling_553: -868401434648692249
+      Rolling_554: -7627661817670834903
+      Rolling_555: -1781052568652621727
+      Rolling_556: -707497212199497726
+      Rolling_557: 7767537666763712044
+      Rolling_558: 1209435860429717731
+      Rolling_559: -8306969862845813146
+      Rolling_56: 2524657013531705344
+      Rolling_560: -6379296931302262125
+      Rolling_561: -943834388072110307
+      Rolling_562: 3375235029772360747
+      Rolling_563: 642420181477667679
+      Rolling_564: -1884556848849262160
+      Rolling_565: 343116331024678841
+      Rolling_566: 4127100216143730987
+      Rolling_567: 4255865035637042772
+      Rolling_568: -2780303153015922379
+      Rolling_569: -1431771808422519576
+      Rolling_57: -6776205924539865516
+      Rolling_570: -8305447402115119810
+      Rolling_571: 7115874280064884168
+      Rolling_572: -6374658836659860041
+      Rolling_573: -8875994109494774102
+      Rolling_574: -4808549531597119690
+      Rolling_575: -4281155031587791841
+      Rolling_576: -6708070909054877842
+      Rolling_577: -4028644397955772044
+      Rolling_578: -47844672706935513
+      Rolling_579: 4006180902208143080
+      Rolling_58: -6940007566986112309
+      Rolling_580: 4351508604201129740
+      Rolling_581: -1396873343165465056
+      Rolling_582: 3926463350733645456
+      Rolling_583: -4507615557301306534
+      Rolling_584: -5257758527376300462
+      Rolling_585: -7206378235789273575
+      Rolling_586: 3697780998969196274
+      Rolling_587: 7402384138425932803
+      Rolling_588: 7097607538964717770
+      Rolling_589: 9110107582894271591
+      Rolling_59: -7653998927355830740
+      Rolling_590: 7911894508830685452
+      Rolling_591: -6408432426662216855
+      Rolling_592: 1244352744109962619
+      Rolling_593: -1350559979479586945
+      Rolling_594: 5742056026053666546
+      Rolling_595: -2902887605640834792
+      Rolling_596: 2429400595090343447
+      Rolling_597: -3992060479032608760
+      Rolling_598: -567581574191820430
+      Rolling_599: 7188607255906130446
+      Rolling_5_0: 4033610940563840063
+      Rolling_5_1: -7860940974231130
+      Rolling_5_10: 6534049792209614245
+      Rolling_5_11: -8445338582819058296
+      Rolling_5_12: -1009419483842111031
+      Rolling_5_13: 6783847098255306408
+      Rolling_5_14: 1739427915829608105
+      Rolling_5_2: -5021264570033976276
+      Rolling_5_3: -8916489446179060079
+      Rolling_5_4: -9222903917832315750
+      Rolling_5_5: 7887996526832421927
+      Rolling_5_6: -9035010115441700608
+      Rolling_5_7: 326124303557005087
+      Rolling_5_8: 7759713592503527676
+      Rolling_5_9: 3723527330969469932
+      Rolling_6: 291541445017753677
+      Rolling_60: 8759141229120327801
+      Rolling_600: -3990428643748986659
+      Rolling_601: 347760986074299992
+      Rolling_602: 5222537536753110898
+      Rolling_603: -8503812464563445712
+      Rolling_604: 5955083351245492048
+      Rolling_605: 2268741352063426052
+      Rolling_606: -7507368258964578792
+      Rolling_607: -5915724003390319758
+      Rolling_608: -8746377105267537500
+      Rolling_609: -7440656676782639591
+      Rolling_61: 7740280908263215084
+      Rolling_610: -8118677500925877198
+      Rolling_611: -6198976505115079485
+      Rolling_612: 8991702897536215059
+      Rolling_613: 649885189136536876
+      Rolling_614: 6509584322276414647
+      Rolling_615: -7316269358787549304
+      Rolling_616: -8613885620408439403
+      Rolling_62: -502619275545543277
+      Rolling_63: -2652226153421337652
+      Rolling_64: 5324979804886236056
+      Rolling_65: -8282358645968371408
+      Rolling_66: -1615176529134483066
+      Rolling_67: -1142959332749993926
+      Rolling_68: -1989185630189250508
+      Rolling_69: 8388172391979271229
+      Rolling_6_0: -2423114069687728923
+      Rolling_6_1: 7552156969346778932
+      Rolling_6_10: -8068371509818926684
+      Rolling_6_11: 9167832496244927069
+      Rolling_6_12: 4905992264693799173
+      Rolling_6_13: -3766768246784805850
+      Rolling_6_14: -5130673060938275092
+      Rolling_6_2: -1216445642931878189
+      Rolling_6_3: -2375490739361493846
+      Rolling_6_4: 1533993381822578331
+      Rolling_6_5: -3737633416597829186
+      Rolling_6_6: -6809248631911981694
+      Rolling_6_7: 2517533602122106794
+      Rolling_6_8: -6740751691397012733
+      Rolling_6_9: 8595900947256227313
+      Rolling_7: 1937895615618567686
+      Rolling_70: 1104111104649185655
+      Rolling_71: -5935708931907726445
+      Rolling_72: -1818574782003066817
+      Rolling_73: 6059992907303253009
+      Rolling_74: 1215745877261652920
+      Rolling_75: 1306555310440098318
+      Rolling_76: -8080382261389840683
+      Rolling_77: 8834927114044307074
+      Rolling_78: -2530657752476927257
+      Rolling_79: 4820238423674081485
+      Rolling_7_0: 807016009152791370
+      Rolling_7_1: 2350539471972077826
+      Rolling_7_10: -4584677211721576270
+      Rolling_7_11: 2890741414071836420
+      Rolling_7_12: 1503190360184888399
+      Rolling_7_13: 2344915809453993965
+      Rolling_7_14: -7239585866169005741
+      Rolling_7_2: 2639313508499655999
+      Rolling_7_3: -3107608514266444745
+      Rolling_7_4: 957835198055945895
+      Rolling_7_5: -7770940883337904396
+      Rolling_7_6: -8742181525528910664
+      Rolling_7_7: -3483881742666755007
+      Rolling_7_8: -718694764550907997
+      Rolling_7_9: -5607615248640261966
+      Rolling_8: -1433437805159334051
+      Rolling_80: 5101252141168105250
+      Rolling_81: -5543374459095579176
+      Rolling_82: -541360995759847636
+      Rolling_83: 8239716202594262453
+      Rolling_84: -4143624310779172742
+      Rolling_85: -7867713624070767478
+      Rolling_86: 6387915715801867788
+      Rolling_87: -5330922761748585737
+      Rolling_88: 5350355241731927647
+      Rolling_89: 7799904081071900481
+      Rolling_9: -3078519299960756994
+      Rolling_90: -7057504848332350123
+      Rolling_91: 8642428194618562127
+      Rolling_92: 217461914065587976
+      Rolling_93: 1942358655905831159
+      Rolling_94: 800906846467984021
+      Rolling_95: 7011214622729940093
+      Rolling_96: -1179619683738072532
+      Rolling_97: 5428623152436685557
+      Rolling_98: 3022395684332593104
+      Rolling_99: -6580051962387241302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
