@@ -69,7 +69,12 @@ namespace RyanBH.Progression.Stats
                 return true;
             }
         }
-        
+
         #endregion
+
+        private void OnEnable()
+        {
+            leftValue = -100;
+        }
     }
 }

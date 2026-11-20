@@ -1,3 +1,5 @@
+using RyanBH.Progression.Stats;
+using System.Linq;
 using UnityEngine;
 
 namespace RyanBH.Progression.Manager
@@ -9,19 +11,12 @@ namespace RyanBH.Progression.Manager
     {
         #region Variables
         
-        private LevelBar.PlayerLevelBar levelMeter = new(-1, -1, -1);
-        
-        #region Basic Stats: Replace with your own.
-
-        private Stats.Stat shenanigansStat;
-        private Stats.Stat tomfooleryStat;
-        private Stats.Stat entertainmentStat;
-        private Stats.Stat mischiefStat;
-        
-        #endregion
-
-        // Replace with your own resource Stat(s).
-        private Stats.ResourceStat anticsStat;
+        /// <summary> This is the player's level bar </summary>
+        [SerializeField] private LevelBar.PlayerLevelBar levelMeter;
+        /// <summary> This array holds all the stats you want to use. </summary>
+        [SerializeField] private Stat[] statsList;
+        /// <summary> This array holds all the Resource Stats. </summary>
+        [SerializeField] private ResourceStat[] resourceStatsList;
         
         #endregion
 
@@ -30,14 +25,18 @@ namespace RyanBH.Progression.Manager
         /// </summary>
         private void CalculateAllStats()
         {
-            // Replace with the CalculateCurrentValue() of your stats.
-            shenanigansStat.CalculateCurrentValue(levelMeter.GetLevel());
-            tomfooleryStat.CalculateCurrentValue(levelMeter.GetLevel());
-            entertainmentStat.CalculateCurrentValue(levelMeter.GetLevel());
-            mischiefStat.CalculateCurrentValue(levelMeter.GetLevel());
-            anticsStat.CalculateCurrentValue(levelMeter.GetLevel());
+            // This for loop goes through each stat in the list (including resources) and calculates them at that certain level
+            for (int i = 0; i < statsList.Length; i++)
+            {
+                statsList[i].CalculateCurrentValue(levelMeter.GetLevel());
+            }
+            // This is the same but for resource stats and it fully restores each resource Stat.
+            for (int i = 0; i < resourceStatsList.Length; i++)
+            {
+                resourceStatsList[i].CalculateCurrentValue(levelMeter.GetLevel());
+                resourceStatsList[i].FullyRestoreResource();
+            }
         }
-
 
         #region Unity Functions
 
@@ -46,7 +45,6 @@ namespace RyanBH.Progression.Manager
         {
             levelMeter.ResetLevelUpBar(30);
             CalculateAllStats();
-            anticsStat.FullyRestoreResource();
         }
         #endregion
     }

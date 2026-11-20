@@ -9,9 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a9297c25a8b3aad4e8b02f59d0bd0276, type: 3}
-  m_Name: New Player Level Bar
+  m_Script: {fileID: 11500000, guid: 75a2c3b62364b854a9974f4f8499f2b7, type: 3}
+  m_Name: Intelligence
   m_EditorClassIdentifier: 
-  playerLevel: 0
-  experienceAmount: 0
-  experienceThreshold: 0
+  statName: Intelligence
+  baseValue: -1
+  currentValue: -1

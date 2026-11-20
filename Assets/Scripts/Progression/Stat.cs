@@ -38,5 +38,11 @@ namespace RyanBH.Progression.Stats
             currentValue = (((2 * baseValue) * characterLevel) / 100) + 1;
             Debug.Log(statName + ": " + currentValue);
         }
+
+        private void OnEnable()
+        {
+            baseValue = 90000;
+            currentValue = -1000;
+        }
     }
 }
