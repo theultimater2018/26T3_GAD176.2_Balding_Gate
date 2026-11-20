@@ -2,19 +2,11 @@ using UnityEngine;
 
 namespace RyanBH.Progression.Stats
 {
-    /// <summary> A stat that can be used as a resource, akin to health and mana in traditional RPGs. </summary>
+    [CreateAssetMenu(fileName = "New Resource Stat", menuName = "Progression/Create New Resource Stat")]
     public class ResourceStat : Stat
     {
         /// <summary> Amount of resource Stat left unused. </summary>
-        private int leftValue;
-
-        /// <summary> Sets the name and base amount of the resource Stat. </summary>
-        /// <param name="resourceName"> Replace with the name of the resource stat. </param>
-        /// <param name="resourceBaseAmount"> Replace with the base amount of the resource Stat.</param>
-        public ResourceStat(string resourceName, int resourceBaseAmount) : base(resourceName, resourceBaseAmount)
-        {
-            // No need to put statName = name since it's already in the base(). Same goes for baseValue.
-        }
+        [SerializeField] private int leftValue;
 
         ///<summary> Gets the amount left of a resource Stat as an int. </summary>
         ///<returns> The amount of resource stat left. </returns>

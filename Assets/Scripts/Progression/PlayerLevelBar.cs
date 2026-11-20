@@ -2,16 +2,16 @@ using UnityEngine;
 
 namespace RyanBH.Progression.LevelBar
 {
-    /// <summary> Contains all the variables and functions concerning the player's level bar. </summary>
-    public class PlayerLevelBar
+    [CreateAssetMenu(fileName = "New Player Level Bar", menuName = "Progression/Create New Player Level Bar")]
+    public class PlayerLevelBar : ScriptableObject
     {
         
         /// <summary> The current level. </summary>
-        private int playerLevel;
+        [SerializeField] private int playerLevel;
         /// <summary> The current XP amount. </summary>
-        private int experienceAmount;
+        [SerializeField] private int experienceAmount;
         /// <summary> The threshold to level up to the next level. </summary>
-        private int experienceThreshold;
+        [SerializeField] private int experienceThreshold;
 
         /// <summary> Create a level bar with a level, xp amount and threshold for it. The 3 parameters are for debugging purposes if you will be using ResetLevelUpBar(). </summary>
         ///<param name="lvLevel"> Replace with the level you want to set it at. </param>

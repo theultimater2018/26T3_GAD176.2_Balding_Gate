@@ -13,15 +13,15 @@ namespace RyanBH.Progression.Manager
         
         #region Basic Stats: Replace with your own.
 
-        private Stats.Stat shenanigansStat = new("Shenanigans", 100);
-        private Stats.Stat tomfooleryStat = new("Tomfoolery", 90);
-        private Stats.Stat entertainmentStat = new("Entertainment", 120);
-        private Stats.Stat mischiefStat = new("Mischief", 50);
+        private Stats.Stat shenanigansStat;
+        private Stats.Stat tomfooleryStat;
+        private Stats.Stat entertainmentStat;
+        private Stats.Stat mischiefStat;
         
         #endregion
 
         // Replace with your own resource Stat(s).
-        private Stats.ResourceStat anticsStat = new("Antics", 100);
+        private Stats.ResourceStat anticsStat;
         
         #endregion
 

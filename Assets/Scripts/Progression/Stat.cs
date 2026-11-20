@@ -2,21 +2,12 @@ using UnityEngine;
 
 namespace RyanBH.Progression.Stats
 {
-    /// <summary> Contains all variables and functions relating to a stat. </summary>
-    public class Stat
+    [CreateAssetMenu(fileName = "New Stat", menuName = "Progression/Create New Stat")]
+    public class Stat : ScriptableObject
     {
-        protected string statName;
-        protected int baseValue;
-        protected int currentValue;
-
-        /// <summary> Sets the name and base amount of a stat. </summary>
-        /// <param name="name">Replace with the name of the stat.</param>
-        /// <param name="baseAmount">Replace with the base amount of the stat.</param>
-        public Stat(string name, int baseAmount)
-        {
-            statName = name;
-            baseValue = baseAmount;
-        }
+        [SerializeField] protected string statName;
+        [SerializeField] protected int baseValue;
+        [SerializeField] protected int currentValue;
 
         #region Get the variables
 
