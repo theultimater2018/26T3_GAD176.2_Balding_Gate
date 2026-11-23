@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Floor
+    uniqueID: 2480149935
+    locked: 0
+  - name: Walls
+    uniqueID: 2598545969
+    locked: 0
+  - name: Stairs
+    uniqueID: 3759897693
+    locked: 0
+  - name: Player
+    uniqueID: 1392353991
+    locked: 0
+  - name: Archways
+    uniqueID: 3953683631
+    locked: 0
+  m_RenderingLayers:
+  - Default
