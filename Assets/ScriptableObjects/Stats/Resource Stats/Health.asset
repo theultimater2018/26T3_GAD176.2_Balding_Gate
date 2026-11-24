@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Health
   m_EditorClassIdentifier: 
   statName: Health
-  baseValue: -1
-  currentValue: -1
-  leftValue: -1
+  baseValue: 0
+  currentValue: 0
+  leftValue: 0

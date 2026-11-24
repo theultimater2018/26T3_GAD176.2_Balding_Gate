@@ -1,5 +1,4 @@
 using RyanBH.Progression.Stats;
-using System.Linq;
 using UnityEngine;
 
 namespace RyanBH.Progression.Manager

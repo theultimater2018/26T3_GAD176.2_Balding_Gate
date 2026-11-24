@@ -71,10 +71,5 @@ namespace RyanBH.Progression.Stats
         }
 
         #endregion
-
-        private void OnEnable()
-        {
-            leftValue = -100;
-        }
     }
 }

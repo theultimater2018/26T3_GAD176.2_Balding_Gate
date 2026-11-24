@@ -8,6 +8,8 @@ namespace RyanBH.Progression.Stats
         [SerializeField] protected string statName;
         [SerializeField] protected int baseValue;
         [SerializeField] protected int currentValue;
+        /// <summary> This value will be updated based on the Character Customizer </summary>
+        [SerializeField] protected int assignedValue;
 
         #region Get the variables
 
@@ -38,11 +40,20 @@ namespace RyanBH.Progression.Stats
             currentValue = (((2 * baseValue) * characterLevel) / 100) + 1;
             Debug.Log(statName + ": " + currentValue);
         }
-
-        private void OnEnable()
+        
+        /// <summary> After character creation, call this function to set the base values for the stats. </summary>
+        public void CalculateBaseValue()
         {
-            baseValue = 90000;
-            currentValue = -1000;
+            baseValue = (assignedValue * 10) / 2;
+            Debug.Log(statName + "'s base value is " + baseValue);
+        }
+
+        /// <summary> Call this function to reset the stat to its base value. </summary>
+        public void ResetStat()
+        {
+            assignedValue = 0;
+            baseValue = 0;
+            currentValue = 0;
         }
     }
 }
