@@ -1,5 +1,6 @@
 using RyanBH.Progression.Stats;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 namespace RyanBH.Progression.Manager
 {
@@ -43,7 +44,29 @@ namespace RyanBH.Progression.Manager
         private void Start()
         {
             levelMeter.ResetLevelUpBar(30);
-            CalculateAllStats();
+        }
+        
+        /// <summary> Assigns the AssignValue to the stat of that index. </summary>
+        /// <param name="statIndex"> Index of the stat you want to assign the value of</param>
+        /// <param name="valueAssigned"> value</param>
+        private void AssignValuetoStat(int statIndex, int valueAssigned)
+        {
+            statsList[statIndex].AssignValue(valueAssigned);
+            Debug.Log(valueAssigned + " was assigned to " + statsList[statIndex].GetStatName());
+            statsList[statIndex].CalculateCurrentValue(levelMeter.GetLevel());
+        }
+
+        private void Update()
+        {
+            if (Keyboard.current.aKey.wasPressedThisFrame)
+            {
+                AssignValuetoStat(1, 10);
+            }
+            if (Keyboard.current.spaceKey.wasPressedThisFrame)
+            {
+                levelMeter.GainExperience(10);
+                levelMeter.LevelUpCheck();
+            }
         }
         #endregion
     }

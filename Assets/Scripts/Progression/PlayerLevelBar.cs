@@ -13,17 +13,6 @@ namespace RyanBH.Progression.LevelBar
         /// <summary> The threshold to level up to the next level. </summary>
         [SerializeField] private int experienceThreshold;
 
-        /// <summary> Create a level bar with a level, xp amount and threshold for it. The 3 parameters are for debugging purposes if you will be using ResetLevelUpBar(). </summary>
-        ///<param name="lvLevel"> Replace with the level you want to set it at. </param>
-        ///<param name="lvThreshold"> Replace with the threshold to the next level.</param>
-        ///<param name="lvXpAmount"> Replace with the current amount of XP. </param>
-        public PlayerLevelBar(int lvLevel,int lvXpAmount, int lvThreshold)
-        {
-            playerLevel = lvLevel;
-            experienceAmount = lvXpAmount;
-            experienceThreshold = lvThreshold;
-        }
-
         #region Getting the variables
 
         /// <summary> Returns the current Level. </summary>

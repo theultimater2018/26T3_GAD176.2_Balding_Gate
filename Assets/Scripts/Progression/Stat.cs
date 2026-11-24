@@ -33,6 +33,14 @@ namespace RyanBH.Progression.Stats
         
         #endregion
 
+        /// <summary> Call this function to assign the assignValue and CalculateBaseValue() </summary>
+        /// <param name="amountAssigned"> The amount you want to assign to the stat. </param>
+        public void AssignValue(int amountAssigned)
+        {
+            assignedValue = amountAssigned;
+            CalculateBaseValue();
+        }
+
         /// <summary> Calculate the current value of the stat. </summary>
         /// <param name="characterLevel"> Replace with the level bar's GetLevel()</param>
         public void CalculateCurrentValue(int characterLevel)
@@ -44,7 +52,7 @@ namespace RyanBH.Progression.Stats
         /// <summary> After character creation, call this function to set the base values for the stats. </summary>
         public void CalculateBaseValue()
         {
-            baseValue = (assignedValue * 10) / 2;
+            baseValue = assignedValue * 50;
             Debug.Log(statName + "'s base value is " + baseValue);
         }
 

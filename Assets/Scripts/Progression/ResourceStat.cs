@@ -56,7 +56,7 @@ namespace RyanBH.Progression.Stats
         /// <summary> Use this to check if you can use the resource stat or not. </summary>
         /// <returns> False if (leftValue - amount) is less than zero. </returns>
         /// <param name="amount"> Amount to be subtracted by leftValue. </param>
-        private bool ResourceCheck(int amount)
+        private bool ResourceCheck(int amount)  
         {
             if (leftValue - amount < 0)
             {
