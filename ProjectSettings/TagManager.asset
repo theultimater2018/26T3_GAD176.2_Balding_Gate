@@ -44,11 +44,17 @@ TagManager:
   - name: Floor
     uniqueID: 2480149935
     locked: 0
+  - name: GroundDecor
+    uniqueID: 816478715
+    locked: 0
   - name: Walls
     uniqueID: 2598545969
     locked: 0
   - name: Stairs
     uniqueID: 3759897693
+    locked: 0
+  - name: Pool
+    uniqueID: 2248069881
     locked: 0
   - name: Player
     uniqueID: 1392353991
