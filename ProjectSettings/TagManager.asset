@@ -62,5 +62,8 @@ TagManager:
   - name: Archways
     uniqueID: 3953683631
     locked: 0
+  - name: UI
+    uniqueID: 991246559
+    locked: 0
   m_RenderingLayers:
   - Default
