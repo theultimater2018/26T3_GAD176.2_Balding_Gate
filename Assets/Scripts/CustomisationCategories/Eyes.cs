@@ -2,9 +2,10 @@ using TMPro;
 using UnityEditor.Search;
 using UnityEngine;
 using UnityEngine.UI;
-namespace SAE.GAD176.CharacterCustomizer.CustomisationOptions
+
+namespace SAE.GAD176.BaldingGate.CharacterCustomiser
 {
-    public class Eyes : HairEyeColourManager, ICustomizerFunctions
+    public class Eyes : HairEyeColourManager, ICustomizerFunctions // Was formerly "Eyes" Script
     {
         //[SerializeField] private Noses noseScript; Removed Dependency
         [SerializeField] private BodyType bodyScript;

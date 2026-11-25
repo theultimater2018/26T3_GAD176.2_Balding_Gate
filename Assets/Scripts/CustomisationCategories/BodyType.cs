@@ -6,7 +6,7 @@ using TMPro;
 /// Covers everything to do with the Body Type section of the character customiser, such as UI Logic and how it toggles the body type options accordingly.
 /// </summary>
 
-namespace SAE.GAD176.CharacterCustomizer.CustomisationOptions
+namespace SAE.GAD176.BaldingGate.CharacterCustomiser
 {
 
     public class BodyType : MonoBehaviour, ICustomizerFunctions

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace SAE.GAD176.CharacterCustomizer.CustomisationOptions
+namespace SAE.GAD176.BaldingGate.CharacterCustomiser
 {
     public interface ICustomizerFunctions
     {

@@ -2,7 +2,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace SAE.GAD176.CharacterCustomizer.CustomisationOptions
+namespace SAE.GAD176.BaldingGate.CharacterCustomiser
 {
     public class HairEyeColourManager : MonoBehaviour
     {

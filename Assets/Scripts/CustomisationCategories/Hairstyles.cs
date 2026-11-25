@@ -1,7 +1,7 @@
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
-namespace SAE.GAD176.CharacterCustomizer.CustomisationOptions
+namespace SAE.GAD176.BaldingGate.CharacterCustomiser
 {
     public class Hairstyles : HairEyeColourManager, ICustomizerFunctions
     {

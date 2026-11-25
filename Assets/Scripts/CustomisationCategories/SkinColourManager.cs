@@ -9,7 +9,7 @@ using UnityEngine.InputSystem;
 /// Materials used are assigned in the inspector accordingly.
 /// </summary>
 
-namespace SAE.GAD176.CharacterCustomizer.CustomisationOptions
+namespace SAE.GAD176.BaldingGate.CharacterCustomiser
 {
     public class SkinColourManager : BodyType
     {
