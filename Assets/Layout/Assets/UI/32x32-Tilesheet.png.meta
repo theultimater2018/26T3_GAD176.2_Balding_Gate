@@ -1825,10 +1825,10 @@ TextureImporter:
         x: 128
         y: 229
         width: 64
-        height: 19
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 11, y: 3, z: 9, w: 12}
       customData: 
       outline: []
       physicsShape: []
@@ -1880,6 +1880,28 @@ TextureImporter:
       bones: []
       spriteID: c8915482be2212f479a8bf78cb916395
       internalID: 277079888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 32x32-Tilesheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 23, z: 23, w: 23}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864b0c558a6c4444aad1ca1da3783dd0
+      internalID: 354274168
       vertices: []
       indices: 
       edges: []
@@ -1968,6 +1990,7 @@ TextureImporter:
       32x32-Tilesheet_7: 7434321578582838890
       32x32-Tilesheet_70: 644086749
       32x32-Tilesheet_71: 277079888
+      32x32-Tilesheet_72: 354274168
       32x32-Tilesheet_8: 477566060432752925
       32x32-Tilesheet_9: -3809253233554092125
   mipmapLimitGroupName: 
