@@ -944,8 +944,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "G.A.F Contributors: \n\n- Ryan Bou Harb \n- Savanah Gregory\n- Thomas
-    Emmanuelidis"
+  m_text: "G.A.F Contributors: \n\n- Ryan Bou Harb \n- Savvy Celzar\n- Thomas Emmanuelidis"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4cb936d1337c3ee45a8dab96344b946a, type: 2}
   m_sharedMaterial: {fileID: 9086067862753345895, guid: 4cb936d1337c3ee45a8dab96344b946a, type: 2}
