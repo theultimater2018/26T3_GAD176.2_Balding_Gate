@@ -15,8 +15,6 @@ namespace RyanBH.Progression.Manager
         [SerializeField] private LevelBar.PlayerLevelBar levelMeter;
         /// <summary> This array holds all the stats you want to use. </summary>
         [SerializeField] private Stat[] statsList;
-        /// <summary> This array holds all the Resource Stats. </summary>
-        [SerializeField] private ResourceStat[] resourceStatsList;
         
         #endregion
 
@@ -29,12 +27,12 @@ namespace RyanBH.Progression.Manager
             for (int i = 0; i < statsList.Length; i++)
             {
                 statsList[i].CalculateCurrentValue(levelMeter.GetLevel());
-            }
-            // This is the same but for resource stats and it fully restores each resource Stat.
-            for (int i = 0; i < resourceStatsList.Length; i++)
-            {
-                resourceStatsList[i].CalculateCurrentValue(levelMeter.GetLevel());
-                resourceStatsList[i].FullyRestoreResource();
+                if (statsList[i] is ResourceStat)
+                {
+                    ResourceStat resource;
+                    resource = (ResourceStat)statsList[i];
+                    resource.FullyRestoreResource();
+                }
             }
         }
 
@@ -68,6 +66,7 @@ namespace RyanBH.Progression.Manager
                 levelMeter.LevelUpCheck();
             }
         }
+
         #endregion
     }
 }

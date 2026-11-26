@@ -272,14 +272,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   levelMeter: {fileID: 11400000, guid: 670df33497e5cdb4c886a204e79ca727, type: 2}
   statsList:
+  - {fileID: 11400000, guid: c8fec1d6abdbdcd43aab1dd8cb9a1729, type: 2}
+  - {fileID: 11400000, guid: ceb0e0cd7aefaf34a94b815d89d2da18, type: 2}
   - {fileID: 11400000, guid: 5762d2104b7bd2b4abd91712a99679f2, type: 2}
   - {fileID: 11400000, guid: 3f4f9f59a68ff934fa95e0637b1619aa, type: 2}
   - {fileID: 11400000, guid: 018801ae191557f4e83fe8154a110824, type: 2}
   - {fileID: 11400000, guid: 758ab0b3ce8b7e24ca34bb15fd962b63, type: 2}
   - {fileID: 11400000, guid: f7e588928b6cd9d458f20e0f912c381c, type: 2}
-  resourceStatsList:
-  - {fileID: 11400000, guid: c8fec1d6abdbdcd43aab1dd8cb9a1729, type: 2}
-  - {fileID: 11400000, guid: ceb0e0cd7aefaf34a94b815d89d2da18, type: 2}
 --- !u!212 &321614517
 SpriteRenderer:
   m_ObjectHideFlags: 0
