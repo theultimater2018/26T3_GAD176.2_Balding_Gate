@@ -7,11 +7,13 @@ namespace QuestFramework
 {
     public class QuestFramework : MonoBehaviour
     {
-
+        
         public bool isPlayerTalkingToQuestGiver = false; // Checks if the player is currently in the collider for talking to the quest giver
         public bool hasQuestBeenAccepted = false; // Checks if the player has accepted the quest, by finisnhing the dialogue with the quest giver
         public bool hasQuestObjectiveBeenCompleted = false; // Checks if the player has completed the quest objective, by collecting the required items or completing the required task
         public bool hasQuestOnebeenHandedIn = false; // Checks if the player has handed in the quest, by finishing the dialogue with the quest giver after completing the quest objective to start the next quest
+        
+      
 
         public GameObject dialogueSpeakerTilte; // The title of the dialogue speaker, which is usually the quest giver or an NPC
         public GameObject UIInteractPrompt; // The UI prompt that appears when the player is in range of the quest giver or an NPC to interact with them, usuanlly a button prompt to press a key to interact with them (Space)
@@ -59,6 +61,20 @@ namespace QuestFramework
                 questInfoBox.SetActive(false);
                 isQuestInfoBoxActive = false;
             }
+        }
+
+        public void BoxesOn()
+        {
+            dialogueBox.SetActive(true);
+            dialogueSpeakerTilte.SetActive(true);
+
+
+        }
+
+        public void BoxesOff()
+        {
+            dialogueBox.SetActive(false);
+            dialogueSpeakerTilte.SetActive(false);
         }
     }
 }

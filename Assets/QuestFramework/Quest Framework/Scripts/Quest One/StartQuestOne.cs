@@ -49,8 +49,8 @@ namespace QuestFramework
                 hasQuestBeenAccepted = true;
 
                 dialogueText.text = "Ah! New recruit, hm yes i got something here for you.. *Rustles Through Papers* ";
-                dialogueSpeakerTilte.SetActive(true);
-                dialogueBox.SetActive(true);
+
+                BoxesOn();
                 questTargetPrompt.SetActive(true);
                 speech1finished = true;
             }
@@ -58,13 +58,15 @@ namespace QuestFramework
             else if (speech1finished == true && isPlayerTalkingToQuestGiver == true && isQuestOneOver == false)
             {
                 dialogueText.text = "Theres a smell coming from the south west training room, go figure it out ";
-                dialogueSpeakerTilte.SetActive(true);
+
+                BoxesOn();
             }
 
             if (isPlayerTalkingToQuestGiver == true && hasQuestBeenAccepted == true && isQuestOneOver == false)
             {
                 questObejctiveText.text = "Find the awful smell from the training room, located somwehere in the southwest of the castle";
-                dialogueSpeakerTilte.SetActive(true);
+
+                BoxesOn();
                 questTargetPrompt.SetActive(false);
             }
         }
@@ -75,11 +77,11 @@ namespace QuestFramework
             {
                 questTargetPrompt.SetActive(false);
                 dialogueText.text = "Dead bodies? Never seen em. Ill let the jaintor know, alright next.. ";
-                dialogueSpeakerTilte.SetActive(true);
+
+                BoxesOn();
                 completedQuestTitleBox.SetActive(true);
                 questTitleBox.SetActive(false);
                 isQuestOneOver = true;
-                dialogueBox.SetActive(true);
                 hasQuestOnebeenHandedIn = true;
             }
         }
@@ -102,8 +104,7 @@ namespace QuestFramework
             {
                 UIInteractPrompt.SetActive(false);
 
-                dialogueSpeakerTilte.SetActive(false);
-                dialogueBox.SetActive(false);
+                BoxesOff();
 
                 isPlayerTalkingToQuestGiver = false;
             }

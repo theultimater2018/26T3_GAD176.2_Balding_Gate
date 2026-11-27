@@ -53,6 +53,7 @@ namespace QuestFramework
                 dialogueText.text = "Well i found the smell.. they should really clean out the dead bodies, half of these have turned to dust and bone ";
                 hasQuestObjectiveBeenCompleted = true;
                 questObejctiveText.text = "inform the guard the cause of the smell ";
+
                 dialogueBox.SetActive(true);
                 UIInteractPrompt.SetActive(false);
                 questTargetPrompt.SetActive(false);
@@ -67,9 +68,8 @@ namespace QuestFramework
             {
                 UIInteractPrompt.SetActive(true);
                 questTargetPrompt.SetActive(false);
-               // dialogueSpeakerTilte.SetActive(false);
                 isPlayerAtTheBones = true;
-                dialogueBox.SetActive(false);
+                BoxesOff();
             }
 
             else if (collision.gameObject.CompareTag("Player"))
@@ -86,18 +86,16 @@ namespace QuestFramework
             {
                 UIInteractPrompt.SetActive(false);
                 questTargetPrompt.SetActive(false);
-               // dialogueSpeakerTilte.SetActive(false);
                 isPlayerAtTheBones = false;
-                dialogueBox.SetActive(false);
+                BoxesOff();
             }
 
             if (collision.gameObject.CompareTag("Player") && questOneScriptNPC.hasQuestBeenAccepted == true && hasQuestObjectiveBeenCompleted == false)
             {
                 UIInteractPrompt.SetActive(false);
                 questTargetPrompt.SetActive(true);
-              //  dialogueSpeakerTilte.SetActive(false);
                 isPlayerAtTheBones = false;
-                dialogueBox.SetActive(false);
+                BoxesOff();
             }
         }
     }
